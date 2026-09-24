@@ -79,6 +79,15 @@ a {
   color: var(--text);
 }
 
+.language-switch {
+  margin-bottom: 24px;
+}
+
+.language-switch a[aria-current="page"] {
+  color: var(--text);
+  font-weight: 700;
+}
+
 .hero,
 .page {
   width: min(1040px, calc(100% - 32px));
