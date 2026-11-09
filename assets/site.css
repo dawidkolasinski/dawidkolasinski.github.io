@@ -198,7 +198,7 @@ li {
   align-items: center;
   min-height: 44px;
   padding: 0 18px;
-  color: #ffffff;
+  color: var(--background);
   background: var(--accent-strong);
   border-radius: 8px;
   text-decoration: none;
