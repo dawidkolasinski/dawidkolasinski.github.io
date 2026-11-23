@@ -44,14 +44,18 @@ internal policy links to the active local language.
 
 The final catalog contains 52 explicit locale files. The following same-language
 regional variants share their reviewed base content: `en-AU/en-GB/en-IN → en`,
-`es-419/es-US → es`, `fr-CA → fr`, `pt-PT → pt-BR`, and `zh-HK → zh-Hant`.
+`es-419/es-US → es`, `fr-CA → fr`, and `zh-HK → zh-Hant`.
+Portuguese for Portugal has its own reviewed regional copy rather than being
+an unedited Brazilian-Portuguese alias.
 The finalizer records this relationship in `locale-sources.json` and each derived
 catalog. Unavailable translations never fall back silently to English.
 
 ## Local workflow
 
-Use a Python runtime with `python-docx` and `lxml`. This workspace uses the bundled
-runtime returned by Codex `load_workspace_dependencies`.
+Use a Python runtime with the dependencies in `legal/requirements.txt`.
+Create an ignored virtual environment with `python3 -m venv .venv` and install
+them using `.venv/bin/python -m pip install -r legal/requirements.txt`. This does
+not depend on a particular Codex installation or machine-local bundled runtime.
 
 1. Finish and review the source HTML changes before rebuilding the source index.
 2. Run `python legal/scripts/legal_localization.py build`.

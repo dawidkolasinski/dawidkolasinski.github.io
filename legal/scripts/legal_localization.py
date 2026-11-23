@@ -295,7 +295,7 @@ def canonical_pl(source,output=None):
                 else:text+=' Aktualna polityka Moonchucks jest publikowana na tej stronie i może być aktualizowana wraz ze zmianą zasad przetwarzania danych przez aplikację.'
                 variants[host]=text
             result['privacyHostingVariants'][doc_id]=variants
-    result['uiLabels']={'privacy':'Prywatność','terms':'Warunki','support':'Pomoc','legalNavigation':'Strony prawne','language':'Język','onThisPage':'Na tej stronie','documentSections':'Sekcje dokumentu','skipToContent':'Przejdź do treści','mainNavigation':'Nawigacja główna','footerNavigation':'Nawigacja w stopce','backToTop':'Powrót na górę'}
+    result['uiLabels']={'privacy':'Prywatność','terms':'Regulamin','support':'Pomoc','legalNavigation':'Dokumenty prawne','language':'Język','onThisPage':'Na tej stronie','documentSections':'Sekcje dokumentu','skipToContent':'Przejdź do treści','mainNavigation':'Nawigacja główna','footerNavigation':'Nawigacja w stopce','backToTop':'Powrót na górę'}
     result['translation']={'method':'existing-canonical-polish','reviewStatus':'source','published':False,'hostingAlternatives':'local-translation'}
     if output is not None:write_json(output,result)
     return result

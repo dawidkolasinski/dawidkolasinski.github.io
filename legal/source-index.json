@@ -293,27 +293,23 @@
   },
   "sourceFiles": {
     "privacy/index.html": "d72c394eedf498e49b64276a4747d4718a0834cdd9f583e3fa94f131d4aeb6d2",
-    "pl/privacy/index.html": "049b8db61e698d97b1976aceffe19cbeda5f79169e7dff700a429e93d5d311f8",
+    "pl/privacy/index.html": "64e9ec842f0eaa73e490b9e6467f2cb6f0d8f69192cbad3d0f5bb8e92a54b703",
     "terms/index.html": "43e501ce402526969a8cc010769c450b0d520b691d7bec2d77b5a65439990deb",
-    "pl/terms/index.html": "863ea3b573fdd5c065d0f1b28ced45baf6361edfe550f712050b89eef5eabb0e",
+    "pl/terms/index.html": "1a7cabd2d34d06b7fa9277d688e81dba27ebd7278a863f5c83e5ac49bfbc18d5",
     "moonchucks/privacy/index.html": "cea891b0039ead2c2dfbef3140bbafec51d0cc1dbb8877f8e3e62077b05bd0a2",
-    "moonchucks/pl/privacy/index.html": "28ac2226b22dfd4ea07d5721851c160c2768e06bbb9d290c0fcdec183142e3a6",
+    "moonchucks/pl/privacy/index.html": "63d4a6fe6ad944c011758185553735bc9f6bcd542744beada1ba5c800f07082d",
     "moonchucks/terms/index.html": "d80595d82b995e7afd1547e1e722fdcf80d6e811aec82278c0fcdb92eaee082c",
-    "moonchucks/pl/terms/index.html": "e356a6e54ad0083a5310c5ad1658c6ae948b9f1efefd1e0268999bc8c2e17b73"
+    "moonchucks/pl/terms/index.html": "825f20de69ee41f6c656c67c72bd99d304985de5a11ae3dadb73cda873640462"
   },
-  "sourceHash": "bd2c2f6d35958a0e87d2f3b25f9549e0cc16c4c50f24c4b8432e25be7e69bc57",
+  "sourceHash": "440fae9f365f0d50449b80affdf2b679bf62817966e7a9dc9aad582b6efe837a",
   "provenance": {
     "kind": "local-working-tree",
-    "gitHead": "e7cf069e05583b5dcea0fbe3586c07fe7dc813bf",
+    "gitHead": "1e3d25bf7f98efa516ba1e42fd93db37b5b683aa",
     "dirtySourceFiles": [
       " M moonchucks/pl/privacy/index.html",
       " M moonchucks/pl/terms/index.html",
-      " M moonchucks/privacy/index.html",
-      " M moonchucks/terms/index.html",
       " M pl/privacy/index.html",
-      " M pl/terms/index.html",
-      " M privacy/index.html",
-      " M terms/index.html"
+      " M pl/terms/index.html"
     ],
     "published": false
   },

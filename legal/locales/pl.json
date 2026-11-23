@@ -1,32 +1,32 @@
 {
   "schemaVersion": 1,
-  "sourceHash": "bd2c2f6d35958a0e87d2f3b25f9549e0cc16c4c50f24c4b8432e25be7e69bc57",
+  "sourceHash": "440fae9f365f0d50449b80affdf2b679bf62817966e7a9dc9aad582b6efe837a",
   "locale": "pl",
   "documents": {
     "sunchucks_privacy": {
       "title": "Polityka prywatności",
       "updatedLabel": "Obowiązuje od 30 września 2026 r. · Aktualizacja 23 listopada 2026 r.",
-      "footerHTML": "Copyright © Dawid Kolasiński. All rights reserved.",
+      "footerHTML": "Copyright © Dawid Kolasiński. Wszelkie prawa zastrzeżone.",
       "blocks": {
         "block-001": "Sunchucks jest aplikacją iOS udostępnianą przez Dawida Kolasińskiego. W sprawach prywatności napisz na <a href=\"mailto:sunchucks.support@gmail.com\">sunchucks.support@gmail.com</a>. Ta polityka opisuje również usługi zewnętrzne używane przez aplikację.",
         "block-002": "Dane i cele",
         "block-003": "<li><strong>Lokalizacja i pogoda.</strong> Za zgodą systemową aplikacja może użyć bieżącej lokalizacji. Możesz też ręcznie wybrać miejsce bez udzielania dostępu do lokalizacji. Wybrana lokalizacja służy do mapy, obliczeń słonecznych i prognozy. Współrzędne potrzebne do prognoz pogody są przesyłane do Apple WeatherKit. Mapy zachmurzenia i opadów korzystają z usług MET Norway/YR. Mapy bazowe i wyszukiwanie miejsc mogą korzystać z usług Apple. Wybrane miejsca i preferencje aplikacji są zapisywane na urządzeniu.</li>\n    <li><strong>Aparat i przypomnienia.</strong> Obraz z aparatu służy widokowi rozszerzonej rzeczywistości. Nie przesyłamy automatycznie klatek aparatu na własny serwer. Przypomnienia są obsługiwane przez system iOS zgodnie z udzielonym uprawnieniem.</li>\n    <li><strong>Statystyki i wydajność.</strong> Firebase Analytics oraz Firebase Performance Monitoring pomagają nam analizować korzystanie z aplikacji i poprawiać jej wydajność. Mogą przetwarzać zdarzenia użycia aplikacji, właściwości stanu aplikacji, dane urządzenia i systemu, metryki uruchomienia oraz żądań sieciowych. Firebase Performance może używać adresu IP do określenia przybliżonego regionu. Do własnych zdarzeń Analytics nie dodajemy współrzędnych, nazw miejsc, adresów e-mail ani treści użytkownika. W EOG, Wielkiej Brytanii i Szwajcarii sygnały zgody Google UMP mogą dodatkowo ograniczać zbieranie danych przez Analytics. Wybór dotyczący reklam jest dostępny osobno.</li>\n    <li><strong>Awaryjność.</strong> Firebase Crashlytics automatycznie otrzymuje raporty o awariach, ślady stosu, stan aplikacji i informacje o urządzeniu/systemie, aby pomagać naprawiać błędy. Nie dodajemy do raportów własnego identyfikatora użytkownika ani współrzędnych.</li>\n    <li><strong>Reklamy.</strong> Na ekranie głównym mogą pojawić się reklamy banerowe. Google AdMob oraz jego partnerzy mogą przetwarzać adres IP, identyfikatory urządzenia lub reklamowe dostępne zgodnie z uprawnieniami, interakcje z reklamą i dane diagnostyczne na potrzeby wyświetlania, pomiaru oraz zapobiegania nadużyciom. Aplikacja nie przekazuje wybranych współrzędnych do AdMob. Google User Messaging Platform zbiera wybór dotyczący reklam tam, gdzie jest wymagany. Odmowa śledzenia w systemie iOS nie blokuje reklam, lecz ogranicza użycie identyfikatora reklamowego i śledzenie między aplikacjami. Odmowa personalizacji może nadal pozwolić na reklamę niepersonalizowaną lub ograniczoną, zależnie od regionu i wyboru w komunikacie zgody. Aplikacja nie pobiera reklamy, jeśli Google UMP nie pozwala wysłać żądania; również przy dozwolonym żądaniu reklama może być niedostępna.</li>\n    <li><strong>Zakupy.</strong> Subskrypcje obsługuje Apple App Store przez StoreKit. Aplikacja otrzymuje stan uprawnień i transakcji potrzebny do odblokowania lub przywrócenia Premium; danych karty płatniczej nie otrzymujemy.</li>",
-        "block-004": "Usługi zewnętrzne i udostępnianie",
-        "block-005": "Dane trafiają do dostawców tylko w zakresie potrzebnym do opisanych funkcji: <a href=\"https://policies.google.com/privacy\">Google (AdMob, Firebase i UMP)</a>, <a href=\"https://www.apple.com/legal/privacy/\">Apple</a> oraz <a href=\"https://www.met.no/en/About-us/privacy\">MET Norway</a>. Dostawcy mogą przetwarzać dane w różnych krajach zgodnie ze swoimi zasadami. Udostępnianie danych w systemie reklamowym może być uznane za „sprzedaż” lub „udostępnianie” w rozumieniu przepisów niektórych stanów USA; odpowiedni użytkownicy mogą zgłosić sprzeciw przez wybory prywatności w aplikacji. Sunchucks nie wymaga konta w naszej usłudze i nie ma własnego serwera kont użytkowników.",
-        "block-006": "Przechowywanie i wybory",
-        "block-007": "Ustawienia oraz zapisane miejsca pozostają na urządzeniu do ich usunięcia lub odinstalowania aplikacji. Dane przetwarzane przez Google, Apple i MET Norway podlegają także okresom przechowywania tych dostawców; nie kontrolujemy wszystkich kopii po ich stronie. Uprawnienia lokalizacji, aparatu, powiadomień i śledzenia można zmienić w Ustawieniach iOS. Jeśli dla Twojego regionu wymagana jest ponowna decyzja dotycząca reklam, w ustawieniach Sunchucks dostępne są „Wybory prywatności”. Subskrypcjami zarządza się w ustawieniach konta Apple. Jeśli chcesz uzyskać informacje o swoich danych, skorygować je, sprzeciwić się przetwarzaniu lub poprosić o usunięcie danych, napisz na adres kontaktowy powyżej; odpowiemy w zakresie danych, które możemy zidentyfikować i kontrolować.",
+        "block-004": "Dostawcy i udostępnianie danych",
+        "block-005": "Dane trafiają do dostawców tylko w zakresie potrzebnym do opisanych funkcji: <a href=\"https://policies.google.com/privacy\">Google (AdMob, Firebase i UMP)</a>, <a href=\"https://www.apple.com/legal/privacy/\">Apple</a> oraz <a href=\"https://www.met.no/en/About-us/privacy\">MET Norway</a>. Dostawcy mogą przetwarzać dane w różnych krajach zgodnie ze swoimi zasadami. Przekazywanie danych w systemie reklamowym może być uznane za „sprzedaż” lub „udostępnianie” w rozumieniu przepisów niektórych stanów USA; uprawnieni użytkownicy mogą z tego zrezygnować przez ustawienia prywatności w aplikacji. Sunchucks nie wymaga konta w naszej usłudze i nie prowadzi własnego serwera kont użytkowników.",
+        "block-006": "Przechowywanie danych i Twoje wybory",
+        "block-007": "Ustawienia oraz zapisane miejsca pozostają na urządzeniu do ich usunięcia lub odinstalowania aplikacji. Dane przetwarzane przez Google, Apple i MET Norway podlegają także zasadom przechowywania tych dostawców, nad którymi nie mamy pełnej kontroli. Uprawnieniami dostępu do lokalizacji, aparatu, powiadomień i śledzenia możesz zarządzać w Ustawieniach iOS. Tam, gdzie wymaga tego Twój region, ustawienia prywatności reklam w Sunchucks pozwalają ponownie przejrzeć wybory dotyczące zgody na reklamy. Subskrypcjami zarządzasz w ustawieniach konta Apple. Napisz do nas, aby poprosić o dostęp do danych, ich poprawienie lub usunięcie albo zgłosić sprzeciw; odpowiemy w zakresie danych, które możemy zidentyfikować i kontrolować.",
         "block-008": "Zmiany",
         "block-009": "Aktualna wersja polityki jest publikowana na tej stronie. Samą stronę udostępnia GitHub Pages; <a href=\"https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement\">GitHub może przetwarzać dane odwiedzających</a>, takie jak adres IP, do obsługi serwisu."
       }
     },
     "sunchucks_terms": {
-      "title": "Warunki korzystania",
+      "title": "Regulamin",
       "updatedLabel": "Obowiązują od 24 września 2026 r. · Aktualizacja 23 listopada 2026 r.",
-      "footerHTML": "Copyright © Dawid Kolasiński. All rights reserved.",
+      "footerHTML": "Copyright © Dawid Kolasiński. Wszelkie prawa zastrzeżone.",
       "blocks": {
         "block-001": "Aplikacja Sunchucks jest udostępniana przez Dawida Kolasińskiego. Jeśli nie przedstawiono odrębnej umowy licencyjnej, korzystanie z aplikacji pobranej z App Store podlega <a href=\"https://www.apple.com/legal/internet-services/itunes/dev/stdeula/\">standardowej umowie licencyjnej Apple (EULA)</a> oraz obowiązującym przepisom.",
         "block-002": "Subskrypcje",
-        "block-003": "Sunchucks może oferować odnawialne subskrypcje Premium. Cena, czas trwania i warunki konkretnej oferty są pokazywane przed zakupem w aplikacji i w App Store. Zakupy, zarządzanie subskrypcją i zwroty obsługuje Apple. Usunięcie aplikacji nie anuluje aktywnej subskrypcji.",
+        "block-003": "Sunchucks może oferować automatycznie odnawiane subskrypcje Premium. Cena, czas trwania i warunki konkretnej oferty są pokazywane przed zakupem w aplikacji i w App Store. Zakupy, zarządzanie subskrypcją i zwroty obsługuje Apple. Usunięcie aplikacji nie anuluje aktywnej subskrypcji.",
         "block-004": "Kontakt",
         "block-005": "Pomoc i pytania: <a href=\"mailto:sunchucks.support@gmail.com\">sunchucks.support@gmail.com</a>. Zasady przetwarzania danych opisuje <a href=\"https://dawidkolasinski.github.io/pl/privacy/\">polityka prywatności</a>."
       }
@@ -39,14 +39,14 @@
         "block-001": "Moonchucks to aplikacja iOS udostępniana przez Dawida Kolasińskiego. W sprawach prywatności napisz na <a href=\"mailto:sunchucks.support@gmail.com\">sunchucks.support@gmail.com</a>, podając nazwę Moonchucks.",
         "block-002": "Lokalizacja i mapy",
         "block-003": "Za zgodą iOS Moonchucks może korzystać z bieżącej lokalizacji do planowania obserwacji Księżyca. Miejsce można również wybrać ręcznie. Zapisane miejsca i preferencje są przechowywane na urządzeniu. Współrzędne potrzebne do prognozy pogody są przekazywane MET Norway. Usługi Apple mogą przetwarzać zapytania dotyczące map i wyszukiwania miejsc.",
-        "block-004": "Aparat, ruch i powiadomienia",
+        "block-004": "Aparat, dane o ruchu i powiadomienia",
         "block-005": "Aparat i czujniki ruchu wspierają widok rozszerzonej rzeczywistości. Klatki z aparatu są przetwarzane na potrzeby tego widoku i nie są automatycznie przesyłane na prowadzony przez nas serwer. Uprawnienia systemowe kontrolują dostęp do aparatu, lokalizacji, zdjęć i powiadomień używanych przez wybierane funkcje.",
         "block-006": "Analityka i diagnostyka",
-        "block-007": "Moonchucks korzysta z Firebase Analytics, Performance Monitoring i Crashlytics. Google może przetwarzać zdarzenia użycia aplikacji, identyfikatory instalacji, informacje o urządzeniu i systemie, pomiary uruchamiania i połączeń sieciowych, raporty awarii i stosy wywołań. Performance Monitoring może wykorzystywać adresy IP do szacowania ogólnego regionu. Firebase Remote Config dostarcza konfigurację aplikacji. Usługi te pomagają rozumieć użycie aplikacji, konfigurować ją i diagnozować problemy.",
+        "block-007": "Moonchucks korzysta z Firebase Analytics, Performance Monitoring i Crashlytics. Google może przetwarzać zdarzenia użycia aplikacji, identyfikatory instalacji, informacje o urządzeniu i systemie, metryki uruchamiania aplikacji i wydajności połączeń sieciowych, raporty awarii i stosy wywołań. Performance Monitoring może wykorzystywać adresy IP do określenia przybliżonego regionu. Firebase Remote Config dostarcza konfigurację aplikacji. Usługi te pomagają nam analizować korzystanie z aplikacji, konfigurować ją i diagnozować problemy.",
         "block-008": "Informacje o niebie pobierane z internetu",
         "block-009": "Obrazy Księżyca i nocnych świateł są pobierane z usług NASA, a informacje o zorzy z NOAA. Dostawcy internetowi i ich usługi hostingowe mogą otrzymywać adresy IP i informacje o żądaniach podczas korzystania z tych funkcji. Wybrany obszar mapy określa pobierane zdjęcia.",
         "block-010": "Zakupy i wsparcie",
-        "block-011": "Apple obsługuje zakupy subskrypcji i dane płatnicze w App Store. Moonchucks otrzymuje informacje o transakcjach i uprawnieniach potrzebne do odblokowania lub przywrócenia Premium. Nie otrzymujemy danych kart płatniczych. Gdy kontaktujesz się ze wsparciem, otrzymujemy Twój adres e-mail i dobrowolnie przekazane informacje.",
+        "block-011": "Apple obsługuje zakupy subskrypcji i dane płatnicze w App Store. Moonchucks otrzymuje informacje o transakcjach i uprawnieniach potrzebne do odblokowania lub przywrócenia Premium. Nie otrzymujemy danych Twojej karty. Jeśli napiszesz e-mail do pomocy technicznej, otrzymamy Twój adres e-mail i informacje, które zdecydujesz się podać.",
         "block-012": "Reklamy i wybory dotyczące prywatności",
         "block-013": "Moonchucks korzysta z Google AdMob do wyświetlania baneru na ekranie głównym. Google może przetwarzać identyfikatory urządzenia, przybliżoną lokalizację ustaloną z adresu IP, wyświetlenia reklam i interakcje oraz dane diagnostyczne i wydajnościowe do obsługi i pomiaru reklam. Dostęp do identyfikatora reklamowego zależy od zgody na śledzenie w iOS.",
         "block-014": "Google User Messaging Platform obsługuje wymagane komunikaty dotyczące zgód. Gdy jest to wymagane, opcje prywatności reklam w Ustawieniach aplikacji pozwalają zmienić wybory. Zgodą na śledzenie zarządzasz w Ustawieniach iOS &gt; Prywatność i ochrona &gt; Śledzenie. Twoje wybory mogą wpływać na dostępność reklam.",
@@ -59,17 +59,17 @@
       }
     },
     "moonchucks_terms": {
-      "title": "Warunki korzystania",
+      "title": "Regulamin",
       "updatedLabel": "Aktualizacja: 23 listopada 2026 r.",
       "footerHTML": "Copyright © Dawid Kolasiński.",
       "blocks": {
         "block-001": "Moonchucks jest udostępniany przez Dawida Kolasińskiego. Jeśli nie przedstawiono odrębnej umowy licencyjnej, korzystanie z aplikacji pobranej z App Store podlega <a href=\"https://www.apple.com/legal/internet-services/itunes/dev/stdeula/\">standardowej umowie licencyjnej Apple (EULA)</a> oraz obowiązującym przepisom.",
         "block-002": "Subskrypcje",
-        "block-003": "Moonchucks oferuje opcjonalne, automatycznie odnawiane subskrypcje Premium. Cena, okres rozliczeniowy i ewentualna oferta wprowadzająca są pokazywane przed zakupem. Apple obsługuje zakupy, zarządzanie subskrypcjami i zwroty. Subskrypcję możesz zmienić lub anulować w ustawieniach subskrypcji konta Apple. Usunięcie aplikacji nie anuluje aktywnej subskrypcji. Do przywrócenia uprawnionego zakupu służy Przywróć zakupy na ekranie Premium.",
+        "block-003": "Moonchucks oferuje opcjonalne, automatycznie odnawiane subskrypcje Premium. Cena, okres rozliczeniowy i oferta powitalna, z której możesz skorzystać, są pokazywane przed zakupem. Apple obsługuje zakupy, zarządzanie subskrypcjami i zwroty. Subskrypcją możesz zarządzać lub ją anulować w ustawieniach subskrypcji konta Apple. Usunięcie aplikacji nie anuluje aktywnej subskrypcji. Aby przywrócić zakup, do którego masz prawo, wybierz „Przywróć zakupy” na ekranie Premium.",
         "block-004": "Reklamy",
         "block-005": "Moonchucks zawiera reklamy. Reklamy nie zawsze są dostępne.",
         "block-006": "Informacje do planowania",
-        "block-007": "Pozycje i wydarzenia księżycowe są obliczane dla wybranego miejsca, daty i czasu. Rzeczywista widoczność zależy również od pogody, terenu i widoku horyzontu. Informacje o zorzy NOAA są danymi modelowymi i nie gwarantują widocznej zorzy. Mapa nocnych świateł NASA przedstawia najnowsze dostępne zdjęcia satelitarne sztucznego oświetlenia nocnego NASA VIIRS NOAA-20 Black Marble. Brakujące dane w codziennych obrazach mogą być uzupełniane wcześniejszymi obserwacjami. Nie jest to pomiar jasności nieba na żywo ani klasyfikacja w skali Bortle&#x27;a.",
+        "block-007": "Położenie Księżyca i zjawiska księżycowe są obliczane dla wybranego miejsca, daty i godziny. Rzeczywista widoczność zależy również od pogody, terenu i widoku horyzontu. Informacje o zorzy NOAA są prognozą opartą na modelu i nie gwarantują widoczności zorzy. Mapa nocnych świateł NASA przedstawia najnowsze dostępne zdjęcia satelitarne sztucznego oświetlenia nocnego NASA VIIRS NOAA-20 Black Marble. Brakujące dane w codziennych obrazach mogą być uzupełniane wcześniejszymi obserwacjami. Nie jest to pomiar jasności nieba na żywo ani klasyfikacja w skali Bortle’a.",
         "block-008": "Kontakt",
         "block-009": "W sprawie pomocy napisz na <a href=\"mailto:sunchucks.support@gmail.com\">sunchucks.support@gmail.com</a>, podając nazwę Moonchucks. Zasady przetwarzania danych opisuje <a href=\"https://dawidkolasinski.github.io/moonchucks/pl/privacy/\">polityka prywatności</a>."
       }
@@ -77,9 +77,9 @@
   },
   "uiLabels": {
     "privacy": "Prywatność",
-    "terms": "Warunki",
+    "terms": "Regulamin",
     "support": "Pomoc",
-    "legalNavigation": "Strony prawne",
+    "legalNavigation": "Dokumenty prawne",
     "language": "Język",
     "onThisPage": "Na tej stronie",
     "documentSections": "Sekcje dokumentu",
