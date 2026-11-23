@@ -1,0 +1,118 @@
+{
+  "schemaVersion": 1,
+  "sourceHash": "bd2c2f6d35958a0e87d2f3b25f9549e0cc16c4c50f24c4b8432e25be7e69bc57",
+  "locale": "vi",
+  "documents": {
+    "sunchucks_privacy": {
+      "title": "Chính sách bảo mật",
+      "updatedLabel": "Có hiệu lực từ ngày 30 tháng 9 năm 2026 · Cập nhật ngày 23 tháng 11 năm 2026",
+      "footerHTML": "Bản quyền © Dawid Kolasiński. Mọi quyền được bảo lưu.",
+      "blocks": {
+        "block-001": "Sunchucks là một ứng dụng iOS được cung cấp bởi Dawid Kolasiński. Đối với các yêu cầu về quyền riêng tư, hãy liên hệ <a href=\"mailto:sunchucks.support@gmail.com\">sunchucks.support@gmail.com</a>.",
+        "block-002": "Dữ liệu và mục đích",
+        "block-004": "Nhà cung cấp và chia sẻ",
+        "block-005": "Dữ liệu chỉ được gửi đến nhà cung cấp khi cần cho các tính năng nêu trên: <a href=\"https://policies.google.com/privacy\">Google (AdMob, Firebase và UMP)</a>, <a href=\"https://www.apple.com/legal/privacy/\">Apple</a> và <a href=\"https://www.met.no/en/About-us/privacy\">MET Norway</a>. Các nhà cung cấp có thể xử lý dữ liệu tại nhiều quốc gia theo chính sách riêng. Việc chuyển dữ liệu trong hệ thống quảng cáo có thể được xem là “bán” hoặc “chia sẻ” theo luật của một số tiểu bang Hoa Kỳ; người dùng đủ điều kiện có thể từ chối thông qua các lựa chọn quyền riêng tư trong ứng dụng. Sunchucks không yêu cầu tài khoản với chúng tôi và không vận hành máy chủ tài khoản người dùng.",
+        "block-006": "Lưu giữ dữ liệu và lựa chọn",
+        "block-007": "Cài đặt và địa điểm đã lưu vẫn còn trên thiết bị của bạn cho đến khi bị xóa hoặc cho đến khi ứng dụng được gỡ cài đặt. Dữ liệu được xử lý bởi Google, Apple và MET Norway cũng phải tuân theo các thực tiễn lưu giữ của các nhà cung cấp đó, mà chúng tôi không kiểm soát hoàn toàn. Quản lý quyền vị trí, camera, thông báo và theo dõi trong Cài đặt iOS. Khi được yêu cầu cho khu vực của bạn, hãy sử dụng \"Lựa chọn quyền riêng tư\" trong Cài đặt Sunchucks để xem lại sự đồng ý quảng cáo. Quản lý đăng ký trong cài đặt tài khoản Apple của bạn. Liên hệ với chúng tôi để yêu cầu truy cập, chỉnh sửa, phản đối hoặc xóa; chúng tôi sẽ phản hồi dữ liệu mà chúng tôi có thể xác định và kiểm soát.",
+        "block-008": "Thay đổi",
+        "block-009": "Chính sách hiện tại được đăng ở đây. Trang web này được lưu trữ trên GitHub Pages; <a href=\"https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement\">GitHub có thể xử lý dữ liệu khách truy cập </a> như địa chỉ IP để vận hành trang web.",
+        "block-003": "<li><strong>Vị trí và thời tiết.</strong> Khi bạn cấp quyền trên iOS, ứng dụng có thể sử dụng vị trí hiện tại. Bạn cũng có thể chọn địa điểm thủ công mà không cấp quyền truy cập vị trí. Vị trí đã chọn được dùng cho bản đồ, các phép tính về Mặt Trời và dự báo. Tọa độ cần thiết để dự báo thời tiết được gửi đến Apple WeatherKit. Bản đồ mây che phủ và giáng thủy sử dụng dịch vụ MET Norway/YR. Bản đồ nền và tìm kiếm địa điểm có thể sử dụng dịch vụ Apple. Địa điểm đã lưu và tùy chọn được lưu trên thiết bị của bạn.</li><li><strong>Camera và lời nhắc.</strong> Khung máy ảnh được sử dụng cho chế độ xem thực tế tăng cường và không được tự động tải lên máy chủ do chúng tôi điều hành. iOS xử lý lời nhắc theo sự cho phép của bạn.</li><li><strong>Phân tích và hiệu suất.</strong> Firebase Analytics và Firebase Performance Monitoring giúp chúng tôi hiểu việc sử dụng ứng dụng và cải thiện hiệu suất. Chúng có thể xử lý các sự kiện sử dụng ứng dụng, thuộc tính trạng thái ứng dụng, dữ liệu thiết bị và hệ điều hành, số liệu khởi động ứng dụng và số liệu yêu cầu mạng. Firebase Performance có thể sử dụng địa chỉ IP để ước tính một khu vực chung. Các sự kiện Analytics tùy chỉnh của chúng tôi không chứa tọa độ, tên địa điểm, địa chỉ email hoặc nội dung người dùng. Tại EEA, Vương quốc Anh và Thụy Sĩ, các tín hiệu đồng ý Google UMP có thể hạn chế hơn nữa việc thu thập Analytics. Các lựa chọn quảng cáo có sẵn riêng biệt.</li><li><strong>Báo cáo sự cố.</strong> Firebase Crashlytics tự động nhận báo cáo sự cố, dấu vết ngăn xếp, trạng thái ứng dụng có liên quan và chi tiết thiết bị/HĐH để giúp khắc phục sự cố. Chúng tôi không đính kèm ID người dùng hoặc tọa độ tùy chỉnh.</li><li><strong>Quảng cáo.</strong> Màn hình chính có thể hiển thị biểu ngữ. Google AdMob và các đối tác có thể xử lý địa chỉ IP, mã định danh thiết bị hoặc quảng cáo được phép sử dụng theo quyền bạn cấp, tương tác với quảng cáo và dữ liệu chẩn đoán để phân phối quảng cáo, đo lường và chống gian lận. Ứng dụng không gửi tọa độ đã chọn đến AdMob. Google User Messaging Platform thu thập lựa chọn về quảng cáo tại nơi bắt buộc. Từ chối quyền theo dõi của iOS không chặn quảng cáo, nhưng hạn chế việc sử dụng mã định danh quảng cáo và theo dõi giữa các ứng dụng. Khi bạn từ chối cá nhân hóa quảng cáo, quảng cáo không cá nhân hóa hoặc quảng cáo hạn chế vẫn có thể xuất hiện, tùy khu vực và lựa chọn đồng ý. Ứng dụng không yêu cầu quảng cáo khi Google UMP không cho phép; ngay cả yêu cầu được phép cũng có thể không nhận được quảng cáo.</li><li><strong>Mua hàng.</strong> Apple xử lý đăng ký thông qua App Store và StoreKit. Ứng dụng nhận được trạng thái giao dịch và quyền lợi cần thiết để mở khóa hoặc khôi phục Premium; chúng tôi không nhận được chi tiết thẻ.</li>"
+      }
+    },
+    "sunchucks_terms": {
+      "title": "Điều khoản sử dụng",
+      "updatedLabel": "Có hiệu lực từ ngày 24 tháng 9 năm 2026 · Cập nhật ngày 23 tháng 11 năm 2026",
+      "footerHTML": "Bản quyền © Dawid Kolasiński. Mọi quyền được bảo lưu.",
+      "blocks": {
+        "block-001": "Sunchucks do Dawid Kolasiński cung cấp. Trừ khi có thỏa thuận cấp phép riêng được đưa ra, việc sử dụng ứng dụng tải từ App Store phải tuân theo <a href=\"https://www.apple.com/legal/internet-services/itunes/dev/stdeula/\">Thỏa thuận cấp phép người dùng cuối tiêu chuẩn của Apple</a> và pháp luật hiện hành.",
+        "block-002": "Đăng ký",
+        "block-003": "Sunchucks có thể cung cấp đăng ký Premium có thể tự động gia hạn. Giá cả, thời hạn và điều khoản của một ưu đãi cụ thể được hiển thị trước khi mua trong ứng dụng và App Store. Apple xử lý các giao dịch mua, quản lý đăng ký và hoàn tiền. Xóa ứng dụng không hủy đăng ký đang hoạt động.",
+        "block-004": "Liên hệ",
+        "block-005": "Để được trợ giúp hoặc giải đáp thắc mắc, hãy gửi email đến <a href=\"mailto:sunchucks.support@gmail.com\">sunchucks.support@gmail.com</a>. Xem <a href=\"https://dawidkolasinski.github.io/privacy/\">Chính sách bảo mật</a> để biết cách dữ liệu được xử lý."
+      }
+    },
+    "moonchucks_privacy": {
+      "title": "Chính sách bảo mật",
+      "updatedLabel": "Cập nhật lần cuối: ngày 23 tháng 11 năm 2026",
+      "footerHTML": "Bản quyền © Dawid Kolasiński.",
+      "blocks": {
+        "block-001": "Moonchucks là một ứng dụng iOS được cung cấp bởi Dawid Kolasiński. Đối với các yêu cầu về quyền riêng tư, hãy liên hệ <a href=\"mailto:sunchucks.support@gmail.com\">sunchucks.support@gmail.com</a> và đề cập đến Moonchucks.",
+        "block-002": "Vị trí và bản đồ",
+        "block-003": "Với sự cho phép của iOS, Moonchucks có thể sử dụng vị trí hiện tại của bạn để lập kế hoạch mặt trăng. Bạn cũng có thể chọn một địa điểm theo cách thủ công. Các địa điểm và tùy chọn đã lưu được lưu trữ trên thiết bị của bạn. Tọa độ cần thiết cho dự báo thời tiết được gửi đến MET Norway. Các dịch vụ Apple có thể xử lý các yêu cầu tìm kiếm bản đồ và địa điểm.",
+        "block-004": "Camera, chuyển động và thông báo",
+        "block-005": "Máy ảnh và cảm biến chuyển động hỗ trợ chế độ xem thực tế tăng cường. Khung hình máy ảnh được xử lý cho chế độ xem đó và không tự động được tải lên máy chủ do chúng tôi vận hành. Quyền của hệ thống kiểm soát quyền truy cập vào máy ảnh, vị trí, ảnh và thông báo được sử dụng bởi các tính năng bạn chọn.",
+        "block-006": "Phân tích và chẩn đoán",
+        "block-007": "Moonchucks sử dụng Firebase Analytics, Giám sát hiệu suất và Crashlytics. Google có thể xử lý các sự kiện sử dụng ứng dụng, số nhận dạng cài đặt, thông tin thiết bị và hệ điều hành, số liệu khởi động ứng dụng và hiệu suất mạng, báo cáo sự cố và dấu vết ngăn xếp. Giám sát hiệu suất có thể sử dụng địa chỉ IP để ước tính một khu vực chung. Firebase Remote Config cung cấp cấu hình ứng dụng. Những dịch vụ này giúp chúng tôi hiểu việc sử dụng, định cấu hình ứng dụng và chẩn đoán sự cố.",
+        "block-008": "Thông tin bầu trời trực tuyến",
+        "block-009": "Ứng dụng yêu cầu hình ảnh về diện mạo Mặt Trăng và ánh sáng ban đêm từ các dịch vụ NASA, còn thông tin cực quang được yêu cầu từ NOAA. Khi sử dụng các tính năng này, nhà cung cấp trực tuyến và dịch vụ lưu trữ của họ có thể nhận địa chỉ IP cùng thông tin về yêu cầu. Vùng được chọn trên bản đồ quyết định hình ảnh được yêu cầu.",
+        "block-010": "Mua hàng và hỗ trợ",
+        "block-011": "Apple xử lý giao dịch mua gói đăng ký và thông tin thanh toán qua App Store. Moonchucks nhận thông tin giao dịch và quyền truy cập cần thiết để mở khóa hoặc khôi phục Premium. Chúng tôi không nhận thông tin thẻ của bạn. Nếu bạn gửi email cho bộ phận hỗ trợ, chúng tôi sẽ nhận địa chỉ email và thông tin bạn chọn đưa vào.",
+        "block-012": "Các lựa chọn quảng cáo và quyền riêng tư",
+        "block-013": "Moonchucks sử dụng Google AdMob cho biểu ngữ Trang chủ. Google có thể xử lý số nhận dạng thiết bị, vị trí gần đúng được suy ra từ địa chỉ IP, lượt xem và tương tác quảng cáo, cũng như dữ liệu chẩn đoán và hiệu suất cho quảng cáo và đo lường. Quyền truy cập vào mã định danh quảng cáo phải tuân theo quyền theo dõi iOS.",
+        "block-014": "Google User Messaging Platform quản lý các tin nhắn đồng ý áp dụng. Khi được yêu cầu, các tùy chọn bảo mật quảng cáo trong Cài đặt của ứng dụng cho phép bạn xem lại các lựa chọn của mình. Bạn có thể quản lý quyền theo dõi iOS trong Cài đặt > Quyền riêng tư & Bảo mật > Theo dõi. Lựa chọn của bạn có thể ảnh hưởng đến quảng cáo có sẵn.",
+        "block-015": "Các nhà cung cấp",
+        "block-016": "Các nhà cung cấp gồm <a href=\"https://policies.google.com/privacy\">Google Firebase và AdMob</a>, <a href=\"https://www.apple.com/legal/privacy/\">Apple</a>, <a href=\"https://www.met.no/en/About-us/privacy\">MET Norway</a>, <a href=\"https://www.nasa.gov/privacy/\">NASA</a> và <a href=\"https://www.noaa.gov/organization/information-technology/privacy\">NOAA</a>. Họ có thể xử lý thông tin tại nhiều quốc gia theo chính sách riêng. Moonchucks không yêu cầu tài khoản người dùng.",
+        "block-017": "Lưu giữ dữ liệu và lựa chọn của bạn",
+        "block-018": "Địa điểm đã lưu và tùy chọn của ứng dụng được giữ trên thiết bị cho đến khi bị xóa hoặc ứng dụng được gỡ cài đặt. Dữ liệu do nhà cung cấp xử lý tuân theo chính sách lưu giữ của họ. Thư từ hỗ trợ được giữ theo nhu cầu xử lý yêu cầu. Quản lý quyền hệ thống trong Cài đặt iOS và gói đăng ký trong Tài khoản Apple. Liên hệ với chúng tôi để yêu cầu truy cập, chỉnh sửa hoặc xóa thông tin mà chúng tôi có thể xác định và kiểm soát.",
+        "block-019": "Trang web này và những thay đổi",
+        "block-020": "Trang web này được lưu trữ bởi GitHub Pages. <a href=\"https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement\">GitHub có thể xử lý thông tin của khách truy cập</a>, bao gồm địa chỉ IP, để vận hành trang web. Chính sách Moonchucks hiện tại được công bố trên trang này và có thể được cập nhật khi thực tiễn dữ liệu của ứng dụng thay đổi."
+      }
+    },
+    "moonchucks_terms": {
+      "title": "Điều khoản sử dụng",
+      "updatedLabel": "Cập nhật lần cuối: ngày 23 tháng 11 năm 2026",
+      "footerHTML": "Bản quyền © Dawid Kolasiński.",
+      "blocks": {
+        "block-001": "Moonchucks do Dawid Kolasiński cung cấp. Trừ khi có thỏa thuận cấp phép riêng được đưa ra, việc sử dụng ứng dụng tải từ App Store phải tuân theo <a href=\"https://www.apple.com/legal/internet-services/itunes/dev/stdeula/\">Thỏa thuận cấp phép người dùng cuối tiêu chuẩn của Apple</a> và pháp luật hiện hành.",
+        "block-002": "Đăng ký",
+        "block-003": "Moonchucks cung cấp đăng ký Premium tự động gia hạn tùy chọn. Giá, thời gian thanh toán và bất kỳ ưu đãi giới thiệu đủ điều kiện nào được hiển thị trước khi mua. Apple xử lý các giao dịch mua, quản lý đăng ký và hoàn tiền. Quản lý hoặc hủy đăng ký trong cài đặt đăng ký Tài khoản Apple của bạn. Xóa ứng dụng không hủy đăng ký đang hoạt động. Sử dụng Khôi phục giao dịch mua trong màn hình Premium để khôi phục giao dịch mua đủ điều kiện.",
+        "block-004": "Quảng cáo",
+        "block-005": "Moonchucks bao gồm quảng cáo. Quảng cáo có thể không phải lúc nào cũng khả dụng.",
+        "block-006": "Thông tin lập kế hoạch",
+        "block-007": "Vị trí và các hiện tượng liên quan đến Mặt Trăng được tính theo địa điểm, ngày và giờ đã chọn. Khả năng nhìn thấy thực tế còn phụ thuộc vào thời tiết, địa hình và tầm nhìn ra đường chân trời. Thông tin cực quang của NOAA là dữ liệu dự báo từ mô hình và không bảo đảm rằng có thể thấy cực quang. Lớp Ánh sáng ban đêm của NASA hiển thị hình ảnh vệ tinh NASA VIIRS NOAA-20 Black Marble mới nhất hiện có về ánh sáng nhân tạo vào ban đêm. Các ảnh hằng ngày này có thể sử dụng quan sát trước đó để bù vào phần dữ liệu thiếu. Chúng không phải phép đo độ sáng bầu trời trực tiếp hay phân loại Bortle.",
+        "block-008": "Liên hệ",
+        "block-009": "Để được trợ giúp, hãy gửi email đến <a href=\"mailto:sunchucks.support@gmail.com\">sunchucks.support@gmail.com</a> và nêu rõ Moonchucks. Đọc <a href=\"https://dawidkolasinski.github.io/moonchucks/privacy/\">Chính sách bảo mật</a> để biết cách dữ liệu được xử lý."
+      }
+    }
+  },
+  "uiLabels": {
+    "privacy": "Quyền riêng tư",
+    "terms": "Điều khoản",
+    "support": "Hỗ trợ",
+    "legalNavigation": "Các trang pháp lý",
+    "language": "Ngôn ngữ",
+    "onThisPage": "Trên trang này",
+    "documentSections": "Các phần tài liệu",
+    "skipToContent": "Bỏ qua nội dung",
+    "mainNavigation": "Điều hướng chính",
+    "footerNavigation": "Điều hướng chân trang",
+    "backToTop": "Trở lại đầu trang"
+  },
+  "privacyHostingVariants": {
+    "sunchucks_privacy": {
+      "github": "Chính sách hiện tại được đăng ở đây. Trang web này được lưu trữ trên GitHub Pages; <a href=\"https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement\">GitHub có thể xử lý dữ liệu khách truy cập </a> như địa chỉ IP để vận hành trang web.",
+      "cloudflare": "Chính sách hiện tại được đăng tại đây. Trang web này sử dụng Cloudflare Pages. Cloudflare xử lý dữ liệu kỹ thuật về yêu cầu, bao gồm địa chỉ IP, để cung cấp và bảo vệ trang web. Xem <a href=\"https://www.cloudflare.com/privacypolicy/\">thông tin quyền riêng tư của Cloudflare</a>.",
+      "firebase": "Chính sách hiện tại được đăng tại đây. Trang web này sử dụng Firebase Hosting. Google xử lý địa chỉ IP và dữ liệu về yêu cầu để cung cấp trang web và ngăn hành vi lạm dụng. Xem <a href=\"https://firebase.google.com/support/privacy\">thông tin quyền riêng tư của Firebase</a>."
+    },
+    "moonchucks_privacy": {
+      "github": "Trang web này được lưu trữ bởi GitHub Pages. <a href=\"https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement\">GitHub có thể xử lý thông tin của khách truy cập</a>, bao gồm địa chỉ IP, để vận hành trang web. Chính sách Moonchucks hiện tại được công bố trên trang này và có thể được cập nhật khi thực tiễn dữ liệu của ứng dụng thay đổi.",
+      "cloudflare": "Trang web này sử dụng Cloudflare Pages. Cloudflare xử lý dữ liệu kỹ thuật về yêu cầu, bao gồm địa chỉ IP, để cung cấp và bảo vệ trang web. Xem <a href=\"https://www.cloudflare.com/privacypolicy/\">thông tin quyền riêng tư của Cloudflare</a>. Chính sách hiện tại của Moonchucks được đăng trên trang này và có thể được cập nhật khi cách xử lý dữ liệu của ứng dụng thay đổi.",
+      "firebase": "Trang web này sử dụng Firebase Hosting. Google xử lý địa chỉ IP và dữ liệu về yêu cầu để cung cấp trang web và ngăn hành vi lạm dụng. Xem <a href=\"https://firebase.google.com/support/privacy\">thông tin quyền riêng tư của Firebase</a>. Chính sách hiện tại của Moonchucks được đăng trên trang này và có thể được cập nhật khi cách xử lý dữ liệu của ứng dụng thay đổi."
+    }
+  },
+  "translation": {
+    "method": "apple-on-device",
+    "reviewStatus": "targeted-editorial-review",
+    "published": false,
+    "inputFile": "apple/vi.json",
+    "inputSHA256": "7033a8408909f56e6bc043f88b9d59444c2b2fd0a9bdb2826e0a20b0a0ea0b5a",
+    "reviewedUnitCount": 77,
+    "independentNativeReview": false,
+    "editorialChanges": [
+      "Reviewed all77sourceunits for scope, negations, data recipients, consent, subscriptions and hosting.",
+      "Reauthored damaged marker/hyperlink clauses as complete paragraphs.",
+      "Localized remaining English headings and corrected request metadata, solar calculations and NASA nighttime imagery.",
+      "Kept source links, dates, registered developer name and both app identities."
+    ]
+  }
+}

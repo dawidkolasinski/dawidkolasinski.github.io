@@ -1,0 +1,109 @@
+{
+  "schemaVersion": 1,
+  "sourceHash": "bd2c2f6d35958a0e87d2f3b25f9549e0cc16c4c50f24c4b8432e25be7e69bc57",
+  "locale": "zh-Hans",
+  "documents": {
+    "sunchucks_privacy": {
+      "title": "隐私政策",
+      "updatedLabel": "生效日期：2026年9月30日 · 更新日期：2026年11月23日",
+      "footerHTML": "版权所有 © Dawid Kolasiński。保留所有权利。",
+      "blocks": {
+        "block-001": "Sunchucks是由Dawid Kolasiński提供的iOS应用。如需提出隐私相关请求，请联系<a href=\"mailto:sunchucks.support@gmail.com\">sunchucks.support@gmail.com</a>。",
+        "block-002": "数据与用途",
+        "block-003": "<li><strong>位置与天气。</strong>获得iOS权限后，应用可以使用您的当前位置。您也可以不授予位置访问权限，而是手动选择地点。所选位置用于地图、太阳相关计算和天气预报。天气预报所需的坐标会发送至Apple WeatherKit。云量与降水地图使用MET Norway/YR服务。底图与地点搜索可能使用Apple服务。已保存的地点和偏好设置存储在您的设备上。</li><li><strong>相机与提醒事项。</strong>相机画面用于增强现实视图，不会自动上传至我们运营的服务器。iOS会根据您授予的权限处理提醒事项。</li><li><strong>分析与性能。</strong>Firebase Analytics和Firebase Performance Monitoring帮助我们了解应用使用情况并改善性能。这些服务可能处理应用使用事件、应用状态属性、设备与操作系统数据、应用启动指标和网络请求指标。Firebase Performance可能使用IP地址估算大致区域。我们自定义的Analytics事件不包含坐标、地名、电子邮件地址或用户内容。在欧洲经济区、英国和瑞士，Google UMP同意信号可能进一步限制Analytics数据收集。广告选择另行提供。</li><li><strong>崩溃报告。</strong>Firebase Crashlytics会自动接收崩溃报告、堆栈跟踪、相关应用状态和设备及操作系统详情，以帮助修复问题。我们不会附加自定义用户ID或坐标。</li><li><strong>广告。</strong>首页可能显示横幅广告。Google AdMob及其合作伙伴可能处理IP地址、在您授权范围内可用的设备或广告标识符、广告互动和诊断信息，用于广告投放、衡量和反欺诈。应用不会将所选坐标传递给AdMob。Google User Messaging Platform会在必要时收集广告选择。拒绝iOS跟踪权限不会屏蔽广告，但会限制广告标识符的使用和跨应用跟踪。拒绝广告个性化后，视您所在地区和同意选择而定，仍可能显示非个性化广告或受限广告。当Google UMP不允许时，应用不会请求广告；即使请求符合条件，也可能没有广告返回。</li><li><strong>购买。</strong>Apple通过App Store和StoreKit处理订阅。应用会接收解锁或恢复Premium所需的交易和权益状态；我们不会收到银行卡详情。</li>",
+        "block-004": "服务提供商与数据共享",
+        "block-005": "数据仅在上述功能所需的范围内发送给服务提供商：<a href=\"https://policies.google.com/privacy\">Google（AdMob、Firebase和UMP）</a>、<a href=\"https://www.apple.com/legal/privacy/\">Apple</a>和<a href=\"https://www.met.no/en/About-us/privacy\">MET Norway</a>。他们可能依据各自政策在不同国家处理数据。广告系统中的数据传输可能构成美国部分州法律中的“出售”或“共享”；符合条件的用户可通过应用中的隐私选项选择退出。Sunchucks不要求您在我们这里注册账户，我们也不运营用户账户服务器。",
+        "block-006": "数据保留与选择",
+        "block-007": "设置和已保存的地点会一直保留在您的设备上，直到被删除或应用被卸载。Google、Apple和MET Norway处理的数据还受这些提供商的数据保留惯例约束，我们无法完全控制这些惯例。请在iOS设置中管理位置、相机、通知和跟踪权限。如果您所在地区有此要求，可通过Sunchucks设置中的“隐私选项”重新查看广告同意。请在Apple账户设置中管理订阅。如需请求访问、更正、反对处理或删除数据，请联系我们；我们会就能够识别和控制的数据作出回应。",
+        "block-008": "变更",
+        "block-009": "当前政策发布于此。本网站托管于GitHub Pages；为运营网站，<a href=\"https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement\">GitHub可能处理访问者数据</a>，例如IP地址。"
+      }
+    },
+    "sunchucks_terms": {
+      "title": "使用条款",
+      "updatedLabel": "生效日期：2026年9月24日 · 更新日期：2026年11月23日",
+      "footerHTML": "版权所有 © Dawid Kolasiński。保留所有权利。",
+      "blocks": {
+        "block-001": "Sunchucks由Dawid Kolasiński提供。除非另有单独的许可协议，否则使用从App Store下载的应用须遵守<a href=\"https://www.apple.com/legal/internet-services/itunes/dev/stdeula/\">Apple标准最终用户许可协议</a>和适用法律。",
+        "block-002": "订阅",
+        "block-003": "Sunchucks可能提供自动续订的Premium订阅。具体优惠的价格、期限和条款会在购买前于应用和App Store中显示。Apple负责处理购买、订阅管理和退款。删除应用不会取消有效订阅。",
+        "block-004": "联系方式",
+        "block-005": "如需帮助或有任何问题，请发送电子邮件至<a href=\"mailto:sunchucks.support@gmail.com\">sunchucks.support@gmail.com</a>。有关数据处理方式，请参阅我们的<a href=\"https://dawidkolasinski.github.io/privacy/\">隐私政策</a>。"
+      }
+    },
+    "moonchucks_privacy": {
+      "title": "隐私政策",
+      "updatedLabel": "最后更新：2026年11月23日",
+      "footerHTML": "版权所有 © Dawid Kolasiński。",
+      "blocks": {
+        "block-001": "Moonchucks是由Dawid Kolasiński提供的iOS应用。如需提出隐私相关请求，请联系<a href=\"mailto:sunchucks.support@gmail.com\">sunchucks.support@gmail.com</a>并注明Moonchucks。",
+        "block-002": "位置与地图",
+        "block-003": "获得iOS权限后，Moonchucks可以使用您的当前位置进行月球相关规划。您也可以手动选择地点。已保存的地点和偏好设置存储在您的设备上。天气预报所需的坐标会发送至MET Norway。Apple服务可能处理地图和地点搜索请求。",
+        "block-004": "相机、运动与通知",
+        "block-005": "相机和运动传感器为增强现实视图提供支持。相机画面仅为该视图进行处理，不会自动上传至我们运营的服务器。您所选功能使用的相机、位置、照片和通知访问权限由系统权限控制。",
+        "block-006": "分析与诊断",
+        "block-007": "Moonchucks使用Firebase Analytics、Performance Monitoring和Crashlytics。Google可能处理应用使用事件、安装标识符、设备与操作系统信息、应用启动与网络性能指标、崩溃报告和堆栈跟踪。Performance Monitoring可能使用IP地址估算大致区域。Firebase Remote Config提供应用配置信息。这些服务帮助我们了解使用情况、配置应用并诊断问题。",
+        "block-008": "在线天空信息",
+        "block-009": "月球外观与夜间灯光影像通过NASA服务请求。极光信息通过NOAA请求。使用这些功能时，在线提供商及其托管服务可能接收IP地址和请求信息。所选地图区域决定请求的影像。",
+        "block-010": "购买与支持",
+        "block-011": "Apple通过App Store处理订阅购买和付款详情。Moonchucks接收解锁或恢复Premium所需的交易和权益信息。我们不会收到您的银行卡详情。如果您向支持团队发送电子邮件，我们会收到您的电子邮件地址以及您选择提供的信息。",
+        "block-012": "广告与隐私选择",
+        "block-013": "Moonchucks使用Google AdMob在首页显示横幅广告。Google可能处理设备标识符、根据IP地址推断的大致位置、广告浏览与互动，以及用于广告和衡量的诊断与性能数据。广告标识符的访问受iOS跟踪权限限制。",
+        "block-014": "Google User Messaging Platform管理适用的同意提示。在必要时，应用设置中的广告隐私选项可让您重新查看所作选择。您可以在“设置”&gt;“隐私与安全性”&gt;“跟踪”中管理iOS跟踪权限。您的选择可能影响可用广告。",
+        "block-015": "服务提供商",
+        "block-016": "服务提供商包括<a href=\"https://policies.google.com/privacy\">Google Firebase和AdMob</a>、<a href=\"https://www.apple.com/legal/privacy/\">Apple</a>、<a href=\"https://www.met.no/en/About-us/privacy\">MET Norway</a>、<a href=\"https://www.nasa.gov/privacy/\">NASA</a>和<a href=\"https://www.noaa.gov/organization/information-technology/privacy\">NOAA</a>。他们可能依据各自政策在不同国家处理信息。Moonchucks不要求用户账户。",
+        "block-017": "数据保留与您的选择",
+        "block-018": "已保存的地点和应用偏好设置会一直保留在您的设备上，直到被删除或应用被卸载。提供商数据受其各自保留政策约束。支持通信会在处理请求所需的期限内保留。请在iOS设置中管理系统权限，并在Apple账户中管理订阅。如需请求访问、更正或删除我们能够识别和控制的信息，请联系我们。",
+        "block-019": "本网站与变更",
+        "block-020": "本网站由GitHub Pages托管。为运营网站，<a href=\"https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement\">GitHub可能处理访问者信息</a>，包括IP地址。当前Moonchucks政策发布于本页，应用数据处理方式发生变化时可能更新。"
+      }
+    },
+    "moonchucks_terms": {
+      "title": "使用条款",
+      "updatedLabel": "最后更新：2026年11月23日",
+      "footerHTML": "版权所有 © Dawid Kolasiński。",
+      "blocks": {
+        "block-001": "Moonchucks由Dawid Kolasiński提供。除非另有单独的许可协议，否则使用从App Store下载的应用须遵守<a href=\"https://www.apple.com/legal/internet-services/itunes/dev/stdeula/\">Apple标准最终用户许可协议</a>和适用法律。",
+        "block-002": "订阅",
+        "block-003": "Moonchucks提供可选的自动续订Premium订阅。价格、计费周期及符合资格的入门优惠会在购买前显示。Apple负责处理购买、订阅管理和退款。请在Apple账户的订阅设置中管理或取消订阅。删除应用不会取消有效订阅。请使用Premium页面中的“恢复购买”来恢复符合条件的购买。",
+        "block-004": "广告",
+        "block-005": "Moonchucks包含广告。广告不一定始终可用。",
+        "block-006": "规划信息",
+        "block-007": "月球位置和天文事件根据所选地点、日期与时间计算。实际可见性还取决于天气、地形和地平线视野。NOAA极光信息是基于模型的预报数据，不保证极光可见。NASA夜间灯光显示最新可用的NASA VIIRS NOAA-20 Black Marble人造夜间灯光卫星影像。这些每日影像可能使用较早的观测结果填补空缺。它们并非实时天空亮度测量，也不是波特尔分类。",
+        "block-008": "联系方式",
+        "block-009": "如需帮助，请发送电子邮件至<a href=\"mailto:sunchucks.support@gmail.com\">sunchucks.support@gmail.com</a>并注明Moonchucks。有关数据处理方式，请阅读<a href=\"https://dawidkolasinski.github.io/moonchucks/privacy/\">隐私政策</a>。"
+      }
+    }
+  },
+  "uiLabels": {
+    "privacy": "隐私",
+    "terms": "条款",
+    "support": "支持",
+    "legalNavigation": "法律页面",
+    "language": "语言",
+    "onThisPage": "本页内容",
+    "documentSections": "文档章节",
+    "skipToContent": "跳至内容",
+    "mainNavigation": "主导航",
+    "footerNavigation": "页脚导航",
+    "backToTop": "返回顶部"
+  },
+  "privacyHostingVariants": {
+    "sunchucks_privacy": {
+      "github": "当前政策发布于此。本网站托管于GitHub Pages；为运营网站，<a href=\"https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement\">GitHub可能处理访问者数据</a>，例如IP地址。",
+      "cloudflare": "当前政策发布于此。本网站使用Cloudflare Pages。Cloudflare处理包括IP地址在内的技术性请求数据，以提供并保护网站。请参阅<a href=\"https://www.cloudflare.com/privacypolicy/\">Cloudflare隐私信息</a>。",
+      "firebase": "当前政策发布于此。本网站使用Firebase Hosting。Google处理IP地址和请求数据，以提供网站并防止滥用。请参阅<a href=\"https://firebase.google.com/support/privacy\">Firebase隐私信息</a>。"
+    },
+    "moonchucks_privacy": {
+      "github": "本网站由GitHub Pages托管。为运营网站，<a href=\"https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement\">GitHub可能处理访问者信息</a>，包括IP地址。当前Moonchucks政策发布于本页，应用数据处理方式发生变化时可能更新。",
+      "cloudflare": "本网站使用Cloudflare Pages。Cloudflare处理包括IP地址在内的技术性请求数据，以提供并保护网站。请参阅<a href=\"https://www.cloudflare.com/privacypolicy/\">Cloudflare隐私信息</a>。当前Moonchucks政策发布于本页，应用数据处理方式发生变化时可能更新。",
+      "firebase": "本网站使用Firebase Hosting。Google处理IP地址和请求数据，以提供网站并防止滥用。请参阅<a href=\"https://firebase.google.com/support/privacy\">Firebase隐私信息</a>。当前Moonchucks政策发布于本页，应用数据处理方式发生变化时可能更新。"
+    }
+  },
+  "translation": {
+    "method": "assistant-authored",
+    "reviewStatus": "targeted-editorial-review",
+    "independentNativeReview": false,
+    "published": false
+  }
+}

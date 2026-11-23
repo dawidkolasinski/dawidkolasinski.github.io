@@ -1,0 +1,114 @@
+{
+  "schemaVersion": 1,
+  "sourceHash": "bd2c2f6d35958a0e87d2f3b25f9549e0cc16c4c50f24c4b8432e25be7e69bc57",
+  "locale": "ro",
+  "documents": {
+    "sunchucks_privacy": {
+      "title": "Politica de confidențialitate",
+      "updatedLabel": "În vigoare din 30 septembrie 2026 · Actualizare: 23 noiembrie 2026",
+      "footerHTML": "Drepturi de autor © Dawid Kolasiński. Toate drepturile rezervate.",
+      "blocks": {
+        "block-001": "Sunchucks este o aplicație pentru iOS oferită de Dawid Kolasiński. Pentru solicitări privind confidențialitatea, scrieți la <a href=\"mailto:sunchucks.support@gmail.com\">sunchucks.support@gmail.com</a>.",
+        "block-002": "Date și scopuri",
+        "block-003": "<li><strong>Locație și vreme.</strong> Cu permisiunea acordată în iOS, aplicația vă poate folosi locația curentă. Puteți alege un loc și manual, fără a acorda acces la locație. Locația aleasă este folosită pentru hărți, calcule astronomice legate de Soare și prognoze. Coordonatele necesare prognozelor meteo sunt trimise către Apple WeatherKit. Hărțile de nebulozitate și precipitații folosesc serviciile MET Norway/YR. Hărțile de bază și căutarea locurilor pot folosi servicii Apple. Locurile salvate și preferințele sunt stocate pe dispozitiv.</li><li><strong>Cameră și reamintiri.</strong> Cadrele captate de cameră sunt folosite pentru vizualizarea în realitate augmentată și nu sunt încărcate automat pe un server administrat de noi. iOS gestionează reamintirile conform permisiunii pe care o acordați.</li><li><strong>Analiză și performanță.</strong> Firebase Analytics și Firebase Performance Monitoring ne ajută să înțelegem utilizarea aplicației și să îmbunătățim performanța. Acestea pot procesa evenimente de utilizare a aplicației, proprietăți ale stării aplicației, date despre dispozitiv și sistemul de operare, măsurători ale pornirii aplicației și ale cererilor de rețea. Firebase Performance poate folosi adrese IP pentru a estima o regiune aproximativă. Evenimentele Analytics definite de noi nu conțin coordonate, nume de locuri, adrese de e-mail sau conținut al utilizatorilor. În SEE, Regatul Unit și Elveția, semnalele de consimțământ Google UMP pot limita suplimentar colectarea datelor Analytics. Opțiunile privind reclamele sunt disponibile separat.</li><li><strong>Rapoarte de eroare.</strong> Firebase Crashlytics primește automat rapoarte de blocare a aplicației, urme de stivă, informații relevante despre starea aplicației și detalii despre dispozitiv și sistemul de operare, pentru a ajuta la remedierea problemelor. Nu atașăm identificatori de utilizator definiți de noi sau coordonate.</li><li><strong>Publicitate.</strong> Pe ecranul principal al aplicației poate apărea un banner. Google AdMob și partenerii săi pot procesa adrese IP, identificatori ai dispozitivului sau identificatori publicitari disponibili în limitele permisiunilor acordate, interacțiuni cu reclamele și date de diagnosticare pentru afișarea reclamelor, măsurare și prevenirea fraudei. Aplicația nu transmite coordonatele selectate către AdMob. Google User Messaging Platform colectează opțiunile privind reclamele acolo unde este necesar. Refuzul permisiunii de urmărire în iOS nu blochează reclamele, dar limitează folosirea identificatorului publicitar și urmărirea între aplicații. Refuzul personalizării reclamelor poate permite în continuare reclame nepersonalizate sau limitate, în funcție de regiune și de opțiunile de consimțământ. Aplicația nu solicită o reclamă când Google UMP nu permite acest lucru, iar o cerere permisă poate totuși să nu primească nicio reclamă.</li><li><strong>Achiziții.</strong> Apple procesează abonamentele prin App Store și StoreKit. Aplicația primește starea tranzacțiilor și a drepturilor de acces necesară pentru deblocarea sau restaurarea accesului Premium; nu primim datele cardului.</li>",
+        "block-004": "Furnizori și partajarea datelor",
+        "block-005": "Datele sunt trimise furnizorilor doar în măsura necesară funcțiilor de mai sus: <a href=\"https://policies.google.com/privacy\">Google (AdMob, Firebase și UMP)</a>, <a href=\"https://www.apple.com/legal/privacy/\">Apple</a> și <a href=\"https://www.met.no/en/About-us/privacy\">MET Norway</a>. Aceștia pot procesa date în țări diferite, conform propriilor politici. Transferurile de date din sistemul publicitar pot fi considerate „vânzare” sau „partajare” în temeiul legilor unor state din SUA; utilizatorii eligibili pot refuza acest lucru prin opțiunile de confidențialitate din aplicație. Sunchucks nu necesită un cont la noi și nu administrăm un server de conturi de utilizator.",
+        "block-006": "Păstrarea datelor și opțiuni",
+        "block-007": "Setările și locurile salvate rămân pe dispozitiv până când sunt șterse sau aplicația este dezinstalată. Datele procesate de Google, Apple și MET Norway sunt supuse și practicilor de păstrare ale acestor furnizori, pe care nu le controlăm pe deplin. Gestionați permisiunile pentru locație, cameră, notificări și urmărire în Configurări iOS. Acolo unde regiunea impune acest lucru, folosiți „Opțiuni de confidențialitate” din setările Sunchucks pentru a revedea consimțământul privind reclamele. Gestionați abonamentele în setările contului Apple. Contactați-ne pentru acces, rectificare, opoziție sau ștergere; vom răspunde în privința datelor pe care le putem identifica și controla.",
+        "block-008": "Modificări",
+        "block-009": "Politica actuală este publicată aici. Acest site este găzduit pe GitHub Pages; <a href=\"https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement\">GitHub poate procesa date despre vizitatori</a>, precum adrese IP, pentru funcționarea site-ului."
+      }
+    },
+    "sunchucks_terms": {
+      "title": "Condiții de utilizare",
+      "updatedLabel": "În vigoare din 24 septembrie 2026 · Actualizare: 23 noiembrie 2026",
+      "footerHTML": "Drepturi de autor © Dawid Kolasiński. Toate drepturile rezervate.",
+      "blocks": {
+        "block-001": "Sunchucks este oferită de Dawid Kolasiński. Cu excepția cazului în care este prezentat un acord de licență separat, utilizarea aplicației descărcate din App Store este supusă <a href=\"https://www.apple.com/legal/internet-services/itunes/dev/stdeula/\">Acordului de licență standard pentru utilizatorul final al Apple</a> și legislației aplicabile.",
+        "block-002": "Abonamente",
+        "block-003": "Sunchucks poate oferi abonamente Premium cu reînnoire automată. Prețul, durata și condițiile unei oferte sunt afișate înaintea achiziției în aplicație și în App Store. Apple gestionează achizițiile, administrarea abonamentelor și rambursările. Ștergerea aplicației nu anulează un abonament activ.",
+        "block-004": "Contact",
+        "block-005": "Pentru ajutor sau întrebări, scrieți la <a href=\"mailto:sunchucks.support@gmail.com\">sunchucks.support@gmail.com</a>. Consultați <a href=\"https://dawidkolasinski.github.io/privacy/\">Politica de confidențialitate</a> pentru practicile de prelucrare a datelor."
+      }
+    },
+    "moonchucks_privacy": {
+      "title": "Politica de confidențialitate",
+      "updatedLabel": "Ultima actualizare: 23 noiembrie 2026",
+      "footerHTML": "Drepturi de autor © Dawid Kolasiński.",
+      "blocks": {
+        "block-001": "Moonchucks este o aplicație pentru iOS oferită de Dawid Kolasiński. Pentru solicitări privind confidențialitatea, scrieți la <a href=\"mailto:sunchucks.support@gmail.com\">sunchucks.support@gmail.com</a> și menționați Moonchucks.",
+        "block-002": "Locație și hărți",
+        "block-003": "Cu permisiunea acordată în iOS, Moonchucks vă poate folosi locația curentă pentru planificarea observațiilor Lunii. Puteți alege un loc și manual. Locurile salvate și preferințele sunt stocate pe dispozitiv. Coordonatele necesare prognozelor meteo sunt trimise către MET Norway. Serviciile Apple pot procesa cereri pentru hărți și căutarea locurilor.",
+        "block-004": "Cameră, mișcare și notificări",
+        "block-005": "Camera și senzorii de mișcare susțin vizualizarea în realitate augmentată. Cadrele camerei sunt procesate pentru această vizualizare și nu sunt încărcate automat pe un server administrat de noi. Permisiunile sistemului controlează accesul la cameră, locație, fotografii și notificările folosite de funcțiile pe care le alegeți.",
+        "block-006": "Analiză și diagnosticare",
+        "block-007": "Moonchucks folosește Firebase Analytics, Performance Monitoring și Crashlytics. Google poate procesa evenimente de utilizare a aplicației, identificatori de instalare, informații despre dispozitiv și sistemul de operare, măsurători ale pornirii aplicației și performanței rețelei, rapoarte de blocare și urme de stivă. Performance Monitoring poate folosi adrese IP pentru a estima o regiune aproximativă. Firebase Remote Config furnizează configurația aplicației. Aceste servicii ne ajută să înțelegem utilizarea, să configurăm aplicația și să diagnosticăm problemele.",
+        "block-008": "Informații despre cer de pe internet",
+        "block-009": "Imaginile cu aspectul Lunii și luminile nocturne sunt solicitate de la serviciile NASA. Informațiile despre aurore sunt solicitate de la NOAA. Furnizorii online și serviciile lor de găzduire pot primi adrese IP și informații despre cereri atunci când sunt folosite aceste funcții. Regiunea selectată pe hartă determină imaginile solicitate.",
+        "block-010": "Achiziții și asistență",
+        "block-011": "Apple gestionează achizițiile de abonamente și datele de plată prin App Store. Moonchucks primește informațiile despre tranzacții și drepturile de acces necesare deblocării sau restaurării accesului Premium. Nu primim datele cardului. Dacă trimiteți un e-mail asistenței, primim adresa dumneavoastră de e-mail și informațiile pe care alegeți să le includeți.",
+        "block-012": "Publicitate și opțiuni de confidențialitate",
+        "block-013": "Moonchucks folosește Google AdMob pentru un banner pe ecranul principal. Google poate procesa identificatori ai dispozitivului, locația aproximativă dedusă din adrese IP, afișări și interacțiuni cu reclamele, precum și date de diagnosticare și performanță pentru publicitate și măsurare. Accesul la identificatorul publicitar depinde de permisiunea de urmărire în iOS.",
+        "block-014": "Google User Messaging Platform gestionează mesajele de consimțământ aplicabile. Când este necesar, opțiunile de confidențialitate pentru reclame din setările aplicației vă permit să revedeți alegerile. Puteți gestiona permisiunea de urmărire în iOS din Configurări &gt; Confidențialitate și securitate &gt; Urmărire. Alegerile dumneavoastră pot afecta reclamele disponibile.",
+        "block-015": "Furnizori",
+        "block-016": "Furnizorii includ <a href=\"https://policies.google.com/privacy\">Google Firebase și AdMob</a>, <a href=\"https://www.apple.com/legal/privacy/\">Apple</a>, <a href=\"https://www.met.no/en/About-us/privacy\">MET Norway</a>, <a href=\"https://www.nasa.gov/privacy/\">NASA</a> și <a href=\"https://www.noaa.gov/organization/information-technology/privacy\">NOAA</a>. Aceștia pot procesa informații în țări diferite, conform propriilor politici. Moonchucks nu necesită un cont de utilizator.",
+        "block-017": "Păstrarea datelor și opțiunile dumneavoastră",
+        "block-018": "Locurile salvate și preferințele aplicației rămân pe dispozitiv până când sunt șterse sau aplicația este dezinstalată. Datele aflate la furnizori sunt supuse politicilor lor de păstrare. Corespondența cu asistența este păstrată atât cât este necesar pentru soluționarea cererii. Gestionați permisiunile sistemului în Configurări iOS și abonamentele în contul Apple. Contactați-ne pentru a solicita accesul, rectificarea sau ștergerea informațiilor pe care le putem identifica și controla.",
+        "block-019": "Acest site și modificările",
+        "block-020": "Acest site este găzduit pe GitHub Pages. <a href=\"https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement\">GitHub poate procesa informații despre vizitatori</a>, inclusiv adrese IP, pentru funcționarea site-ului. Politica actuală Moonchucks este publicată pe această pagină și poate fi actualizată când se schimbă practicile aplicației privind datele."
+      }
+    },
+    "moonchucks_terms": {
+      "title": "Condiții de utilizare",
+      "updatedLabel": "Ultima actualizare: 23 noiembrie 2026",
+      "footerHTML": "Drepturi de autor © Dawid Kolasiński.",
+      "blocks": {
+        "block-001": "Moonchucks este oferită de Dawid Kolasiński. Cu excepția cazului în care este prezentat un acord de licență separat, utilizarea aplicației descărcate din App Store este supusă <a href=\"https://www.apple.com/legal/internet-services/itunes/dev/stdeula/\">Acordului de licență standard pentru utilizatorul final al Apple</a> și legislației aplicabile.",
+        "block-002": "Abonamente",
+        "block-003": "Moonchucks oferă abonamente Premium opționale, cu reînnoire automată. Prețul, perioada de facturare și eventualele oferte introductive pentru care îndepliniți condițiile sunt afișate înaintea achiziției. Apple gestionează achizițiile, administrarea abonamentelor și rambursările. Gestionați sau anulați un abonament din setările pentru abonamente ale contului Apple. Ștergerea aplicației nu anulează un abonament activ. Folosiți „Restaurați achizițiile” de pe ecranul Premium pentru a restaura o achiziție care îndeplinește condițiile.",
+        "block-004": "Publicitate",
+        "block-005": "Moonchucks include publicitate. Este posibil ca reclamele să nu fie mereu disponibile.",
+        "block-006": "Informații pentru planificare",
+        "block-007": "Pozițiile și evenimentele lunare sunt calculate pentru locul, data și ora selectate. Vizibilitatea reală depinde și de vreme, relief și vederea asupra orizontului. Informațiile NOAA despre aurore sunt prognoze bazate pe modele și nu garantează aurore vizibile. NASA Night lights arată cele mai recente imagini satelitare disponibile ale luminilor artificiale nocturne din produsul NASA VIIRS NOAA-20 Black Marble. Aceste imagini zilnice pot folosi observații anterioare pentru a umple golurile. Nu reprezintă o măsurare în timp real a luminozității cerului și nici o clasificare Bortle.",
+        "block-008": "Contact",
+        "block-009": "Pentru ajutor, scrieți la <a href=\"mailto:sunchucks.support@gmail.com\">sunchucks.support@gmail.com</a> și menționați Moonchucks. Citiți <a href=\"https://dawidkolasinski.github.io/moonchucks/privacy/\">Politica de confidențialitate</a> pentru informații despre practicile de prelucrare a datelor."
+      }
+    }
+  },
+  "uiLabels": {
+    "privacy": "Confidențialitate",
+    "terms": "Condiții de utilizare",
+    "support": "Asistență",
+    "legalNavigation": "Pagini juridice",
+    "language": "Limba",
+    "onThisPage": "Pe această pagină",
+    "documentSections": "Secțiunile documentului",
+    "skipToContent": "Salt la conținut",
+    "mainNavigation": "Navigare principală",
+    "footerNavigation": "Navigare în subsol",
+    "backToTop": "Înapoi sus"
+  },
+  "privacyHostingVariants": {
+    "sunchucks_privacy": {
+      "github": "Politica actuală este publicată aici. Acest site este găzduit pe GitHub Pages; <a href=\"https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement\">GitHub poate procesa date despre vizitatori</a>, precum adrese IP, pentru funcționarea site-ului.",
+      "cloudflare": "Politica actuală este publicată aici. Acest site folosește Cloudflare Pages. Cloudflare procesează datele tehnice ale cererilor, inclusiv adrese IP, pentru a furniza și proteja site-ul. Consultați <a href=\"https://www.cloudflare.com/privacypolicy/\">informațiile Cloudflare despre confidențialitate</a>.",
+      "firebase": "Politica actuală este publicată aici. Acest site folosește Firebase Hosting. Google procesează adrese IP și date despre cereri pentru a furniza site-ul și a-l proteja de abuzuri. Consultați <a href=\"https://firebase.google.com/support/privacy\">informațiile Firebase despre confidențialitate</a>."
+    },
+    "moonchucks_privacy": {
+      "github": "Acest site este găzduit pe GitHub Pages. <a href=\"https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement\">GitHub poate procesa informații despre vizitatori</a>, inclusiv adrese IP, pentru funcționarea site-ului. Politica actuală Moonchucks este publicată pe această pagină și poate fi actualizată când se schimbă practicile aplicației privind datele.",
+      "cloudflare": "Acest site folosește Cloudflare Pages. Cloudflare procesează datele tehnice ale cererilor, inclusiv adrese IP, pentru a furniza și proteja site-ul. Consultați <a href=\"https://www.cloudflare.com/privacypolicy/\">informațiile Cloudflare despre confidențialitate</a>. Politica actuală Moonchucks este publicată pe această pagină și poate fi actualizată când se schimbă practicile aplicației privind datele.",
+      "firebase": "Acest site folosește Firebase Hosting. Google procesează adrese IP și date despre cereri pentru a furniza site-ul și a-l proteja de abuzuri. Consultați <a href=\"https://firebase.google.com/support/privacy\">informațiile Firebase despre confidențialitate</a>. Politica actuală Moonchucks este publicată pe această pagină și poate fi actualizată când se schimbă practicile aplicației privind datele."
+    }
+  },
+  "translation": {
+    "method": "assistant-authored",
+    "reviewStatus": "targeted-editorial-review",
+    "independentNativeReview": false,
+    "published": false,
+    "reviewedUnitCount": 77,
+    "editorialChanges": [
+      "Translated and reviewed all 77 complete source units directly, preserving every clause, qualification, negation, permission and data-rights limitation.",
+      "Preserved provider identities, precise NASA product and NOAA model distinctions, subscriptions/cancellation/restore, all links, dates and complete hosting alternatives. No new legal rules."
+    ]
+  }
+}

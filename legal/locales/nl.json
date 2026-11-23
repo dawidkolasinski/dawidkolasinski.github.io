@@ -1,0 +1,114 @@
+{
+  "schemaVersion": 1,
+  "sourceHash": "bd2c2f6d35958a0e87d2f3b25f9549e0cc16c4c50f24c4b8432e25be7e69bc57",
+  "locale": "nl",
+  "documents": {
+    "sunchucks_privacy": {
+      "title": "Privacybeleid",
+      "updatedLabel": "Van kracht sinds 30 september 2026 · Bijgewerkt op 23 november 2026",
+      "footerHTML": "Copyright © Dawid Kolasiński. Alle rechten voorbehouden.",
+      "blocks": {
+        "block-001": "Sunchucks is een iOS-app van Dawid Kolasiński. Neem voor privacyverzoeken contact op via <a href=\"mailto:sunchucks.support@gmail.com\">sunchucks.support@gmail.com</a>.",
+        "block-002": "Gegevens en doeleinden",
+        "block-003": "<li><strong>Locatie en weer.</strong> Met toestemming van iOS kan de app je huidige locatie gebruiken. Je kunt ook handmatig een plaats kiezen zonder toegang tot je locatie te geven. De gekozen locatie wordt gebruikt voor kaarten, zonneberekeningen en weersverwachtingen. De coördinaten die nodig zijn voor weersverwachtingen worden naar Apple WeatherKit gestuurd. Kaarten met bewolking en neerslag gebruiken diensten van MET Norway/YR. Basiskaarten en het zoeken naar plaatsen kunnen diensten van Apple gebruiken. Bewaarde plaatsen en voorkeuren worden op je apparaat opgeslagen.</li><li><strong>Camera en herinneringen.</strong> Camerabeelden worden gebruikt voor de weergave in augmented reality en worden niet automatisch geüpload naar een server die wij beheren. iOS verwerkt herinneringen op basis van de toestemming die je geeft.</li><li><strong>Analyse en prestaties.</strong> Firebase Analytics en Firebase Performance Monitoring helpen ons het gebruik van de app te begrijpen en de prestaties te verbeteren. Ze kunnen gebruiksgebeurtenissen, kenmerken van de appstatus, apparaat- en besturingssysteemgegevens, opstartmetingen en metingen van netwerkverzoeken verwerken. Firebase Performance kan IP-adressen gebruiken om een algemene regio te schatten. Onze eigen Analytics-gebeurtenissen bevatten geen coördinaten, plaatsnamen, e-mailadressen of gebruikersinhoud. In de EER, het Verenigd Koninkrijk en Zwitserland kunnen toestemmingssignalen van Google UMP de verzameling van Analytics-gegevens verder beperken. Advertentiekeuzes zijn afzonderlijk beschikbaar.</li><li><strong>Crashrapporten.</strong> Firebase Crashlytics ontvangt automatisch crashrapporten, stacktraces, relevante appstatus en informatie over het apparaat en besturingssysteem om problemen te helpen oplossen. We voegen geen eigen gebruikers-ID’s of coördinaten toe.</li><li><strong>Advertenties.</strong> Op het beginscherm van de app kan een banner staan. Google AdMob en zijn partners kunnen IP-adressen, apparaat- of advertentie-ID’s die binnen je toestemmingen beschikbaar zijn, interacties met advertenties en diagnostische gegevens verwerken voor advertentieweergave, metingen en fraudepreventie. De app geeft de gekozen coördinaten niet door aan AdMob. Google User Messaging Platform verzamelt waar nodig advertentiekeuzes. Het weigeren van trackingtoestemming in iOS blokkeert advertenties niet, maar beperkt het gebruik van de advertentie-ID en tracking tussen apps. Als je advertentiepersonalisatie weigert, kunnen afhankelijk van je regio en toestemmingskeuzes nog steeds niet-gepersonaliseerde of beperkte advertenties worden weergegeven. De app vraagt geen advertentie aan wanneer Google UMP dat niet toestaat. Ook een toegestane aanvraag kan zonder advertentie eindigen.</li><li><strong>Aankopen.</strong> Apple verwerkt abonnementen via de App Store en StoreKit. De app ontvangt de transactie- en toegangsstatus die nodig is om Premium te ontgrendelen of te herstellen; we ontvangen geen kaartgegevens.</li>",
+        "block-004": "Dienstverleners en het delen van gegevens",
+        "block-005": "Gegevens gaan alleen naar dienstverleners voor zover dat nodig is voor de hierboven genoemde functies: <a href=\"https://policies.google.com/privacy\">Google (AdMob, Firebase en UMP)</a>, <a href=\"https://www.apple.com/legal/privacy/\">Apple</a> en <a href=\"https://www.met.no/en/About-us/privacy\">MET Norway</a>. Zij kunnen gegevens in verschillende landen verwerken volgens hun eigen beleid. Gegevensoverdrachten in het advertentiesysteem kunnen volgens de wetten van sommige Amerikaanse staten gelden als een “verkoop” of “delen”. Gebruikers die daarvoor in aanmerking komen, kunnen zich hiervoor afmelden via de privacykeuzes in de app. Sunchucks vereist geen account bij ons en wij beheren geen server voor gebruikersaccounts.",
+        "block-006": "Bewaren van gegevens en keuzes",
+        "block-007": "Instellingen en bewaarde plaatsen blijven op je apparaat totdat ze worden verwijderd of de app wordt verwijderd. Gegevens die Google, Apple en MET Norway verwerken, vallen ook onder het bewaarbeleid van die partijen, waarover wij geen volledige controle hebben. Beheer toestemmingen voor locatie, camera, meldingen en tracking in de instellingen van iOS. Gebruik waar dat voor je regio vereist is “Privacykeuzes” in de instellingen van Sunchucks om je advertentietoestemming opnieuw te bekijken. Beheer abonnementen in de instellingen van je Apple Account. Neem contact met ons op voor inzage, correctie, bezwaar of verwijdering; we reageren voor zover het gaat om gegevens die we kunnen identificeren en beheren.",
+        "block-008": "Wijzigingen",
+        "block-009": "Het actuele beleid staat hier. Deze website wordt gehost op GitHub Pages; <a href=\"https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement\">GitHub kan bezoekersgegevens verwerken</a>, zoals IP-adressen, om de website te laten werken."
+      }
+    },
+    "sunchucks_terms": {
+      "title": "Gebruiksvoorwaarden",
+      "updatedLabel": "Van kracht sinds 24 september 2026 · Bijgewerkt op 23 november 2026",
+      "footerHTML": "Copyright © Dawid Kolasiński. Alle rechten voorbehouden.",
+      "blocks": {
+        "block-001": "Sunchucks wordt aangeboden door Dawid Kolasiński. Tenzij een afzonderlijke licentieovereenkomst wordt aangeboden, valt het gebruik van de uit de App Store gedownloade app onder <a href=\"https://www.apple.com/legal/internet-services/itunes/dev/stdeula/\">de standaardlicentieovereenkomst voor eindgebruikers van Apple</a> en het toepasselijke recht.",
+        "block-002": "Abonnementen",
+        "block-003": "Sunchucks kan Premium-abonnementen met automatische verlenging aanbieden. De prijs, looptijd en voorwaarden van een specifieke aanbieding worden vóór aankoop in de app en de App Store getoond. Apple verzorgt aankopen, abonnementsbeheer en terugbetalingen. Het verwijderen van de app zegt een actief abonnement niet op.",
+        "block-004": "Contact",
+        "block-005": "Mail voor hulp of vragen naar <a href=\"mailto:sunchucks.support@gmail.com\">sunchucks.support@gmail.com</a>. Lees ons <a href=\"https://dawidkolasinski.github.io/privacy/\">privacybeleid</a> voor informatie over de verwerking van gegevens."
+      }
+    },
+    "moonchucks_privacy": {
+      "title": "Privacybeleid",
+      "updatedLabel": "Laatst bijgewerkt: 23 november 2026",
+      "footerHTML": "Copyright © Dawid Kolasiński.",
+      "blocks": {
+        "block-001": "Moonchucks is een iOS-app van Dawid Kolasiński. Neem voor privacyverzoeken contact op via <a href=\"mailto:sunchucks.support@gmail.com\">sunchucks.support@gmail.com</a> en vermeld Moonchucks.",
+        "block-002": "Locatie en kaarten",
+        "block-003": "Met toestemming van iOS kan Moonchucks je huidige locatie gebruiken om maanobservaties te plannen. Je kunt ook handmatig een plaats kiezen. Bewaarde plaatsen en voorkeuren worden op je apparaat opgeslagen. De coördinaten die nodig zijn voor weersverwachtingen worden naar MET Norway gestuurd. Diensten van Apple kunnen verzoeken voor kaarten en het zoeken naar plaatsen verwerken.",
+        "block-004": "Camera, beweging en meldingen",
+        "block-005": "De camera en bewegingssensoren ondersteunen de weergave in augmented reality. Camerabeelden worden voor die weergave verwerkt en worden niet automatisch geüpload naar een server die wij beheren. Systeemtoestemmingen regelen toegang tot de camera, locatie, foto’s en meldingen die worden gebruikt door de functies die je kiest.",
+        "block-006": "Analyse en diagnostiek",
+        "block-007": "Moonchucks gebruikt Firebase Analytics, Performance Monitoring en Crashlytics. Google kan gebruiksgebeurtenissen, installatie-ID’s, apparaat- en besturingssysteeminformatie, metingen van het opstarten van de app en netwerkprestaties, crashrapporten en stacktraces verwerken. Performance Monitoring kan IP-adressen gebruiken om een algemene regio te schatten. Firebase Remote Config levert de appconfiguratie. Deze diensten helpen ons het gebruik te begrijpen, de app te configureren en problemen vast te stellen.",
+        "block-008": "Online informatie over de hemel",
+        "block-009": "Beelden van het uiterlijk van de Maan en nachtverlichting worden bij diensten van NASA opgevraagd. Informatie over poollicht wordt bij NOAA opgevraagd. Online dienstverleners en hun hostingdiensten kunnen IP-adressen en informatie over verzoeken ontvangen wanneer je deze functies gebruikt. Het gekozen kaartgebied bepaalt welke beelden worden opgevraagd.",
+        "block-010": "Aankopen en ondersteuning",
+        "block-011": "Apple verzorgt abonnementsaankopen en betaalgegevens via de App Store. Moonchucks ontvangt de transactie- en toegangsgegevens die nodig zijn om Premium te ontgrendelen of te herstellen. We ontvangen geen kaartgegevens. Als je de ondersteuning mailt, ontvangen we je e-mailadres en de informatie die je zelf meestuurt.",
+        "block-012": "Advertenties en privacykeuzes",
+        "block-013": "Moonchucks gebruikt Google AdMob voor een banner op het beginscherm. Google kan apparaat-ID’s, een uit IP-adressen afgeleide geschatte locatie, advertentieweergaven en interacties, en diagnostische en prestatiegegevens verwerken voor advertenties en metingen. Toegang tot de advertentie-ID is afhankelijk van trackingtoestemming in iOS.",
+        "block-014": "Google User Messaging Platform beheert de toepasselijke toestemmingsberichten. Waar vereist kun je je keuzes opnieuw bekijken via de privacyopties voor advertenties in de instellingen van de app. Je kunt trackingtoestemming voor iOS beheren onder Instellingen &gt; Privacy en beveiliging &gt; Tracking. Je keuzes kunnen invloed hebben op de beschikbare advertenties.",
+        "block-015": "Dienstverleners",
+        "block-016": "Dienstverleners zijn onder andere <a href=\"https://policies.google.com/privacy\">Google Firebase en AdMob</a>, <a href=\"https://www.apple.com/legal/privacy/\">Apple</a>, <a href=\"https://www.met.no/en/About-us/privacy\">MET Norway</a>, <a href=\"https://www.nasa.gov/privacy/\">NASA</a> en <a href=\"https://www.noaa.gov/organization/information-technology/privacy\">NOAA</a>. Zij kunnen informatie in verschillende landen verwerken volgens hun eigen beleid. Moonchucks vereist geen gebruikersaccount.",
+        "block-017": "Bewaren van gegevens en je keuzes",
+        "block-018": "Bewaarde plaatsen en appvoorkeuren blijven op je apparaat totdat ze worden verwijderd of de app wordt verwijderd. Gegevens bij dienstverleners vallen onder hun bewaarbeleid. Correspondentie met de ondersteuning wordt zo lang bewaard als nodig is om het verzoek af te handelen. Beheer systeemtoestemmingen in de instellingen van iOS en abonnementen in je Apple Account. Neem contact met ons op om inzage, correctie of verwijdering te vragen van informatie die we kunnen identificeren en beheren.",
+        "block-019": "Deze website en wijzigingen",
+        "block-020": "Deze website wordt gehost op GitHub Pages. <a href=\"https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement\">GitHub kan bezoekersinformatie verwerken</a>, waaronder IP-adressen, om de website te laten werken. Het actuele beleid van Moonchucks staat op deze pagina en kan worden bijgewerkt wanneer de gegevensverwerking van de app verandert."
+      }
+    },
+    "moonchucks_terms": {
+      "title": "Gebruiksvoorwaarden",
+      "updatedLabel": "Laatst bijgewerkt: 23 november 2026",
+      "footerHTML": "Copyright © Dawid Kolasiński.",
+      "blocks": {
+        "block-001": "Moonchucks wordt aangeboden door Dawid Kolasiński. Tenzij een afzonderlijke licentieovereenkomst wordt aangeboden, valt het gebruik van de uit de App Store gedownloade app onder <a href=\"https://www.apple.com/legal/internet-services/itunes/dev/stdeula/\">de standaardlicentieovereenkomst voor eindgebruikers van Apple</a> en het toepasselijke recht.",
+        "block-002": "Abonnementen",
+        "block-003": "Moonchucks biedt optionele Premium-abonnementen met automatische verlenging aan. De prijs, factureringsperiode en eventuele introductieaanbieding waarvoor je in aanmerking komt, worden vóór aankoop getoond. Apple verzorgt aankopen, abonnementsbeheer en terugbetalingen. Beheer of zeg een abonnement op in de abonnementsinstellingen van je Apple Account. Het verwijderen van de app zegt een actief abonnement niet op. Gebruik “Herstel aankopen” op het Premium-scherm om een aankoop te herstellen die daarvoor in aanmerking komt.",
+        "block-004": "Advertenties",
+        "block-005": "Moonchucks bevat advertenties. Advertenties zijn mogelijk niet altijd beschikbaar.",
+        "block-006": "Informatie voor de planning",
+        "block-007": "Maanposities en gebeurtenissen worden berekend voor de gekozen plaats, datum en tijd. De werkelijke zichtbaarheid hangt ook af van het weer, het terrein en het zicht op de horizon. De poollichtinformatie van NOAA bestaat uit modelvoorspellingen en garandeert geen zichtbaar poollicht. NASA Night lights toont de laatst beschikbare satellietbeelden van kunstmatige nachtverlichting uit het NASA-product VIIRS NOAA-20 Black Marble. Deze dagelijkse beelden kunnen eerdere waarnemingen gebruiken om ontbrekende delen aan te vullen. Ze zijn geen meting van de hemelhelderheid in realtime en geen Bortle-classificatie.",
+        "block-008": "Contact",
+        "block-009": "Mail voor hulp naar <a href=\"mailto:sunchucks.support@gmail.com\">sunchucks.support@gmail.com</a> en vermeld Moonchucks. Lees het <a href=\"https://dawidkolasinski.github.io/moonchucks/privacy/\">privacybeleid</a> voor informatie over de verwerking van gegevens."
+      }
+    }
+  },
+  "uiLabels": {
+    "privacy": "Privacy",
+    "terms": "Gebruiksvoorwaarden",
+    "support": "Ondersteuning",
+    "legalNavigation": "Juridische pagina’s",
+    "language": "Taal",
+    "onThisPage": "Op deze pagina",
+    "documentSections": "Documentonderdelen",
+    "skipToContent": "Naar de inhoud",
+    "mainNavigation": "Hoofdnavigatie",
+    "footerNavigation": "Voettekstnavigatie",
+    "backToTop": "Terug naar boven"
+  },
+  "privacyHostingVariants": {
+    "sunchucks_privacy": {
+      "github": "Het actuele beleid staat hier. Deze website wordt gehost op GitHub Pages; <a href=\"https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement\">GitHub kan bezoekersgegevens verwerken</a>, zoals IP-adressen, om de website te laten werken.",
+      "cloudflare": "Het actuele beleid staat hier. Deze website gebruikt Cloudflare Pages. Cloudflare verwerkt technische gegevens over verzoeken, waaronder IP-adressen, om de website aan te bieden en te beschermen. Lees de <a href=\"https://www.cloudflare.com/privacypolicy/\">privacyinformatie van Cloudflare</a>.",
+      "firebase": "Het actuele beleid staat hier. Deze website gebruikt Firebase Hosting. Google verwerkt IP-adressen en gegevens over verzoeken om de website aan te bieden en tegen misbruik te beschermen. Lees de <a href=\"https://firebase.google.com/support/privacy\">privacyinformatie van Firebase</a>."
+    },
+    "moonchucks_privacy": {
+      "github": "Deze website wordt gehost op GitHub Pages. <a href=\"https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement\">GitHub kan bezoekersinformatie verwerken</a>, waaronder IP-adressen, om de website te laten werken. Het actuele beleid van Moonchucks staat op deze pagina en kan worden bijgewerkt wanneer de gegevensverwerking van de app verandert.",
+      "cloudflare": "Deze website gebruikt Cloudflare Pages. Cloudflare verwerkt technische gegevens over verzoeken, waaronder IP-adressen, om de website aan te bieden en te beschermen. Lees de <a href=\"https://www.cloudflare.com/privacypolicy/\">privacyinformatie van Cloudflare</a>. Het actuele beleid van Moonchucks staat op deze pagina en kan worden bijgewerkt wanneer de gegevensverwerking van de app verandert.",
+      "firebase": "Deze website gebruikt Firebase Hosting. Google verwerkt IP-adressen en gegevens over verzoeken om de website aan te bieden en tegen misbruik te beschermen. Lees de <a href=\"https://firebase.google.com/support/privacy\">privacyinformatie van Firebase</a>. Het actuele beleid van Moonchucks staat op deze pagina en kan worden bijgewerkt wanneer de gegevensverwerking van de app verandert."
+    }
+  },
+  "translation": {
+    "method": "assistant-authored",
+    "reviewStatus": "targeted-editorial-review",
+    "independentNativeReview": false,
+    "published": false,
+    "reviewedUnitCount": 77,
+    "editorialChanges": [
+      "Translated and reviewed all 77 complete source units directly, preserving every clause, qualification, negation, permission and data-rights limitation.",
+      "Preserved provider identities, precise NASA product and NOAA model distinctions, subscriptions/cancellation/restore, all links, dates and complete hosting alternatives. No new legal rules."
+    ]
+  }
+}

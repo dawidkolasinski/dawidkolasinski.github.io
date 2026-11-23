@@ -1,0 +1,111 @@
+{
+  "schemaVersion": 1,
+  "sourceHash": "bd2c2f6d35958a0e87d2f3b25f9549e0cc16c4c50f24c4b8432e25be7e69bc57",
+  "locale": "sk",
+  "documents": {
+    "sunchucks_privacy": {
+      "title": "Zásady ochrany osobných údajov",
+      "updatedLabel": "Platné od 30. septembra 2026 · Aktualizované 23. novembra 2026",
+      "footerHTML": "Copyright © Dawid Kolasiński. Všetky práva vyhradené.",
+      "blocks": {
+        "block-001": "Sunchucks je aplikácia pre iOS, ktorú poskytuje Dawid Kolasiński. V prípade žiadostí o ochranu osobných údajov kontaktujte <a href=\"mailto:sunchucks.support@gmail.com\">sunchucks.support@gmail.com</a>.",
+        "block-002": "Údaje a účely",
+        "block-003": "<li><strong>Poloha a počasie.</strong> S povolením pre iOS môže aplikácia používať vašu aktuálnu polohu. Miesto môžete vybrať aj manuálne bez udelenia prístupu k polohe. Vybraná poloha sa používa pre mapy, astronomické výpočty pre Slnko a predpovede. Súradnice potrebné pre predpovede počasia sa odosielajú do Apple WeatherKit. Mapy oblačnosti a zrážok používajú služby MET Norway/YR. Základné mapy a vyhľadávanie miest môžu používať služby Apple. Uložené miesta a preferencie sa ukladajú do vášho zariadenia.</li><li><strong>Fotoaparát a pripomienky.</strong> Snímky z fotoaparátu sa používajú na zobrazenie rozšírenej reality a nie sú automaticky nahrávané na server, ktorý prevádzkujeme. Systém iOS spracováva pripomienky na základe vášho povolenia.</li><li><strong>Analytika a výkon.</strong> Firebase Analytics a Firebase Performance Monitoring nám pomáhajú pochopiť používanie aplikácií a zlepšiť ich výkon. Môžu spracovávať udalosti používania aplikácií, vlastnosti stavu aplikácií, údaje o zariadeniach a operačnom systéme, metriky spustenia aplikácií a metriky sieťových požiadaviek. Firebase Performance môže použiť IP adresy na odhad všeobecného regiónu. Naše vlastné udalosti Analytics neobsahujú súradnice, názvy miest, e-mailové adresy ani používateľský obsah. V EHP, Spojenom kráľovstve a Švajčiarsku môžu signály súhlasu Google UMP ďalej obmedzovať zhromažďovanie údajov Analytics. Možnosti reklamy sú k dispozícii samostatne.</li><li><strong>Správy o zlyhaní.</strong> Firebase Crashlytics automaticky prijíma správy o zlyhaní, stopy zásobníka, relevantný stav aplikácie a podrobnosti o zariadení/operačnom systéme, aby pomohol s riešením problémov. Nepripájame vlastné ID používateľov ani súradnice.</li><li><strong>Reklama.</strong> Domovská stránka môže zobrazovať banner. Google AdMob a jej partneri môžu spracovávať IP adresy, identifikátory zariadení či reklamné identifikátory dostupné podľa vašich povolení, interakcie s reklamami a diagnostické údaje na účely zobrazovania reklám, merania a predchádzania podvodom. Aplikácia neodosiela vybrané súradnice do služby AdMob. Google User Messaging Platform zhromažďuje v prípade potreby možnosti reklamy. Odmietnutie povolenia na sledovanie v systéme iOS neblokuje reklamy, ale obmedzuje používanie identifikátora reklamy a sledovanie naprieč aplikáciami. Odmietnutie prispôsobenia reklám môže stále povoliť neprispôsobené alebo obmedzené reklamy v závislosti od vášho regiónu a možností súhlasu. Aplikácia nevyžaduje reklamu, keď to platforma Google UMP nepovoľuje, a oprávnená žiadosť stále nemusí vrátiť žiadnu reklamu.</li><li><strong>Nákupy.</strong> Spoločnosť Apple spracováva predplatné prostredníctvom App Store a StoreKit. Aplikácia prijíma informácie o transakcii a stave oprávnenia potrebné na odomknutie alebo obnovenie služby Premium; nedostávame údaje o karte.</li>",
+        "block-004": "Poskytovatelia a zdieľanie",
+        "block-005": "Dáta sa odosielajú poskytovateľom iba v rozsahu potrebnom pre vyššie uvedené funkcie: <a href=\"https://policies.google.com/privacy\">Google (AdMob, Firebase a UMP)</a>, <a href=\"https://www.apple.com/legal/privacy/\">Apple</a> a <a href=\"https://www.met.no/en/About-us/privacy\">MET Norway</a>. Títo môžu spracovávať dáta v rôznych krajinách podľa vlastných zásad. Prenosy dát v reklamnom systéme sa môžu podľa niektorých zákonov štátov USA považovať za „predaj“ alebo „zdieľanie“. Oprávnení používatelia sa môžu odhlásiť prostredníctvom nastavení ochrany osobných údajov v aplikácii. Sunchucks nevyžaduje, aby ste u nás mali účet, a neprevádzkuje server používateľských účtov.",
+        "block-006": "Uchovávanie údajov a možnosti výberu",
+        "block-007": "Nastavenia a uložené miesta zostanú vo vašom zariadení, kým ich neodstránite alebo kým neodinštalujete aplikáciu. Údaje spracovávané spoločnosťami Google, Apple a MET Norway tiež podliehajú postupom uchovávania údajov týchto poskytovateľov, nad ktorými nemáme úplnú kontrolu. Povolenia týkajúce sa polohy, kamery, upozornení a sledovania spravujte v nastaveniach systému iOS. Ak je to potrebné pre váš región, použite na opätovné zobrazenie súhlasu s reklamami možnosť „Možnosti ochrany osobných údajov“ v nastaveniach Sunchucks. Spravujte predplatné v nastaveniach svojho účtu Apple. Kontaktujte nás a požiadajte o prístup, opravu, namietanie alebo vymazanie; odpovieme na žiadosti týkajúce sa údajov, ktoré dokážeme identifikovať a kontrolovať.",
+        "block-008": "Zmeny",
+        "block-009": "Aktuálne zásady sú zverejnené tu. Táto stránka je hostovaná na GitHub Pages; <a href=\"https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement\">GitHub môže spracovávať údaje návštevníkov,</a> ako sú IP adresy, na prevádzku stránky."
+      }
+    },
+    "sunchucks_terms": {
+      "title": "Podmienky používania",
+      "updatedLabel": "Platné od 24. septembra 2026 · Aktualizované 23. novembra 2026",
+      "footerHTML": "Copyright © Dawid Kolasiński. Všetky práva vyhradené.",
+      "blocks": {
+        "block-001": "Aplikáciu Sunchucks poskytuje Dawid Kolasiński. Pokiaľ nie je predložená samostatná licenčná zmluva, používanie aplikácie stiahnutej z App Store sa riadi <a href=\"https://www.apple.com/legal/internet-services/itunes/dev/stdeula/\">štandardnou licenčnou zmluvou s koncovým používateľom spoločnosti Apple</a> a príslušnými právnymi predpismi.",
+        "block-002": "Predplatné",
+        "block-003": "Sunchucks môže ponúkať automaticky obnoviteľné prémiové predplatné. Cena, trvanie a podmienky konkrétnej ponuky sa zobrazia pred nákupom v aplikácii a App Store. Spoločnosť Apple zabezpečuje nákupy, správu predplatného a vrátenie peňazí. Odstránením aplikácie sa aktívne predplatné nezruší.",
+        "block-004": "Kontakt",
+        "block-005": "V prípade potreby pomoci alebo otázok nám napíšte e-mail na adresu <a href=\"mailto:sunchucks.support@gmail.com\">sunchucks.support@gmail.com</a>. Prečítajte si naše <a href=\"https://dawidkolasinski.github.io/privacy/\">Zásady ochrany osobných údajov</a>, kde nájdete informácie o postupoch pri spracovaní údajov."
+      }
+    },
+    "moonchucks_privacy": {
+      "title": "Zásady ochrany osobných údajov",
+      "updatedLabel": "Posledná aktualizácia: 23. novembra 2026",
+      "footerHTML": "Copyright © Dawid Kolasiński.",
+      "blocks": {
+        "block-001": "Moonchucks je aplikácia pre iOS od Dawida Kolasińského. V prípade žiadostí o ochranu súkromia kontaktujte <a href=\"mailto:sunchucks.support@gmail.com\">sunchucks.support@gmail.com</a> a uveďte Moonchucks.",
+        "block-002": "Poloha a mapy",
+        "block-003": "S povolením od iOS môže Moonchucks použiť vašu aktuálnu polohu na plánovanie pozorovaní Mesiaca. Miesto si môžete vybrať aj manuálne. Uložené miesta a preferencie sa ukladajú do vášho zariadenia. Súradnice potrebné na predpovede počasia sa odosielajú službe MET Norway. Služby Apple môžu spracovávať požiadavky na vyhľadávanie máp a miest.",
+        "block-004": "Fotoaparát, pohyb a upozornenia",
+        "block-005": "Kamera a snímače pohybu podporujú zobrazenie rozšírenej reality. Snímky z kamery sa spracovávajú pre toto zobrazenie a nie sú automaticky nahrávané na server, ktorý prevádzkujeme. Systémové povolenia riadia prístup ku kamere, polohe, fotografiám a upozorneniam používaným funkciami, ktoré si vyberiete.",
+        "block-006": "Analytika a diagnostika",
+        "block-007": "Moonchucks používa Firebase Analytics, Performance Monitoring a Crashlytics. Google môže spracovávať udalosti používania aplikácií, identifikátory inštalácií, informácie o zariadení a operačnom systéme, metriky spustenia aplikácií a výkonu siete, správy o zlyhaní a stopy zásobníkov. Performance Monitoring môže použiť IP adresy na odhadnutie všeobecnej oblasti. Firebase Remote Config poskytuje konfiguráciu aplikácií. Tieto služby nám pomáhajú pochopiť používanie, konfigurovať aplikáciu a diagnostikovať problémy.",
+        "block-008": "Informácie o oblohe online",
+        "block-009": "Vzhľad Mesiaca a snímky nočného svetla sa vyžadujú od služieb NASA. Informácie o polárnej žiare sa vyžadujú od NOAA. Poskytovatelia online služieb a ich hostingové služby môžu prijímať IP adresy a informácie o požiadavkách, keď sa tieto funkcie používajú. Vybraná oblasť mapy určuje požadované snímky.",
+        "block-010": "Nákupy a podpora",
+        "block-011": "Spoločnosť Apple spracováva nákupy predplatného a platobné údaje prostredníctvom obchodu App Store. Moonchucks dostáva informácie o transakciách a nárokoch potrebné na odomknutie alebo obnovenie služby Premium. My nedostávame údaje o vašej karte. Ak nám pošlete e-mail na podporu, dostaneme vašu e-mailovú adresu a informácie, ktoré sa rozhodnete zahrnúť.",
+        "block-012": "Možnosti reklamy a ochrany osobných údajov",
+        "block-013": "Moonchucks používa Google AdMob pre banner na Domovskej stránke. Google môže spracovávať identifikátory zariadení, približnú polohu odvodenú z IP adries, zobrazenia reklám a interakcie s nimi a diagnostické údaje a údaje o výkonnosti na účely reklamy a merania. Prístup k reklamnému identifikátoru podlieha povoleniu na sledovanie v systéme iOS.",
+        "block-014": "Google User Messaging Platform spravuje príslušné žiadosti o súhlas. V prípade potreby vám možnosti ochrany osobných údajov v reklamách v nastaveniach aplikácie umožňujú prehodnotiť vaše rozhodnutia. Povolenia na sledovanie v systéme iOS môžete spravovať v časti Nastavenia &gt; Ochrana osobných údajov a zabezpečenie &gt; Sledovanie. Vaše rozhodnutia môžu ovplyvniť dostupné reklamy.",
+        "block-015": "Poskytovatelia",
+        "block-016": "Medzi poskytovateľov patria <a href=\"https://policies.google.com/privacy\">Google Firebase a AdMob</a>, <a href=\"https://www.apple.com/legal/privacy/\">Apple</a>, <a href=\"https://www.met.no/en/About-us/privacy\">MET Norway</a>, <a href=\"https://www.nasa.gov/privacy/\">NASA</a> a <a href=\"https://www.noaa.gov/organization/information-technology/privacy\">NOAA</a>. Môžu spracovávať informácie v rôznych krajinách podľa vlastných zásad. Moonchucks nevyžaduje používateľský účet.",
+        "block-017": "Uchovávanie údajov a vaše možnosti",
+        "block-018": "Uložené miesta a nastavenia aplikácií zostávajú vo vašom zariadení, kým ich neodstránite alebo kým aplikáciu neodinštalujete. Údaje poskytovateľa podliehajú pravidlám uchovávania údajov poskytovateľa. Korešpondencia s podporou sa uchováva podľa potreby na spracovanie žiadosti. Spravujte systémové povolenia v nastaveniach systému iOS a predplatné vo svojom účte Apple. Kontaktujte nás a požiadajte o prístup, opravu alebo vymazanie informácií, ktoré dokážeme identifikovať a kontrolovať.",
+        "block-019": "Táto webová stránka a jej zmeny",
+        "block-020": "Túto stránku hostuje GitHub Pages. <a href=\"https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement\">GitHub môže spracovávať informácie o návštevníkoch</a> vrátane IP adries na prevádzku stránky. Aktuálne zásady Moonchucks sú zverejnené na tejto stránke a môžu byť aktualizované, keď sa zmenia postupy aplikácie týkajúce sa údajov."
+      }
+    },
+    "moonchucks_terms": {
+      "title": "Podmienky používania",
+      "updatedLabel": "Posledná aktualizácia: 23. novembra 2026",
+      "footerHTML": "Copyright © Dawid Kolasiński.",
+      "blocks": {
+        "block-001": "Aplikáciu Moonchucks poskytuje Dawid Kolasiński. Pokiaľ nie je predložená samostatná licenčná zmluva, používanie aplikácie stiahnutej z App Store sa riadi <a href=\"https://www.apple.com/legal/internet-services/itunes/dev/stdeula/\">štandardnou licenčnou zmluvou s koncovým používateľom spoločnosti Apple</a> a príslušnými právnymi predpismi.",
+        "block-002": "Predplatné",
+        "block-003": "Moonchucks ponúka voliteľné automaticky obnoviteľné prémiové predplatné. Cena, fakturačné obdobie a prípadné úvodné ponuky, na ktoré máte nárok sa zobrazia pred nákupom. Spoločnosť Apple spravuje nákupy, správu predplatného a vrátenie peňazí. Spravujte alebo zrušte predplatné v nastaveniach predplatného vášho účtu Apple. Odstránením aplikácie sa aktívne predplatné nezruší. Na obnovenie nákupu, ktorý spĺňa podmienky použite možnosť Obnoviť nákupy na obrazovke Premium.",
+        "block-004": "Reklama",
+        "block-005": "Moonchucks obsahuje reklamu. Reklamy nemusia byť vždy dostupné.",
+        "block-006": "Informácie o plánovaní",
+        "block-007": "Polohy a udalosti Mesiaca sa vypočítavajú pre vybrané miesto, dátum a čas. Skutočná viditeľnosť závisí aj od počasia, terénu a pohľadu na horizont. Informácie o polárnej žiare od NOAA sú modelované predpovedné údaje a nezaručujú viditeľnú polárnu žiaru. NASA Night lights zobrazuje najnovšie dostupné satelitné snímky umelých nočných svetiel z produktu NASA VIIRS NOAA-20 Black Marble. Tieto denné snímky môžu na vyplnenie medzier použiť skoršie pozorovania. Nejde o meranie jasu oblohy v reálnom čase ani o klasifikáciu Bortle.",
+        "block-008": "Kontakt",
+        "block-009": "Ak potrebujete pomoc, pošlite e-mail na adresu <a href=\"mailto:sunchucks.support@gmail.com\">sunchucks.support@gmail.com</a> a uveďte Moonchucks. Prečítajte si <a href=\"https://dawidkolasinski.github.io/moonchucks/privacy/\">Zásady ochrany osobných údajov</a>, kde nájdete informácie o postupoch pri spracovaní údajov."
+      }
+    }
+  },
+  "uiLabels": {
+    "privacy": "Súkromie",
+    "terms": "Podmienky používania",
+    "support": "Podpora",
+    "legalNavigation": "Právne stránky",
+    "language": "Jazyk",
+    "onThisPage": "Na tejto stránke",
+    "documentSections": "Sekcie dokumentu",
+    "skipToContent": "Preskočiť na obsah",
+    "mainNavigation": "Hlavná navigácia",
+    "footerNavigation": "Navigácia v päte",
+    "backToTop": "Späť na začiatok"
+  },
+  "privacyHostingVariants": {
+    "sunchucks_privacy": {
+      "github": "Aktuálne zásady sú zverejnené tu. Táto stránka je hostovaná na GitHub Pages; <a href=\"https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement\">GitHub môže spracovávať údaje návštevníkov,</a> ako sú IP adresy, na prevádzku stránky.",
+      "cloudflare": "Aktuálne zásady sú zverejnené tu. Táto webová stránka používa Cloudflare Pages. Cloudflare spracováva údaje o technických požiadavkách vrátane IP adries na poskytovanie a ochranu stránky. Pozrite si <a href=\"https://www.cloudflare.com/privacypolicy/\">informácie o ochrane osobných údajov Cloudflare</a>.",
+      "firebase": "Aktuálne zásady sú zverejnené tu. Táto webová stránka používa Firebase Hosting. Spoločnosť Google spracováva IP adresy a údaje požiadaviek na poskytovanie stránky a jej ochranu pred zneužitím. Pozrite si <a href=\"https://firebase.google.com/support/privacy\">informácie o ochrane osobných údajov Firebase</a>."
+    },
+    "moonchucks_privacy": {
+      "github": "Túto stránku hostuje GitHub Pages. <a href=\"https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement\">GitHub môže spracovávať informácie o návštevníkoch</a> vrátane IP adries na prevádzku stránky. Aktuálne zásady Moonchucks sú zverejnené na tejto stránke a môžu byť aktualizované, keď sa zmenia postupy aplikácie týkajúce sa údajov.",
+      "cloudflare": "Táto webová stránka používa Cloudflare Pages. Cloudflare spracováva technické údaje požiadaviek vrátane IP adries na poskytovanie a ochranu stránky. Pozrite si <a href=\"https://www.cloudflare.com/privacypolicy/\">informácie o ochrane osobných údajov Cloudflare</a>. Aktuálne zásady Moonchucks sú zverejnené na tejto stránke a môžu byť aktualizované, keď sa zmenia postupy aplikácie týkajúce sa údajov.",
+      "firebase": "Táto webová stránka používa Firebase Hosting. Spoločnosť Google spracováva IP adresy a údaje požiadaviek na poskytovanie stránky a jej ochranu pred zneužitím. Pozrite si <a href=\"https://firebase.google.com/support/privacy\">informácie o ochrane osobných údajov Firebase</a>. Aktuálne zásady Moonchucks sú zverejnené na tejto stránke a môžu byť aktualizované, keď sa zmenia postupy aplikácie týkajúce sa údajov."
+    }
+  },
+  "translation": {
+    "method": "google-documents",
+    "reviewStatus": "targeted-editorial-review",
+    "published": false,
+    "inputFile": "sk.docx",
+    "inputSHA256": "2bd329752be0b687d8017879db5f58eea1c506c83b087bc48a18434abb2ed5c1",
+    "independentNativeReview": false
+  }
+}

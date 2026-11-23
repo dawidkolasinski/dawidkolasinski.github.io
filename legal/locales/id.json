@@ -1,0 +1,109 @@
+{
+  "schemaVersion": 1,
+  "sourceHash": "bd2c2f6d35958a0e87d2f3b25f9549e0cc16c4c50f24c4b8432e25be7e69bc57",
+  "locale": "id",
+  "documents": {
+    "sunchucks_privacy": {
+      "title": "Kebijakan Privasi",
+      "updatedLabel": "Berlaku sejak 30 September 2026 · Diperbarui 23 November 2026",
+      "footerHTML": "Hak cipta © Dawid Kolasiński. Seluruh hak dilindungi.",
+      "blocks": {
+        "block-001": "Sunchucks adalah aplikasi iOS yang disediakan oleh Dawid Kolasiński. Untuk permintaan terkait privasi, hubungi <a href=\"mailto:sunchucks.support@gmail.com\">sunchucks.support@gmail.com</a>.",
+        "block-002": "Data dan tujuan penggunaan",
+        "block-003": "<li><strong>Lokasi dan cuaca.</strong> Dengan izin iOS, aplikasi dapat menggunakan lokasi Anda saat ini. Anda juga dapat memilih tempat secara manual tanpa memberikan akses lokasi. Lokasi yang dipilih digunakan untuk peta, perhitungan matahari, dan prakiraan cuaca. Koordinat yang diperlukan untuk prakiraan cuaca dikirim ke Apple WeatherKit. Peta tutupan awan dan curah hujan menggunakan layanan MET Norway/YR. Peta dasar dan pencarian tempat dapat menggunakan layanan Apple. Tempat tersimpan dan preferensi disimpan di perangkat Anda.</li><li><strong>Kamera dan pengingat.</strong> Bingkai gambar kamera digunakan untuk tampilan realitas tertambah dan tidak otomatis diunggah ke server yang kami operasikan. iOS menangani pengingat berdasarkan izin yang Anda berikan.</li><li><strong>Analitik dan kinerja.</strong> Firebase Analytics dan Firebase Performance Monitoring membantu kami memahami penggunaan aplikasi dan meningkatkan kinerjanya. Layanan ini dapat memproses peristiwa penggunaan aplikasi, properti status aplikasi, data perangkat dan sistem operasi, metrik peluncuran aplikasi, serta metrik permintaan jaringan. Firebase Performance dapat menggunakan alamat IP untuk memperkirakan wilayah secara umum. Peristiwa Analytics khusus kami tidak berisi koordinat, nama tempat, alamat email, atau konten pengguna. Di EEA, Britania Raya, dan Swiss, sinyal persetujuan Google UMP dapat membatasi pengumpulan Analytics lebih lanjut. Pilihan iklan tersedia secara terpisah.</li><li><strong>Laporan kerusakan.</strong> Firebase Crashlytics otomatis menerima laporan kerusakan, jejak tumpukan, status aplikasi yang relevan, dan detail perangkat/sistem operasi untuk membantu memperbaiki masalah. Kami tidak menyertakan ID pengguna khusus atau koordinat.</li><li><strong>Iklan.</strong> Layar utama dapat menampilkan spanduk. Google AdMob dan mitranya dapat memproses alamat IP, pengenal perangkat atau iklan yang tersedia sesuai izin Anda, interaksi iklan, dan diagnostik untuk penayangan iklan, pengukuran, dan pencegahan penipuan. Aplikasi tidak meneruskan koordinat yang dipilih ke AdMob. Google User Messaging Platform mengumpulkan pilihan iklan jika diwajibkan. Menolak izin pelacakan iOS tidak memblokir iklan, tetapi membatasi penggunaan pengenal iklan dan pelacakan lintas aplikasi. Menolak personalisasi iklan masih dapat memungkinkan iklan nonpersonalisasi atau terbatas, bergantung pada wilayah dan pilihan persetujuan Anda. Aplikasi tidak meminta iklan ketika Google UMP tidak mengizinkannya, dan permintaan yang memenuhi syarat pun dapat tidak menghasilkan iklan.</li><li><strong>Pembelian.</strong> Apple memproses langganan melalui App Store dan StoreKit. Aplikasi menerima status transaksi dan hak akses yang diperlukan untuk membuka atau memulihkan Premium; kami tidak menerima detail kartu.</li>",
+        "block-004": "Penyedia dan pembagian data",
+        "block-005": "Data dikirim ke penyedia hanya sesuai kebutuhan fitur di atas: <a href=\"https://policies.google.com/privacy\">Google (AdMob, Firebase, dan UMP)</a>, <a href=\"https://www.apple.com/legal/privacy/\">Apple</a>, dan <a href=\"https://www.met.no/en/About-us/privacy\">MET Norway</a>. Mereka dapat memproses data di berbagai negara sesuai kebijakan masing-masing. Transfer data dalam sistem iklan dapat dianggap sebagai “penjualan” atau “pembagian” menurut undang-undang beberapa negara bagian AS; pengguna yang memenuhi syarat dapat menolaknya melalui pilihan privasi aplikasi. Sunchucks tidak mewajibkan akun pada kami dan tidak mengoperasikan server akun pengguna.",
+        "block-006": "Penyimpanan dan pilihan",
+        "block-007": "Pengaturan dan tempat tersimpan tetap berada di perangkat Anda hingga dihapus atau aplikasi dicopot. Data yang diproses Google, Apple, dan MET Norway juga tunduk pada praktik penyimpanan penyedia tersebut yang tidak sepenuhnya kami kendalikan. Kelola izin lokasi, kamera, notifikasi, dan pelacakan di Pengaturan iOS. Jika diwajibkan di wilayah Anda, gunakan “Pilihan privasi” di Pengaturan Sunchucks untuk meninjau kembali persetujuan iklan. Kelola langganan di pengaturan akun Apple Anda. Hubungi kami untuk meminta akses, perbaikan, mengajukan keberatan, atau meminta penghapusan; kami akan menanggapi untuk data yang dapat kami identifikasi dan kendalikan.",
+        "block-008": "Perubahan",
+        "block-009": "Kebijakan terkini diterbitkan di sini. Situs ini dihosting di GitHub Pages; <a href=\"https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement\">GitHub dapat memproses data pengunjung</a> seperti alamat IP untuk mengoperasikan situs."
+      }
+    },
+    "sunchucks_terms": {
+      "title": "Ketentuan Penggunaan",
+      "updatedLabel": "Berlaku sejak 24 September 2026 · Diperbarui 23 November 2026",
+      "footerHTML": "Hak cipta © Dawid Kolasiński. Seluruh hak dilindungi.",
+      "blocks": {
+        "block-001": "Sunchucks disediakan oleh Dawid Kolasiński. Kecuali jika perjanjian lisensi terpisah disajikan, penggunaan aplikasi yang diunduh dari App Store tunduk pada <a href=\"https://www.apple.com/legal/internet-services/itunes/dev/stdeula/\">Perjanjian Lisensi Pengguna Akhir Standar Apple</a> dan hukum yang berlaku.",
+        "block-002": "Langganan",
+        "block-003": "Sunchucks dapat menawarkan langganan Premium yang diperpanjang otomatis. Harga, durasi, dan ketentuan penawaran tertentu ditampilkan sebelum pembelian di aplikasi dan App Store. Apple menangani pembelian, pengelolaan langganan, dan pengembalian dana. Menghapus aplikasi tidak membatalkan langganan aktif.",
+        "block-004": "Kontak",
+        "block-005": "Untuk bantuan atau pertanyaan, kirim email ke <a href=\"mailto:sunchucks.support@gmail.com\">sunchucks.support@gmail.com</a>. Lihat <a href=\"https://dawidkolasinski.github.io/privacy/\">Kebijakan Privasi</a> kami untuk praktik pengelolaan data."
+      }
+    },
+    "moonchucks_privacy": {
+      "title": "Kebijakan Privasi",
+      "updatedLabel": "Terakhir diperbarui: 23 November 2026",
+      "footerHTML": "Hak cipta © Dawid Kolasiński.",
+      "blocks": {
+        "block-001": "Moonchucks adalah aplikasi iOS yang disediakan oleh Dawid Kolasiński. Untuk permintaan terkait privasi, hubungi <a href=\"mailto:sunchucks.support@gmail.com\">sunchucks.support@gmail.com</a> dan sebutkan Moonchucks.",
+        "block-002": "Lokasi dan peta",
+        "block-003": "Dengan izin iOS, Moonchucks dapat menggunakan lokasi Anda saat ini untuk perencanaan terkait bulan. Anda juga dapat memilih tempat secara manual. Tempat tersimpan dan preferensi disimpan di perangkat Anda. Koordinat yang diperlukan untuk prakiraan cuaca dikirim ke MET Norway. Layanan Apple dapat memproses permintaan peta dan pencarian tempat.",
+        "block-004": "Kamera, gerakan, dan notifikasi",
+        "block-005": "Kamera dan sensor gerak mendukung tampilan realitas tertambah. Bingkai gambar kamera diproses untuk tampilan tersebut dan tidak otomatis diunggah ke server yang kami operasikan. Izin sistem mengendalikan akses ke kamera, lokasi, foto, dan notifikasi yang digunakan fitur pilihan Anda.",
+        "block-006": "Analitik dan diagnostik",
+        "block-007": "Moonchucks menggunakan Firebase Analytics, Performance Monitoring, dan Crashlytics. Google dapat memproses peristiwa penggunaan aplikasi, pengenal instalasi, informasi perangkat dan sistem operasi, metrik peluncuran aplikasi dan kinerja jaringan, laporan kerusakan, serta jejak tumpukan. Performance Monitoring dapat menggunakan alamat IP untuk memperkirakan wilayah secara umum. Firebase Remote Config menyediakan konfigurasi aplikasi. Layanan ini membantu kami memahami penggunaan, mengonfigurasi aplikasi, dan mendiagnosis masalah.",
+        "block-008": "Informasi langit daring",
+        "block-009": "Citra penampakan bulan dan cahaya malam diminta dari layanan NASA. Informasi aurora diminta dari NOAA. Penyedia daring dan layanan hosting mereka dapat menerima alamat IP serta informasi permintaan ketika fitur ini digunakan. Wilayah peta yang dipilih menentukan citra yang diminta.",
+        "block-010": "Pembelian dan dukungan",
+        "block-011": "Apple menangani pembelian langganan dan detail pembayaran melalui App Store. Moonchucks menerima informasi transaksi dan hak akses yang diperlukan untuk membuka atau memulihkan Premium. Kami tidak menerima detail kartu Anda. Jika Anda mengirim email ke dukungan, kami menerima alamat email Anda dan informasi yang Anda pilih untuk disertakan.",
+        "block-012": "Iklan dan pilihan privasi",
+        "block-013": "Moonchucks menggunakan Google AdMob untuk spanduk di layar utama. Google dapat memproses pengenal perangkat, perkiraan lokasi dari alamat IP, tayangan dan interaksi iklan, serta data diagnostik dan kinerja untuk iklan dan pengukuran. Akses ke pengenal iklan tunduk pada izin pelacakan iOS.",
+        "block-014": "Google User Messaging Platform mengelola pesan persetujuan yang berlaku. Jika diwajibkan, opsi privasi iklan di Pengaturan aplikasi memungkinkan Anda meninjau kembali pilihan Anda. Anda dapat mengelola izin pelacakan iOS di Pengaturan &gt; Privasi &amp; Keamanan &gt; Pelacakan. Pilihan Anda dapat memengaruhi iklan yang tersedia.",
+        "block-015": "Penyedia",
+        "block-016": "Penyedia mencakup <a href=\"https://policies.google.com/privacy\">Google Firebase dan AdMob</a>, <a href=\"https://www.apple.com/legal/privacy/\">Apple</a>, <a href=\"https://www.met.no/en/About-us/privacy\">MET Norway</a>, <a href=\"https://www.nasa.gov/privacy/\">NASA</a>, dan <a href=\"https://www.noaa.gov/organization/information-technology/privacy\">NOAA</a>. Mereka dapat memproses informasi di berbagai negara sesuai kebijakan masing-masing. Moonchucks tidak mewajibkan akun pengguna.",
+        "block-017": "Penyimpanan dan pilihan Anda",
+        "block-018": "Tempat tersimpan dan preferensi aplikasi tetap berada di perangkat Anda hingga dihapus atau aplikasi dicopot. Data penyedia tunduk pada kebijakan penyimpanan penyedia tersebut. Korespondensi dukungan disimpan selama diperlukan untuk menangani permintaan. Kelola izin sistem di Pengaturan iOS dan langganan di Akun Apple Anda. Hubungi kami untuk meminta akses, perbaikan, atau penghapusan informasi yang dapat kami identifikasi dan kendalikan.",
+        "block-019": "Situs ini dan perubahan",
+        "block-020": "Situs ini dihosting oleh GitHub Pages. <a href=\"https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement\">GitHub dapat memproses informasi pengunjung</a>, termasuk alamat IP, untuk mengoperasikan situs. Kebijakan Moonchucks terkini diterbitkan di halaman ini dan dapat diperbarui ketika praktik pengelolaan data aplikasi berubah."
+      }
+    },
+    "moonchucks_terms": {
+      "title": "Ketentuan Penggunaan",
+      "updatedLabel": "Terakhir diperbarui: 23 November 2026",
+      "footerHTML": "Hak cipta © Dawid Kolasiński.",
+      "blocks": {
+        "block-001": "Moonchucks disediakan oleh Dawid Kolasiński. Kecuali jika perjanjian lisensi terpisah disajikan, penggunaan aplikasi yang diunduh dari App Store tunduk pada <a href=\"https://www.apple.com/legal/internet-services/itunes/dev/stdeula/\">Perjanjian Lisensi Pengguna Akhir Standar Apple</a> dan hukum yang berlaku.",
+        "block-002": "Langganan",
+        "block-003": "Moonchucks menawarkan langganan Premium opsional yang diperpanjang otomatis. Harga, periode penagihan, dan penawaran perkenalan yang memenuhi syarat ditampilkan sebelum pembelian. Apple menangani pembelian, pengelolaan langganan, dan pengembalian dana. Kelola atau batalkan langganan di pengaturan langganan Akun Apple Anda. Menghapus aplikasi tidak membatalkan langganan aktif. Gunakan Pulihkan Pembelian di layar Premium untuk memulihkan pembelian yang memenuhi syarat.",
+        "block-004": "Iklan",
+        "block-005": "Moonchucks menampilkan iklan. Iklan mungkin tidak selalu tersedia.",
+        "block-006": "Informasi perencanaan",
+        "block-007": "Posisi dan peristiwa bulan dihitung untuk tempat, tanggal, dan waktu yang dipilih. Visibilitas sebenarnya juga bergantung pada cuaca, medan, dan pandangan ke cakrawala. Informasi aurora NOAA adalah data prakiraan berbasis model dan tidak menjamin aurora terlihat. Cahaya malam NASA menampilkan citra satelit terbaru yang tersedia dari NASA VIIRS NOAA-20 Black Marble mengenai cahaya buatan pada malam hari. Citra harian ini dapat menggunakan pengamatan terdahulu untuk mengisi kekosongan. Citra tersebut bukan pengukuran kecerahan langit secara langsung maupun klasifikasi Bortle.",
+        "block-008": "Kontak",
+        "block-009": "Untuk bantuan, kirim email ke <a href=\"mailto:sunchucks.support@gmail.com\">sunchucks.support@gmail.com</a> dan sebutkan Moonchucks. Baca <a href=\"https://dawidkolasinski.github.io/moonchucks/privacy/\">Kebijakan Privasi</a> untuk informasi tentang praktik pengelolaan data."
+      }
+    }
+  },
+  "uiLabels": {
+    "privacy": "Privasi",
+    "terms": "Ketentuan",
+    "support": "Dukungan",
+    "legalNavigation": "Halaman hukum",
+    "language": "Bahasa",
+    "onThisPage": "Di halaman ini",
+    "documentSections": "Bagian dokumen",
+    "skipToContent": "Lewati ke konten",
+    "mainNavigation": "Navigasi utama",
+    "footerNavigation": "Navigasi footer",
+    "backToTop": "Kembali ke atas"
+  },
+  "privacyHostingVariants": {
+    "sunchucks_privacy": {
+      "github": "Kebijakan terkini diterbitkan di sini. Situs ini dihosting di GitHub Pages; <a href=\"https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement\">GitHub dapat memproses data pengunjung</a> seperti alamat IP untuk mengoperasikan situs.",
+      "cloudflare": "Kebijakan terkini diterbitkan di sini. Situs ini menggunakan Cloudflare Pages. Cloudflare memproses data teknis permintaan, termasuk alamat IP, untuk menyajikan dan melindungi situs. Lihat <a href=\"https://www.cloudflare.com/privacypolicy/\">informasi privasi Cloudflare</a>.",
+      "firebase": "Kebijakan terkini diterbitkan di sini. Situs ini menggunakan Firebase Hosting. Google memproses alamat IP dan data permintaan untuk menyajikan situs dan melindunginya dari penyalahgunaan. Lihat <a href=\"https://firebase.google.com/support/privacy\">informasi privasi Firebase</a>."
+    },
+    "moonchucks_privacy": {
+      "github": "Situs ini dihosting oleh GitHub Pages. <a href=\"https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement\">GitHub dapat memproses informasi pengunjung</a>, termasuk alamat IP, untuk mengoperasikan situs. Kebijakan Moonchucks terkini diterbitkan di halaman ini dan dapat diperbarui ketika praktik pengelolaan data aplikasi berubah.",
+      "cloudflare": "Situs ini menggunakan Cloudflare Pages. Cloudflare memproses data teknis permintaan, termasuk alamat IP, untuk menyajikan dan melindungi situs. Lihat <a href=\"https://www.cloudflare.com/privacypolicy/\">informasi privasi Cloudflare</a>. Kebijakan Moonchucks terkini diterbitkan di halaman ini dan dapat diperbarui ketika praktik pengelolaan data aplikasi berubah.",
+      "firebase": "Situs ini menggunakan Firebase Hosting. Google memproses alamat IP dan data permintaan untuk menyajikan situs dan melindunginya dari penyalahgunaan. Lihat <a href=\"https://firebase.google.com/support/privacy\">informasi privasi Firebase</a>. Kebijakan Moonchucks terkini diterbitkan di halaman ini dan dapat diperbarui ketika praktik pengelolaan data aplikasi berubah."
+    }
+  },
+  "translation": {
+    "method": "assistant-authored",
+    "reviewStatus": "targeted-editorial-review",
+    "independentNativeReview": false,
+    "published": false
+  }
+}

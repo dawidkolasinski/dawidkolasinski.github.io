@@ -1,0 +1,114 @@
+{
+  "schemaVersion": 1,
+  "sourceHash": "bd2c2f6d35958a0e87d2f3b25f9549e0cc16c4c50f24c4b8432e25be7e69bc57",
+  "locale": "lt",
+  "documents": {
+    "sunchucks_privacy": {
+      "title": "Privatumo politika",
+      "updatedLabel": "Galioja nuo 2026 m. rugsėjo 30 d. · Atnaujinta 2026 m. lapkričio 23 d.",
+      "footerHTML": "Autorių teisės © Dawid Kolasiński. Visos teisės saugomos.",
+      "blocks": {
+        "block-001": "Sunchucks yra „iOS“ programėlė, kurią teikia Dawid Kolasiński. Dėl privatumo prašymų kreipkitės el. paštu <a href=\"mailto:sunchucks.support@gmail.com\">sunchucks.support@gmail.com</a>.",
+        "block-002": "Duomenys ir jų naudojimo tikslai",
+        "block-003": "<li><strong>Vieta ir orai.</strong> Gavusi „iOS“ leidimą, programėlė gali naudoti jūsų dabartinę vietą. Vietą galite pasirinkti ir rankiniu būdu, nesuteikdami prieigos prie buvimo vietos. Pasirinkta vieta naudojama žemėlapiams, su Saule susijusiems skaičiavimams ir prognozėms. Orų prognozėms reikalingos koordinatės siunčiamos „Apple WeatherKit“. Debesuotumo ir kritulių žemėlapiai naudoja „MET Norway/YR“ paslaugas. Pagrindiniai žemėlapiai ir vietų paieška gali naudoti „Apple“ paslaugas. Išsaugotos vietos ir nuostatos laikomos jūsų įrenginyje.</li><li><strong>Kamera ir priminimai.</strong> Kameros kadrai naudojami papildytosios realybės rodiniui ir nėra automatiškai įkeliami į mūsų valdomą serverį. „iOS“ tvarko priminimus pagal jūsų suteiktą leidimą.</li><li><strong>Analizė ir našumas.</strong> „Firebase Analytics“ ir „Firebase Performance Monitoring“ padeda suprasti programėlės naudojimą ir gerinti našumą. Šios paslaugos gali apdoroti programėlės naudojimo įvykius, jos būsenos savybes, įrenginio ir operacinės sistemos duomenis, programėlės paleidimo bei tinklo užklausų metrikas. „Firebase Performance“ gali pagal IP adresus nustatyti apytikslį regioną. Mūsų papildomuose „Analytics“ įvykiuose nėra koordinačių, vietų pavadinimų, el. pašto adresų ar naudotojo turinio. EEE, Jungtinėje Karalystėje ir Šveicarijoje „Google UMP“ sutikimo signalai gali papildomai riboti „Analytics“ duomenų rinkimą. Reklamos pasirinkimai pateikiami atskirai.</li><li><strong>Strigčių ataskaitos.</strong> „Firebase Crashlytics“ automatiškai gauna strigčių ataskaitas, iškvietimų dėklo išklotines, susijusią programėlės būseną ir įrenginio bei operacinės sistemos informaciją, kad padėtų taisyti problemas. Nepridedame savo naudotojų identifikatorių ar koordinačių.</li><li><strong>Reklama.</strong> Pradiniame ekrane gali būti rodoma reklaminė juosta. „Google AdMob“ ir partneriai gali apdoroti IP adresus, pagal jūsų leidimus prieinamus įrenginio ar reklamos identifikatorius, sąveiką su reklama ir diagnostikos duomenis, kad pateiktų reklamą, atliktų matavimus ir užkirstų kelią sukčiavimui. Programėlė neperduoda pasirinktų koordinačių „AdMob“. „Google User Messaging Platform“ renka reklamos pasirinkimus ten, kur to reikalaujama. Atsisakius „iOS“ sekimo leidimo, reklama nėra blokuojama, tačiau ribojamas reklamos identifikatoriaus naudojimas ir sekimas tarp programėlių. Atsisakius reklamos suasmeninimo, atsižvelgiant į regioną ir sutikimo pasirinkimus vis tiek gali būti rodoma nesuasmeninta ar ribota reklama. Programėlė neprašo reklamos, kai „Google UMP“ to neleidžia, o net ir leidžiama užklausa gali negrąžinti reklamos.</li><li><strong>Pirkimai.</strong> „Apple“ tvarko prenumeratas per „App Store“ ir „StoreKit“. Programėlė gauna operacijos ir prieigos teisių būseną, reikalingą „Premium“ atrakinti ar atkurti; kortelės duomenų negauname.</li>",
+        "block-004": "Paslaugų teikėjai ir duomenų perdavimas",
+        "block-005": "Duomenys perduodami paslaugų teikėjams tik tiek, kiek reikia minėtoms funkcijoms: <a href=\"https://policies.google.com/privacy\">„Google“ („AdMob“, „Firebase“ ir UMP)</a>, <a href=\"https://www.apple.com/legal/privacy/\">„Apple“</a> ir <a href=\"https://www.met.no/en/About-us/privacy\">„MET Norway“</a>. Jie gali apdoroti duomenis įvairiose šalyse pagal savo politiką. Duomenų perdavimas reklamos sistemoje pagal kai kurių JAV valstijų įstatymus gali būti laikomas „pardavimu“ ar „dalijimusi“; tokią teisę turintys naudotojai gali to atsisakyti naudodami programėlės privatumo pasirinkimus. Sunchucks nereikalauja turėti paskyros pas mus ir nevaldo naudotojų paskyrų serverio.",
+        "block-006": "Saugojimas ir pasirinkimai",
+        "block-007": "Nustatymai ir išsaugotos vietos lieka jūsų įrenginyje, kol juos pašalinate arba pašalinate programėlę. „Google“, „Apple“ ir „MET Norway“ apdorojamiems duomenims taip pat taikoma šių teikėjų saugojimo tvarka, kurios visiškai nekontroliuojame. Vietos, kameros, pranešimų ir sekimo leidimus tvarkykite „iOS“ nustatymuose. Jei to reikalaujama jūsų regione, reklamos sutikimą galite peržiūrėti Sunchucks nustatymų skiltyje „Privatumo pasirinkimai“. Prenumeratas tvarkykite „Apple“ paskyros nustatymuose. Kreipkitės norėdami prašyti prieigos, taisymo, pareikšti prieštaravimą ar prašyti ištrinti duomenis; atsakysime dėl duomenų, kuriuos galime nustatyti ir kontroliuoti.",
+        "block-008": "Pakeitimai",
+        "block-009": "Čia skelbiama dabartinė politika. Ši svetainė talpinama „GitHub Pages“; <a href=\"https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement\">„GitHub“ gali apdoroti lankytojų duomenis</a>, pavyzdžiui, IP adresus, kad užtikrintų svetainės veikimą."
+      }
+    },
+    "sunchucks_terms": {
+      "title": "Naudojimo sąlygos",
+      "updatedLabel": "Galioja nuo 2026 m. rugsėjo 24 d. · Atnaujinta 2026 m. lapkričio 23 d.",
+      "footerHTML": "Autorių teisės © Dawid Kolasiński. Visos teisės saugomos.",
+      "blocks": {
+        "block-001": "Sunchucks teikia Dawid Kolasiński. Jei nepateikiama atskira licencinė sutartis, iš „App Store“ atsisiųstos programėlės naudojimui taikoma <a href=\"https://www.apple.com/legal/internet-services/itunes/dev/stdeula/\">„Apple“ standartinė galutinio naudotojo licencinė sutartis</a> ir galiojantys teisės aktai.",
+        "block-002": "Prenumeratos",
+        "block-003": "Sunchucks gali siūlyti automatiškai atnaujinamas „Premium“ prenumeratas. Konkretaus pasiūlymo kaina, trukmė ir sąlygos nurodomos prieš perkant programėlėje ir „App Store“. „Apple“ tvarko pirkimus, prenumeratų valdymą ir pinigų grąžinimą. Pašalinus programėlę, aktyvi prenumerata neatšaukiama.",
+        "block-004": "Kontaktai",
+        "block-005": "Dėl pagalbos ar klausimų rašykite el. paštu <a href=\"mailto:sunchucks.support@gmail.com\">sunchucks.support@gmail.com</a>. Informacijos apie duomenų tvarkymą rasite mūsų <a href=\"https://dawidkolasinski.github.io/privacy/\">privatumo politikoje</a>."
+      }
+    },
+    "moonchucks_privacy": {
+      "title": "Privatumo politika",
+      "updatedLabel": "Paskutinį kartą atnaujinta: 2026 m. lapkričio 23 d.",
+      "footerHTML": "Autorių teisės © Dawid Kolasiński.",
+      "blocks": {
+        "block-001": "Moonchucks yra „iOS“ programėlė, kurią teikia Dawid Kolasiński. Dėl privatumo prašymų kreipkitės el. paštu <a href=\"mailto:sunchucks.support@gmail.com\">sunchucks.support@gmail.com</a> ir nurodykite Moonchucks.",
+        "block-002": "Vieta ir žemėlapiai",
+        "block-003": "Gavusi „iOS“ leidimą, Moonchucks gali naudoti dabartinę vietą Mėnulio stebėjimui planuoti. Vietą taip pat galite pasirinkti rankiniu būdu. Išsaugotos vietos ir nuostatos laikomos jūsų įrenginyje. Orų prognozėms reikalingos koordinatės siunčiamos „MET Norway“. „Apple“ paslaugos gali apdoroti žemėlapių ir vietų paieškos užklausas.",
+        "block-004": "Kamera, judėjimas ir pranešimai",
+        "block-005": "Kamera ir judėjimo jutikliai palaiko papildytosios realybės rodinį. Kameros kadrai apdorojami šiam rodiniui ir nėra automatiškai įkeliami į mūsų valdomą serverį. Sistemos leidimai valdo jūsų pasirinktų funkcijų prieigą prie kameros, vietos, nuotraukų ir pranešimų.",
+        "block-006": "Analizė ir diagnostika",
+        "block-007": "Moonchucks naudoja „Firebase Analytics“, „Performance Monitoring“ ir „Crashlytics“. „Google“ gali apdoroti programėlės naudojimo įvykius, įdiegimo identifikatorius, įrenginio ir operacinės sistemos informaciją, programėlės paleidimo ir tinklo našumo metrikas, strigčių ataskaitas ir iškvietimų dėklo išklotines. „Performance Monitoring“ gali pagal IP adresus nustatyti apytikslį regioną. „Firebase Remote Config“ pateikia programėlės konfigūraciją. Šios paslaugos padeda suprasti naudojimą, konfigūruoti programėlę ir diagnozuoti problemas.",
+        "block-008": "Internetinė dangaus informacija",
+        "block-009": "Mėnulio išvaizdos ir naktinio apšvietimo vaizdai užsakomi iš NASA paslaugų. Pašvaisčių informacija užsakoma iš NOAA. Naudojantis šiomis funkcijomis, internetiniai teikėjai ir jų prieglobos paslaugos gali gauti IP adresus bei užklausų informaciją. Pasirinkta žemėlapio sritis lemia užsakomus vaizdus.",
+        "block-010": "Pirkimai ir pagalba",
+        "block-011": "„Apple“ tvarko prenumeratų pirkimus ir mokėjimo duomenis per „App Store“. Moonchucks gauna operacijų ir prieigos teisių informaciją, reikalingą „Premium“ atrakinti ar atkurti. Kortelės duomenų negauname. Jei rašote pagalbos tarnybai, gauname jūsų el. pašto adresą ir informaciją, kurią pasirenkate pateikti.",
+        "block-012": "Reklamos ir privatumo pasirinkimai",
+        "block-013": "Moonchucks naudoja „Google AdMob“ reklaminei juostai pradiniame ekrane. „Google“ gali apdoroti įrenginio identifikatorius, apytikslę iš IP adreso nustatytą vietą, reklamos peržiūras ir sąveiką bei diagnostikos ir našumo duomenis reklamos ir matavimo tikslais. Reklamos identifikatoriaus prieiga priklauso nuo „iOS“ sekimo leidimo.",
+        "block-014": "„Google User Messaging Platform“ tvarko taikomus sutikimo pranešimus. Kai reikalaujama, programėlės nustatymuose esančios reklamos privatumo parinktys leidžia peržiūrėti pasirinkimus. „iOS“ sekimo leidimą galite tvarkyti skiltyje „Nustatymai“ &gt; „Privatumas ir sauga“ &gt; „Sekimas“. Pasirinkimai gali turėti įtakos prieinamai reklamai.",
+        "block-015": "Paslaugų teikėjai",
+        "block-016": "Teikėjai yra <a href=\"https://policies.google.com/privacy\">„Google Firebase“ ir „AdMob“</a>, <a href=\"https://www.apple.com/legal/privacy/\">„Apple“</a>, <a href=\"https://www.met.no/en/About-us/privacy\">„MET Norway“</a>, <a href=\"https://www.nasa.gov/privacy/\">NASA</a> ir <a href=\"https://www.noaa.gov/organization/information-technology/privacy\">NOAA</a>. Jie gali apdoroti informaciją įvairiose šalyse pagal savo politiką. Moonchucks nereikalauja naudotojo paskyros.",
+        "block-017": "Saugojimas ir jūsų pasirinkimai",
+        "block-018": "Išsaugotos vietos ir programėlės nuostatos lieka jūsų įrenginyje, kol jas pašalinate arba pašalinate programėlę. Teikėjų duomenims taikoma jų duomenų saugojimo politika. Pagalbos susirašinėjimas saugomas tiek, kiek reikia prašymui išnagrinėti. Sistemos leidimus tvarkykite „iOS“ nustatymuose, o prenumeratas – „Apple“ paskyroje. Kreipkitės norėdami prašyti prieigos prie informacijos, jos taisymo ar ištrynimo, jei tą informaciją galime nustatyti ir kontroliuoti.",
+        "block-019": "Ši svetainė ir pakeitimai",
+        "block-020": "Ši svetainė talpinama „GitHub Pages“. <a href=\"https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement\">„GitHub“ gali apdoroti lankytojų informaciją</a>, įskaitant IP adresus, kad užtikrintų svetainės veikimą. Dabartinė Moonchucks politika skelbiama šiame puslapyje ir gali būti atnaujinama pasikeitus programėlės duomenų tvarkymo praktikai."
+      }
+    },
+    "moonchucks_terms": {
+      "title": "Naudojimo sąlygos",
+      "updatedLabel": "Paskutinį kartą atnaujinta: 2026 m. lapkričio 23 d.",
+      "footerHTML": "Autorių teisės © Dawid Kolasiński.",
+      "blocks": {
+        "block-001": "Moonchucks teikia Dawid Kolasiński. Jei nepateikiama atskira licencinė sutartis, iš „App Store“ atsisiųstos programėlės naudojimui taikoma <a href=\"https://www.apple.com/legal/internet-services/itunes/dev/stdeula/\">„Apple“ standartinė galutinio naudotojo licencinė sutartis</a> ir galiojantys teisės aktai.",
+        "block-002": "Prenumeratos",
+        "block-003": "Moonchucks siūlo pasirenkamas automatiškai atnaujinamas „Premium“ prenumeratas. Kaina, atsiskaitymo laikotarpis ir galimi įvadiniai pasiūlymai, kurių sąlygas atitinkate, nurodomi prieš perkant. „Apple“ tvarko pirkimus, prenumeratų valdymą ir pinigų grąžinimą. Prenumeratą valdykite arba atšaukite „Apple“ paskyros prenumeratų nustatymuose. Pašalinus programėlę, aktyvi prenumerata neatšaukiama. Naudokite „Atkurti pirkimus“ ekrane „Premium“, kad atkurtumėte tinkamą pirkinį.",
+        "block-004": "Reklama",
+        "block-005": "Moonchucks turi reklamų. Reklama gali būti prieinama ne visada.",
+        "block-006": "Planavimo informacija",
+        "block-007": "Mėnulio padėtys ir įvykiai apskaičiuojami pasirinktai vietai, datai ir laikui. Tikrasis matomumas taip pat priklauso nuo orų, reljefo ir horizonto matomumo. NOAA pašvaisčių informacija yra modeliuojami prognozių duomenys ir negarantuoja, kad pašvaistė bus matoma. NASA naktinių šviesų sluoksnis rodo naujausius prieinamus NASA VIIRS NOAA-20 Black Marble palydovinius dirbtinio naktinio apšvietimo vaizdus. Šiuose kasdieniuose vaizduose spragoms užpildyti gali būti naudojami ankstesni stebėjimai. Tai nėra tiesioginis dangaus šviesumo matavimas ar Bortle klasifikacija.",
+        "block-008": "Kontaktai",
+        "block-009": "Dėl pagalbos rašykite el. paštu <a href=\"mailto:sunchucks.support@gmail.com\">sunchucks.support@gmail.com</a> ir nurodykite Moonchucks. Informacijos apie duomenų tvarkymą rasite <a href=\"https://dawidkolasinski.github.io/moonchucks/privacy/\">privatumo politikoje</a>."
+      }
+    }
+  },
+  "uiLabels": {
+    "privacy": "Privatumas",
+    "terms": "Sąlygos",
+    "support": "Pagalba",
+    "legalNavigation": "Teisiniai puslapiai",
+    "language": "Kalba",
+    "onThisPage": "Šiame puslapyje",
+    "documentSections": "Dokumento skyriai",
+    "skipToContent": "Pereiti prie turinio",
+    "mainNavigation": "Pagrindinė navigacija",
+    "footerNavigation": "Poraštės navigacija",
+    "backToTop": "Grįžti į viršų"
+  },
+  "privacyHostingVariants": {
+    "sunchucks_privacy": {
+      "github": "Čia skelbiama dabartinė politika. Ši svetainė talpinama „GitHub Pages“; <a href=\"https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement\">„GitHub“ gali apdoroti lankytojų duomenis</a>, pavyzdžiui, IP adresus, kad užtikrintų svetainės veikimą.",
+      "cloudflare": "Čia skelbiama dabartinė politika. Ši svetainė naudoja „Cloudflare Pages“. „Cloudflare“ apdoroja techninius užklausų duomenis, įskaitant IP adresus, kad pateiktų ir apsaugotų svetainę. Žr. <a href=\"https://www.cloudflare.com/privacypolicy/\">„Cloudflare“ privatumo informaciją</a>.",
+      "firebase": "Čia skelbiama dabartinė politika. Ši svetainė naudoja „Firebase Hosting“. „Google“ apdoroja IP adresus ir užklausų duomenis, kad pateiktų svetainę ir apsaugotų ją nuo piktnaudžiavimo. Žr. <a href=\"https://firebase.google.com/support/privacy\">„Firebase“ privatumo informaciją</a>."
+    },
+    "moonchucks_privacy": {
+      "github": "Ši svetainė talpinama „GitHub Pages“. <a href=\"https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement\">„GitHub“ gali apdoroti lankytojų informaciją</a>, įskaitant IP adresus, kad užtikrintų svetainės veikimą. Dabartinė Moonchucks politika skelbiama šiame puslapyje ir gali būti atnaujinama pasikeitus programėlės duomenų tvarkymo praktikai.",
+      "cloudflare": "Ši svetainė naudoja „Cloudflare Pages“. „Cloudflare“ apdoroja techninius užklausų duomenis, įskaitant IP adresus, kad pateiktų ir apsaugotų svetainę. Žr. <a href=\"https://www.cloudflare.com/privacypolicy/\">„Cloudflare“ privatumo informaciją</a>. Dabartinė Moonchucks politika skelbiama šiame puslapyje ir gali būti atnaujinama pasikeitus programėlės duomenų tvarkymo praktikai.",
+      "firebase": "Ši svetainė naudoja „Firebase Hosting“. „Google“ apdoroja IP adresus ir užklausų duomenis, kad pateiktų svetainę ir apsaugotų ją nuo piktnaudžiavimo. Žr. <a href=\"https://firebase.google.com/support/privacy\">„Firebase“ privatumo informaciją</a>. Dabartinė Moonchucks politika skelbiama šiame puslapyje ir gali būti atnaujinama pasikeitus programėlės duomenų tvarkymo praktikai."
+    }
+  },
+  "translation": {
+    "method": "assistant-authored",
+    "reviewStatus": "targeted-editorial-review",
+    "independentNativeReview": false,
+    "published": false,
+    "reviewedUnitCount": 77,
+    "editorialChanges": [
+      "Assistant-authored complete legal units from the frozen English source, including qualifiers, retention, consent, advertising and subscription scope.",
+      "Preserved all source hyperlinks, dates, developer/app identities and hosting alternatives. No added legal clauses."
+    ]
+  }
+}

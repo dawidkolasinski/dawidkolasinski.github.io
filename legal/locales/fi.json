@@ -1,0 +1,111 @@
+{
+  "schemaVersion": 1,
+  "sourceHash": "bd2c2f6d35958a0e87d2f3b25f9549e0cc16c4c50f24c4b8432e25be7e69bc57",
+  "locale": "fi",
+  "documents": {
+    "sunchucks_privacy": {
+      "title": "Tietosuojakäytäntö",
+      "updatedLabel": "Voimassa 30. syyskuuta 2026 alkaen · Päivitetty 23. marraskuuta 2026",
+      "footerHTML": "Copyright © Dawid Kolasiński. Kaikki oikeudet pidätetään.",
+      "blocks": {
+        "block-001": "Sunchucks on Dawid Kolasińskin tarjoama iOS-sovellus. Tietosuojapyyntöjä varten ota yhteyttä osoitteeseen <a href=\"mailto:sunchucks.support@gmail.com\">sunchucks.support@gmail.com</a>.",
+        "block-002": "Tiedot ja käyttötarkoitukset",
+        "block-003": "<li><strong>Sijainti ja sää.</strong> iOS-luvalla sovellus voi käyttää nykyistä sijaintiasi. Voit myös valita paikan manuaalisesti myöntämättä sijainnin käyttöoikeutta. Valittua sijaintia käytetään kartoissa, aurinkolaskelmissa ja ennusteissa. Sääennusteisiin tarvittavat koordinaatit lähetetään Apple WeatherKitiin. Pilvisyys- ja sadekartat käyttävät MET Norway/YR -palveluita. Pohjakartat ja paikkahaku saattavat käyttää Applen palveluita. Tallennetut paikat ja asetukset tallennetaan laitteellesi.</li><li><strong>Kamera ja muistutukset.</strong> Kameran kuvia käytetään lisätyn todellisuuden näkymässä, eikä niitä ladata automaattisesti ylläpitämällemme palvelimelle. iOS käsittelee muistutuksia antamasi luvan mukaisesti.</li><li><strong>Analytiikka ja suorituskyky.</strong> Firebase Analytics ja Firebase Performance Monitoring auttavat meitä ymmärtämään sovellusten käyttöä ja parantamaan suorituskykyä. Ne voivat käsitellä sovelluksen käyttötapahtumia, sovelluksen tilatietoja, laitteen ja käyttöjärjestelmän tietoja, sovelluksen käynnistysmittareita ja verkkopyyntömittareita. Firebase Performance voi käyttää IP-osoitteita yleisen alueen arvioimiseen. Mukautetut Analytics-tapahtumamme eivät sisällä koordinaatteja, paikannimiä, sähköpostiosoitteita tai käyttäjäsisältöä. ETA-alueella, Isossa-Britanniassa ja Sveitsissä Google UMP:n suostumussignaalit voivat rajoittaa Analytics-tietojen keräämistä entisestään. Mainontavaihtoehdot ovat saatavilla erikseen.</li><li><strong>Kaatumisraportit.</strong> Firebase Crashlytics vastaanottaa automaattisesti kaatumisraportit, pinonjäljitykset, asiaankuuluvat sovelluksen tilatiedot ja laitteen/käyttöjärjestelmän tiedot ongelmien korjaamiseksi. Emme liitä mukautettuja käyttäjätunnuksia tai koordinaatteja.</li><li><strong>Mainonta.</strong> Etusivulla saattaa näkyä banneri. Google AdMob ja sen kumppanit voivat käsitellä IP-osoitteita, laite- tai mainostunnisteita, jotka ovat käytettävissä käyttöoikeuksiesi nojalla, mainosten vuorovaikutusta ja diagnostiikkaa mainosten toimitusta, mittausta ja petosten estämistä varten. Sovellus ei välitä valittuja koordinaatteja AdMobille. Google User Messaging Platform kerää mainontavalintoja tarvittaessa. iOS-seurantaluvan epääminen ei estä mainoksia, mutta rajoittaa mainostunnisteen käyttöä ja sovellusten välistä seurantaa. Mainosten personoinnin kieltäminen voi silti sallia personoimattomat tai rajoitetut mainokset alueestasi ja suostumusvalinnoistasi riippuen. Sovellus ei pyydä mainosta, kun Google UMP ei salli sitä, ja kelvollinen pyyntö ei välttämättä vieläkään palauta mainosta.</li><li><strong>Ostokset.</strong> Apple käsittelee tilaukset App Storen ja StoreKitin kautta. Sovellus vastaanottaa Premium-käyttöoikeuden avaamiseen tai palauttamiseen tarvittavat tapahtuma- ja käyttöoikeustiedot; emme saa korttitietoja.</li>",
+        "block-004": "Palveluntarjoajat ja jakaminen",
+        "block-005": "Tietoja siirretään palveluntarjoajille vain tarvittaessa yllä mainittuja ominaisuuksia varten: <a href=\"https://policies.google.com/privacy\">Google (AdMob, Firebase ja UMP)</a>, <a href=\"https://www.apple.com/legal/privacy/\">Apple</a> ja <a href=\"https://www.met.no/en/About-us/privacy\">MET Norway</a>. Ne voivat käsitellä tietoja eri maissa omien käytäntöjensä mukaisesti. Mainosjärjestelmän tiedonsiirrot voidaan joidenkin Yhdysvaltain osavaltioiden lakien mukaan laskea &quot;myynniksi&quot; tai &quot;jakamiseksi&quot;; kelvolliset käyttäjät voivat kieltäytyä tästä sovelluksen tietosuoja-asetusten kautta. Sunchucks ei edellytä tiliä meillä eikä ylläpidä käyttäjätilipalvelinta.",
+        "block-006": "Säilytys ja valinnat",
+        "block-007": "Asetukset ja tallennetut paikat pysyvät laitteellasi, kunnes ne poistetaan tai kunnes sovellus poistetaan. Googlen, Applen ja MET Norwayn käsittelemiin tietoihin sovelletaan myös kyseisten palveluntarjoajien säilytyskäytäntöjä, joita emme täysin hallitse. Hallitse sijainti-, kamera-, ilmoitus- ja seurantaoikeuksia iOS-asetuksissa. Alueesi niin vaatiessa voit tarkistaa mainosten suostumuksen Sunchucks-asetusten Tietosuoja-asetukset -kohdassa. Hallitse tilauksia Apple-tilisi asetuksissa. Ota meihin yhteyttä pyytääksesi pääsyä tietoihin, korjausta, vastustusta tai poistoa. Vastaamme pyyntöihin siltä osin kuin ne koskevat tietoja, jotka voimme tunnistaa ja joita voimme hallita.",
+        "block-008": "Muutokset",
+        "block-009": "Nykyinen käytäntö on julkaistu täällä. Tätä sivustoa isännöidään GitHub Pages -sivustolla; <a href=\"https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement\">GitHub voi käsitellä kävijätietoja,</a> kuten IP-osoitteita, sivuston ylläpitämiseksi."
+      }
+    },
+    "sunchucks_terms": {
+      "title": "Käyttöehdot",
+      "updatedLabel": "Voimassa 24. syyskuuta 2026 · Päivitetty 23. marraskuuta 2026",
+      "footerHTML": "Copyright © Dawid Kolasiński. Kaikki oikeudet pidätetään.",
+      "blocks": {
+        "block-001": "Sunchucksin tarjoaa Dawid Kolasiński. Ellei erillistä käyttöoikeussopimusta esitetä, App Storesta ladatun sovelluksen käyttöön sovelletaan <a href=\"https://www.apple.com/legal/internet-services/itunes/dev/stdeula/\">Applen vakiokäyttöoikeussopimusta</a> ja sovellettavaa lakia.",
+        "block-002": "Tilaukset",
+        "block-003": "Sunchucks voi tarjota automaattisesti uusiutuvia Premium-tilauksia. Tietyn tarjouksen hinta, kesto ja ehdot näkyvät ennen ostoa sovelluksessa ja App Storessa. Apple hoitaa ostokset, tilausten hallinnan ja hyvitykset. Sovelluksen poistaminen ei peruuta aktiivista tilausta.",
+        "block-004": "Yhteystiedot",
+        "block-005": "Jos tarvitset apua tai sinulla on kysyttävää, lähetä sähköpostia osoitteeseen <a href=\"mailto:sunchucks.support@gmail.com\">sunchucks.support@gmail.com</a>. Tietojen käsittelystä kerrotaan <a href=\"https://dawidkolasinski.github.io/privacy/\">tietosuojakäytännössämme</a>."
+      }
+    },
+    "moonchucks_privacy": {
+      "title": "Tietosuojakäytäntö",
+      "updatedLabel": "Viimeksi päivitetty: 23. marraskuuta 2026",
+      "footerHTML": "Copyright © Dawid Kolasiński.",
+      "blocks": {
+        "block-001": "Moonchucks on Dawid Kolasińskin tarjoama iOS-sovellus. Tietosuojapyyntöjä varten ota yhteyttä osoitteeseen <a href=\"mailto:sunchucks.support@gmail.com\">sunchucks.support@gmail.com</a> ja mainitse Moonchucks.",
+        "block-002": "Sijainti ja kartat",
+        "block-003": "iOS:n luvalla Moonchucks voi käyttää nykyistä sijaintiasi Kuun havaintojen suunnitteluun. Voit myös valita paikan manuaalisesti. Tallennetut paikat ja asetukset tallennetaan laitteellesi. Sääennusteisiin tarvittavat koordinaatit lähetetään MET Norwaylle. Applen palvelut voivat käsitellä kartta- ja paikkahakupyyntöjä.",
+        "block-004": "Kamera, liike ja ilmoitukset",
+        "block-005": "Kamera ja liiketunnistimet tukevat lisätyn todellisuuden näkymää. Kameran kuvia käsitellään kyseistä näkymää varten, eikä niitä ladata automaattisesti ylläpitämällemme palvelimelle. Järjestelmän käyttöoikeudet hallitsevat valitsemiesi ominaisuuksien käyttämiä kameran, sijainnin, valokuvien ja ilmoitusten käyttöoikeuksia.",
+        "block-006": "Analytiikka ja diagnostiikka",
+        "block-007": "Moonchucks käyttää Firebase Analyticsia, Performance Monitoringia ja Crashlyticsia. Google voi käsitellä sovelluksen käyttötapahtumia, asennustunnisteita, laite- ja käyttöjärjestelmätietoja, sovelluksen käynnistys- ja verkon suorituskykymittareita, kaatumisraportteja ja pinonjälkiä. Performance Monitoring voi käyttää IP-osoitteita yleisen alueen arvioimiseen. Firebase Remote Config tarjoaa sovelluksen kokoonpanon. Nämä palvelut auttavat meitä ymmärtämään käyttöä, määrittämään sovelluksen ja diagnosoimaan ongelmia.",
+        "block-008": "Taivastiedot verkossa",
+        "block-009": "Kuun ulkonäkö- ja yövalokuvia pyydetään NASA:lta. Revontulia koskevia tietoja pyydetään NOAA:lta. Verkkopalveluntarjoajat ja niiden hosting-palvelut voivat vastaanottaa IP-osoitteita ja pyyntöihin liittyviä tietoja, kun näitä ominaisuuksia käytetään. Valittu kartta-alue määrittää pyydetyt kuvat.",
+        "block-010": "Ostokset ja tuki",
+        "block-011": "Apple käsittelee tilausostokset ja maksutiedot App Storen kautta. Moonchucks saa Premium-käyttöoikeuden avaamiseen tai palauttamiseen tarvittavat tapahtuma- ja oikeustiedot. Emme saa korttitietojasi. Jos lähetät sähköpostia tukeen, saamme sähköpostiosoitteesi ja tiedot, jotka päätät sisällyttää.",
+        "block-012": "Mainonta- ja tietosuojavalinnat",
+        "block-013": "Moonchucks käyttää Google AdMobia sovelluksen etusivun bannerissa. Google voi käsitellä laitetunnisteita, IP-osoitteista pääteltyä likimääräistä sijaintia, mainosten katselukertoja ja vuorovaikutusta sekä diagnostiikka- ja suorituskykytietoja mainontaa ja mittausta varten. Mainostunnisteen käyttö edellyttää iOS:n seurantalupaa.",
+        "block-014": "Google User Messaging Platform hallinnoi sovellettavia suostumusviestejä. Tarvittaessa voit tarkastella valintojasi uudelleen sovelluksen asetuksissa olevilla mainosten yksityisyysasetuksilla. Voit hallita iOS:n seurantalupaa kohdassa Asetukset &gt; Tietosuoja ja turvallisuus &gt; Seuranta. Valintasi voivat vaikuttaa saatavilla oleviin mainoksiin.",
+        "block-015": "Palveluntarjoajat",
+        "block-016": "Palveluntarjoajiin kuuluvat <a href=\"https://policies.google.com/privacy\">Google Firebase ja AdMob</a>, <a href=\"https://www.apple.com/legal/privacy/\">Apple</a>, <a href=\"https://www.met.no/en/About-us/privacy\">MET Norway</a>, <a href=\"https://www.nasa.gov/privacy/\">NASA</a> ja <a href=\"https://www.noaa.gov/organization/information-technology/privacy\">NOAA</a>. Ne voivat käsitellä tietoja eri maissa omien käytäntöjensä mukaisesti. Moonchucks ei vaadi käyttäjätiliä.",
+        "block-017": "Säilytys ja valintasi",
+        "block-018": "Tallennetut paikat ja sovellusasetukset pysyvät laitteellasi, kunnes ne poistetaan tai sovellus poistetaan. Palveluntarjoajan tietoihin sovelletaan palveluntarjoajan säilytyskäytäntöjä. Tukipalveluun liittyvää kirjeenvaihtoa säilytetään tarvittaessa pyynnön käsittelemiseksi. Hallitse järjestelmän käyttöoikeuksia iOS-asetuksissa ja tilauksia Apple-tililläsi. Ota meihin yhteyttä pyytääksesi pääsyä, korjausta tai poistoa tietoihin, joita voimme tunnistaa ja hallita.",
+        "block-019": "Tämä verkkosivusto ja muutokset",
+        "block-020": "Tätä sivustoa isännöi GitHub Pages. <a href=\"https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement\">GitHub voi käsitellä kävijätietoja</a>, mukaan lukien IP-osoitteita, sivuston ylläpitämiseksi. Nykyinen Moonchucksin käytäntö on julkaistu tällä sivulla, ja sitä voidaan päivittää, kun sovelluksen tietojenkäsittelykäytännöt muuttuvat."
+      }
+    },
+    "moonchucks_terms": {
+      "title": "Käyttöehdot",
+      "updatedLabel": "Viimeksi päivitetty: 23. marraskuuta 2026",
+      "footerHTML": "Copyright © Dawid Kolasiński.",
+      "blocks": {
+        "block-001": "Moonchucksin tarjoaa Dawid Kolasiński. Ellei erillistä käyttöoikeussopimusta esitetä, App Storesta ladatun sovelluksen käyttöön sovelletaan <a href=\"https://www.apple.com/legal/internet-services/itunes/dev/stdeula/\">Applen vakiokäyttöoikeussopimusta</a> ja sovellettavaa lakia.",
+        "block-002": "Tilaukset",
+        "block-003": "Moonchucks tarjoaa valinnaisia automaattisesti uusiutuvia Premium-tilauksia. Hinta, laskutuskausi ja mahdolliset tutustumistarjoukset, joihin olet oikeutettu näkyvät ennen ostoa. Apple käsittelee ostokset, tilausten hallinnan ja hyvitykset. Voit hallita tai peruuttaa tilauksen Apple-tilisi tilausasetuksissa. Sovelluksen poistaminen ei peruuta aktiivista tilausta. Palauta ehdot täyttävä ostos Premium-näytöllä Palauta ostokset -toiminnolla.",
+        "block-004": "Mainonta",
+        "block-005": "Moonchucks sisältää mainoksia. Mainokset eivät välttämättä ole aina saatavilla.",
+        "block-006": "Suunnittelutiedot",
+        "block-007": "Kuun sijainnit ja tapahtumat lasketaan valitulle paikalle, päivämäärälle ja kellonajalle. Todellinen näkyvyys riippuu myös säästä, maastosta ja horisontin näkymästä. NOAA:n revontulitiedot ovat mallinnettuja ennusteita eivätkä takaa näkyviä revontulia. NASA Night lights näyttää uusimmat saatavilla olevat satelliittikuvat keinotekoisista yövaloista NASA:n VIIRS NOAA-20 Black Marble -tuotteesta. Näissä päivittäisissä kuvissa voidaan käyttää aikaisempia havaintoja aukkojen täyttämiseksi. Ne eivät ole reaaliaikaisia taivaan kirkkausmittauksia tai Bortle-luokitusta.",
+        "block-008": "Yhteystiedot",
+        "block-009": "Jos tarvitset apua, lähetä sähköpostia osoitteeseen <a href=\"mailto:sunchucks.support@gmail.com\">sunchucks.support@gmail.com</a> ja mainitse Moonchucks. Lue <a href=\"https://dawidkolasinski.github.io/moonchucks/privacy/\">tietosuojakäytäntö</a> saadaksesi lisätietoja tietojenkäsittelytavoista."
+      }
+    }
+  },
+  "uiLabels": {
+    "privacy": "Tietosuoja",
+    "terms": "Käyttöehdot",
+    "support": "Tuki",
+    "legalNavigation": "Oikeudelliset sivut",
+    "language": "Kieli",
+    "onThisPage": "Tällä sivulla",
+    "documentSections": "Asiakirjan osiot",
+    "skipToContent": "Siirry sisältöön",
+    "mainNavigation": "Päänavigointi",
+    "footerNavigation": "Alatunnisteen navigointi",
+    "backToTop": "Takaisin alkuun"
+  },
+  "privacyHostingVariants": {
+    "sunchucks_privacy": {
+      "github": "Nykyinen käytäntö on julkaistu täällä. Tätä sivustoa isännöidään GitHub Pages -sivustolla; <a href=\"https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement\">GitHub voi käsitellä kävijätietoja,</a> kuten IP-osoitteita, sivuston ylläpitämiseksi.",
+      "cloudflare": "Nykyinen käytäntö on julkaistu täällä. Tämä verkkosivusto käyttää Cloudflare Pages -palvelua. Cloudflare käsittelee teknisiä pyyntötietoja, mukaan lukien IP-osoitteita, sivuston toimittamiseksi ja suojaamiseksi. Katso <a href=\"https://www.cloudflare.com/privacypolicy/\">Cloudflaren tietosuojatiedot</a>.",
+      "firebase": "Nykyinen käytäntö on julkaistu täällä. Tämä verkkosivusto käyttää Firebase Hosting -palvelua. Google käsittelee IP-osoitteita ja pyyntötietoja sivuston toimittamiseksi ja sen suojaamiseksi väärinkäytöltä. Katso <a href=\"https://firebase.google.com/support/privacy\">Firebasen tietosuojatiedot</a>."
+    },
+    "moonchucks_privacy": {
+      "github": "Tätä sivustoa isännöi GitHub Pages. <a href=\"https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement\">GitHub voi käsitellä kävijätietoja</a>, mukaan lukien IP-osoitteita, sivuston ylläpitämiseksi. Nykyinen Moonchucksin käytäntö on julkaistu tällä sivulla, ja sitä voidaan päivittää, kun sovelluksen tietojenkäsittelykäytännöt muuttuvat.",
+      "cloudflare": "Tämä verkkosivusto käyttää Cloudflare Pages -palvelua. Cloudflare käsittelee teknisiä pyyntötietoja, mukaan lukien IP-osoitteita, sivuston toimittamiseksi ja suojaamiseksi. Katso <a href=\"https://www.cloudflare.com/privacypolicy/\">Cloudflaren tietosuojatiedot</a>. Nykyinen Moonchucksin käytäntö on julkaistu tällä sivulla ja sitä voidaan päivittää, kun sovelluksen tietojenkäsittelykäytännöt muuttuvat.",
+      "firebase": "Tämä verkkosivusto käyttää Firebase Hosting -palvelua. Google käsittelee IP-osoitteita ja pyyntötietoja sivuston toimittamiseksi ja sen suojaamiseksi väärinkäytöltä. Katso <a href=\"https://firebase.google.com/support/privacy\">Firebasen tietosuojatiedot</a>. Nykyinen Moonchucksin käytäntö on julkaistu tällä sivulla ja sitä voidaan päivittää, kun sovelluksen tietojenkäsittelykäytännöt muuttuvat."
+    }
+  },
+  "translation": {
+    "method": "google-documents",
+    "reviewStatus": "targeted-editorial-review",
+    "published": false,
+    "inputFile": "fi.docx",
+    "inputSHA256": "68c3daf8210fb6f52880b9ed7e2c329e3d79d26e947d55d0ec4d7d39827fe458",
+    "independentNativeReview": false
+  }
+}

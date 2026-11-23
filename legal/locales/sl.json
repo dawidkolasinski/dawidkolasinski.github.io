@@ -1,0 +1,111 @@
+{
+  "schemaVersion": 1,
+  "sourceHash": "bd2c2f6d35958a0e87d2f3b25f9549e0cc16c4c50f24c4b8432e25be7e69bc57",
+  "locale": "sl",
+  "documents": {
+    "sunchucks_privacy": {
+      "title": "Pravilnik o zasebnosti",
+      "updatedLabel": "Velja od 30. septembra 2026 · Posodobljeno 23. novembra 2026",
+      "footerHTML": "Avtorske pravice © Dawid Kolasiński. Vse pravice pridržane.",
+      "blocks": {
+        "block-001": "Sunchucks je aplikacija za iOS, ki jo je razvil Dawid Kolasiński. Za zahteve glede zasebnosti pišite na <a href=\"mailto:sunchucks.support@gmail.com\">sunchucks.support@gmail.com</a>.",
+        "block-002": "Podatki in nameni",
+        "block-003": "<li><strong>Lokacija in vreme.</strong> Z dovoljenjem za iOS lahko aplikacija uporablja vašo trenutno lokacijo. Kraj lahko izberete tudi ročno, ne da bi ji odobrili dostop do lokacije. Izbrana lokacija se uporablja za zemljevide, sončne izračune in napovedi. Koordinate, potrebne za vremenske napovedi, se pošljejo v Apple WeatherKit. Zemljevidi oblačnosti in padavin uporabljajo storitve MET Norway/YR. Osnovni zemljevidi in iskanje krajev lahko uporabljajo storitve Apple. Shranjeni kraji in nastavitve so shranjeni v vaši napravi.</li><li><strong>Kamera in opomniki.</strong> Posnetki kamere se uporabljajo za pogled obogatene resničnosti in se ne nalagajo samodejno na strežnik, ki ga upravljamo mi. iOS obravnava opomnike z dovoljenjem, ki ga daste.</li><li><strong>Analitika in delovanje.</strong> Firebase Analytics in Firebase Performance Monitoring nam pomagata razumeti uporabo aplikacij in izboljšati delovanje. Lahko obdelujeta dogodke uporabe aplikacij, lastnosti stanja aplikacij, podatke o napravah in operacijskih sistemih, metrike zagona aplikacij in metrike omrežnih zahtev. Firebase Performance lahko uporabi naslove IP za oceno splošne regije. Naši prilagojeni dogodki Analytics ne vsebujejo koordinat, imen krajev, e-poštnih naslovov ali uporabniške vsebine. V EGP, Združenem kraljestvu in Švici lahko signali soglasja Google UMP dodatno omejijo zbiranje podatkov Analytics. Možnosti oglaševanja so na voljo ločeno.</li><li><strong>Poročila o zrušitvah.</strong> Firebase Crashlytics samodejno prejema poročila o zrušitvah, sledi sklada, ustrezno stanje aplikacije in podrobnosti o napravi/operacijskem sistemu, da pomaga odpraviti težave. Ne prilagamo uporabniških ID-jev po meri ali koordinat.</li><li><strong>Oglaševanje.</strong> Na domači strani se lahko prikaže pasica. Google AdMob in njegovi partnerji lahko obdelujejo naslove IP, identifikatorje naprav ali oglaševalske identifikatorje, ki so na voljo glede na vaša dovoljenja, interakcije z oglasi in diagnostične podatke za prikazovanje oglasov, merjenje in preprečevanje goljufij. Aplikacija ne posreduje izbranih koordinat AdMobu. Google User Messaging Platform zbira možnosti oglaševanja, kjer je to potrebno. Če zavrnete dovoljenje za sledenje v sistemu iOS, ne blokirate oglasov, vendar omejite uporabo identifikatorja oglaševanja in sledenje med aplikacijami. Če zavrnete prilagajanje oglasov, lahko še vedno omogočite neosebne ali omejene oglase, odvisno od vaše regije in izbire soglasja. Aplikacija ne zahteva oglasa, če Google UMP tega ne dovoljuje, upravičena zahteva pa morda še vedno ne vrne oglasa.</li><li><strong>Nakupi.</strong> Apple obdeluje naročnine prek trgovine App Store in StoreKit. Aplikacija prejme stanje transakcije in upravičenosti, potrebno za odklepanje ali obnovitev dostopa Premium; mi ne prejmemo podatkov o kartici.</li>",
+        "block-004": "Ponudniki in deljenje",
+        "block-005": "Podatki se posredujejo ponudnikom le, če je to potrebno za zgornje funkcije: <a href=\"https://policies.google.com/privacy\">Google (AdMob, Firebase in UMP)</a>, <a href=\"https://www.apple.com/legal/privacy/\">Apple</a> in <a href=\"https://www.met.no/en/About-us/privacy\">MET Norway</a>. Ti lahko obdelujejo podatke v različnih državah v skladu s svojimi pravilniki. Prenos podatkov v oglasnem sistemu se lahko v skladu z nekaterimi zakoni ameriških zveznih držav šteje kot »prodaja« ali »deljenje«; upravičeni uporabniki se lahko od tega odjavijo prek nastavitev zasebnosti v aplikaciji. Sunchucks ne zahteva računa pri nas in ne upravlja strežnika uporabniških računov.",
+        "block-006": "Hramba podatkov in izbire",
+        "block-007": "Nastavitve in shranjena mesta ostanejo v vaši napravi, dokler jih ne odstranite ali dokler aplikacije ne odstranite. Podatki, ki jih obdelujejo Google, Apple in MET Norway, so prav tako predmet praks hrambe teh ponudnikov, nad katerimi nimamo popolnega nadzora. Dovoljenja za lokacijo, kamero, obvestila in sledenje upravljajte v nastavitvah sistema iOS. Kjer je to potrebno za vašo regijo, uporabite »Možnosti zasebnosti« v nastavitvah Sunchucks, da si ogledate soglasje za oglase. Upravljajte naročnine v nastavitvah računa Apple. Za zahtevo dostopa, popravka, ugovora ali izbrisa se obrnite na nas; odgovorili bomo glede podatkov, ki jih lahko prepoznamo in nadzorujemo.",
+        "block-008": "Spremembe",
+        "block-009": "Trenutna politika je objavljena tukaj. To spletno mesto gostuje na GitHub Pages; <a href=\"https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement\">GitHub lahko</a> za delovanje spletnega mesta obdeluje podatke obiskovalcev, kot so naslovi IP."
+      }
+    },
+    "sunchucks_terms": {
+      "title": "Pogoji uporabe",
+      "updatedLabel": "Velja od 24. septembra 2026 · Posodobljeno 23. novembra 2026",
+      "footerHTML": "Avtorske pravice © Dawid Kolasiński. Vse pravice pridržane.",
+      "blocks": {
+        "block-001": "Aplikacijo Sunchucks ponuja Dawid Kolasiński. Če ni predložena ločena licenčna pogodba, je uporaba aplikacije, prenesene iz trgovine App Store, predmet <a href=\"https://www.apple.com/legal/internet-services/itunes/dev/stdeula/\">standardne licenčne pogodbe za končnega uporabnika družbe Apple</a> in veljavne zakonodaje.",
+        "block-002": "Naročnine",
+        "block-003": "Sunchucks lahko ponuja samodejno obnovljive Premium naročnine. Cena, trajanje in pogoji posamezne ponudbe so prikazani pred nakupom v aplikaciji in trgovini App Store. Apple upravlja nakupe, naročnine in vračila denarja. Z brisanjem aplikacije se aktivna naročnina ne prekliče.",
+        "block-004": "Kontakt",
+        "block-005": "Za pomoč ali vprašanja pišite na <a href=\"mailto:sunchucks.support@gmail.com\">sunchucks.support@gmail.com</a>. Za postopke obdelave podatkov si oglejte našo <a href=\"https://dawidkolasinski.github.io/privacy/\">politiko zasebnosti .</a>"
+      }
+    },
+    "moonchucks_privacy": {
+      "title": "Pravilnik o zasebnosti",
+      "updatedLabel": "Zadnja posodobitev: 23. november 2026",
+      "footerHTML": "Avtorske pravice © Dawid Kolasiński.",
+      "blocks": {
+        "block-001": "Moonchucks je aplikacija za iOS, ki jo je razvil Dawid Kolasiński. Za zahteve glede zasebnosti pišite na <a href=\"mailto:sunchucks.support@gmail.com\">sunchucks.support@gmail.com</a> in omenite Moonchucks.",
+        "block-002": "Lokacija in zemljevidi",
+        "block-003": "Z dovoljenjem iOS lahko Moonchucks uporabi vašo trenutno lokacijo za načrtovanje opazovanj Lune. Kraj lahko izberete tudi ročno. Shranjeni kraji in nastavitve so shranjeni v vaši napravi. Koordinate, potrebne za vremenske napovedi, so poslane storitvi MET Norway. Storitve Apple lahko obdelujejo zahteve za zemljevide in iskanje krajev.",
+        "block-004": "Kamera, gibanje in obvestila",
+        "block-005": "Kamera in senzorji gibanja podpirajo pogled obogatene resničnosti. Posnetki kamere se obdelajo za ta pogled in se ne naložijo samodejno na strežnik, ki ga upravljamo mi. Sistemska dovoljenja nadzorujejo dostop do kamere, lokacije, fotografij in obvestil, ki jih uporabljajo funkcije, ki jih izberete.",
+        "block-006": "Analitika in diagnostika",
+        "block-007": "Moonchucks uporablja Firebase Analytics, Performance Monitoring in Crashlytics. Google lahko obdeluje dogodke uporabe aplikacij, identifikatorje namestitve, podatke o napravi in operacijskem sistemu, meritve zagona aplikacij in delovanja omrežja, poročila o zrušitvah in sledi sklada. Performance Monitoring lahko uporablja naslove IP za oceno splošne regije. Firebase Remote Config zagotavlja konfiguracijo aplikacije. Te storitve nam pomagajo razumeti uporabo, konfigurirati aplikacijo in diagnosticirati težave.",
+        "block-008": "Spletne informacije o nebu",
+        "block-009": "Videz lune in posnetki nočne svetlobe se zahtevajo od služb NASA. Podatki o aurori se zahtevajo od NOAA. Spletni ponudniki in njihove storitve gostovanja lahko prejmejo naslove IP in informacije o zahtevah, ko se te funkcije uporabljajo. Izbrano območje zemljevida določa zahtevane posnetke.",
+        "block-010": "Nakupi in podpora",
+        "block-011": "Apple obravnava nakupe naročnin in podrobnosti plačila prek trgovine App Store. Moonchucks prejme podatke o transakciji in upravičenosti, potrebne za odklepanje ali obnovitev dostopa Premium. Mi ne prejmemo podatkov o vaši kartici. Če pošljete e-pošto podpori, prejmemo vaš e-poštni naslov in podatke, ki jih izberete.",
+        "block-012": "Možnosti oglaševanja in zasebnosti",
+        "block-013": "Moonchucks uporablja Google AdMob za pasico na domači strani. Google lahko za oglaševanje in merjenje obdeluje identifikatorje naprav, približno lokacijo, pridobljeno iz naslovov IP, oglede oglasov in interakcije ter diagnostične podatke in podatke o učinkovitosti delovanja. Dostop do oglaševalskega identifikatorja je odvisen od dovoljenja za sledenje v sistemu iOS.",
+        "block-014": "Google User Messaging Platform upravlja ustrezna sporočila o soglasju. Po potrebi vam možnosti zasebnosti oglaševanja v nastavitvah aplikacije omogočajo, da ponovno pregledate svoje izbire. Dovoljenje za sledenje v sistemu iOS lahko upravljate v Nastavitve &gt; Zasebnost in varnost &gt; Sledenje. Vaše izbire lahko vplivajo na razpoložljive oglase.",
+        "block-015": "Ponudniki",
+        "block-016": "Ponudniki vključujejo <a href=\"https://policies.google.com/privacy\">Google Firebase in AdMob</a>, <a href=\"https://www.apple.com/legal/privacy/\">Apple</a>, <a href=\"https://www.met.no/en/About-us/privacy\">MET Norway</a>, <a href=\"https://www.nasa.gov/privacy/\">NASA</a> in <a href=\"https://www.noaa.gov/organization/information-technology/privacy\">NOAA</a>. Podatke lahko obdelujejo v različnih državah v skladu s svojimi pravilniki. Moonchucks ne zahteva uporabniškega računa.",
+        "block-017": "Hramba podatkov in vaše izbire",
+        "block-018": "Shranjeni kraji in nastavitve aplikacij ostanejo v vaši napravi, dokler jih ne odstranite ali dokler aplikacije ne odstranite. Za podatke ponudnikov veljajo pravilniki o hranjenju podatkov ponudnikov. Korespondenca s podporo se hrani po potrebi za obravnavo zahteve. Sistemska dovoljenja upravljajte v nastavitvah sistema iOS, naročnine pa v svojem računu Apple. Za dostop, popravek ali izbris podatkov, ki jih lahko prepoznamo in nadzorujemo, se obrnite na nas.",
+        "block-019": "To spletno mesto in spremembe",
+        "block-020": "To spletno mesto gosti GitHub Pages. <a href=\"https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement\">GitHub lahko za delovanje spletnega mesta obdeluje podatke obiskovalcev</a>, vključno z naslovi IP. Trenutni pravilnik Moonchucks je objavljen na tej strani in se lahko posodobi, ko se spremenijo prakse aplikacije glede podatkov."
+      }
+    },
+    "moonchucks_terms": {
+      "title": "Pogoji uporabe",
+      "updatedLabel": "Zadnja posodobitev: 23. november 2026",
+      "footerHTML": "Avtorske pravice © Dawid Kolasiński.",
+      "blocks": {
+        "block-001": "Aplikacijo Moonchucks ponuja Dawid Kolasiński. Če ni predložena ločena licenčna pogodba, je uporaba aplikacije, prenesene iz trgovine App Store, predmet <a href=\"https://www.apple.com/legal/internet-services/itunes/dev/stdeula/\">standardne licenčne pogodbe za končnega uporabnika družbe Apple</a> in veljavne zakonodaje.",
+        "block-002": "Naročnine",
+        "block-003": "Moonchucks ponuja izbirne samodejno obnovljive Premium naročnine. Cena, obračunsko obdobje in morebitne uvodne ponudbe, do katerih ste upravičeni so prikazane pred nakupom. Apple upravlja nakupe, naročnine in vračila. Naročnino lahko upravljate ali prekličete v nastavitvah naročnine v svojem Apple računu. Z brisanjem aplikacije ne prekličete aktivne naročnine. Za obnovitev nakupa, ki izpolnjuje pogoje uporabite možnost Obnovi nakupe na zaslonu Premium.",
+        "block-004": "Oglaševanje",
+        "block-005": "Moonchucks vključuje oglaševanje. Oglasi morda niso vedno na voljo.",
+        "block-006": "Informacije o načrtovanju",
+        "block-007": "Lunini položaji in dogodki so izračunani za izbrani kraj, datum in čas. Dejanska vidljivost je odvisna tudi od vremena, terena in pogleda na obzorje. Informacije o polarnem sijaju NOAA so modelirani podatki napovedi in ne zagotavljajo vidnega polarnega sija. NASA Night lights prikazuje najnovejše razpoložljive satelitske posnetke umetnih nočnih luči, iz izdelka NASA VIIRS NOAA-20 Black Marble. Te dnevne slike lahko uporabljajo prejšnja opazovanja za zapolnitev vrzeli. Niso meritev svetlosti neba v živo ali klasifikacija Bortle.",
+        "block-008": "Kontakt",
+        "block-009": "Za pomoč pišite na <a href=\"mailto:sunchucks.support@gmail.com\">sunchucks.support@gmail.com in omenite Moonchucks.</a> Za informacije o praksah obdelave podatkov preberite <a href=\"https://dawidkolasinski.github.io/moonchucks/privacy/\">Pravilnik o zasebnosti .</a>"
+      }
+    }
+  },
+  "uiLabels": {
+    "privacy": "Zasebnost",
+    "terms": "Pogoji uporabe",
+    "support": "Podpora",
+    "legalNavigation": "Pravne strani",
+    "language": "Jezik",
+    "onThisPage": "Na tej strani",
+    "documentSections": "Oddelki dokumenta",
+    "skipToContent": "Preskoči na vsebino",
+    "mainNavigation": "Glavna navigacija",
+    "footerNavigation": "Navigacija v nogi",
+    "backToTop": "Nazaj na vrh"
+  },
+  "privacyHostingVariants": {
+    "sunchucks_privacy": {
+      "github": "Trenutna politika je objavljena tukaj. To spletno mesto gostuje na GitHub Pages; <a href=\"https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement\">GitHub lahko</a> za delovanje spletnega mesta obdeluje podatke obiskovalcev, kot so naslovi IP.",
+      "cloudflare": "Trenutna politika je objavljena tukaj. To spletno mesto uporablja Cloudflare Pages. Cloudflare obdeluje tehnične podatke zahtev, vključno z naslovi IP, za zagotavljanje in zaščito spletnega mesta. Glejte <a href=\"https://www.cloudflare.com/privacypolicy/\">informacije o zasebnosti Cloudflare</a>.",
+      "firebase": "Trenutna politika je objavljena tukaj. To spletno mesto uporablja Firebase Hosting. Google obdeluje naslove IP in podatke zahtev za zagotavljanje delovanja spletnega mesta in njegovo zaščito pred zlorabo. Glejte <a href=\"https://firebase.google.com/support/privacy\">informacije o zasebnosti Firebase</a>."
+    },
+    "moonchucks_privacy": {
+      "github": "To spletno mesto gosti GitHub Pages. <a href=\"https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement\">GitHub lahko za delovanje spletnega mesta obdeluje podatke obiskovalcev</a>, vključno z naslovi IP. Trenutni pravilnik Moonchucks je objavljen na tej strani in se lahko posodobi, ko se spremenijo prakse aplikacije glede podatkov.",
+      "cloudflare": "To spletno mesto uporablja Cloudflare Pages. Cloudflare obdeluje tehnične podatke zahtev, vključno z naslovi IP, za zagotavljanje in zaščito spletnega mesta. Glejte <a href=\"https://www.cloudflare.com/privacypolicy/\">informacije o zasebnosti Cloudflare</a>. Trenutna politika Moonchucks je objavljena na tej strani in se lahko posodobi, ko se spremenijo prakse aplikacije glede podatkov.",
+      "firebase": "To spletno mesto uporablja Firebase Hosting. Google obdeluje naslove IP in podatke o zahtevah za zagotavljanje delovanja spletnega mesta in njegovo zaščito pred zlorabo. Glejte <a href=\"https://firebase.google.com/support/privacy\">informacije o zasebnosti Firebase</a>. Trenutni pravilnik Moonchucks je objavljen na tej strani in se lahko posodobi, ko se spremenijo prakse aplikacije glede podatkov."
+    }
+  },
+  "translation": {
+    "method": "google-documents",
+    "reviewStatus": "targeted-editorial-review",
+    "published": false,
+    "inputFile": "sl.docx",
+    "inputSHA256": "3cc66aaeb0f4ac044fe1dea43326980d07b7a4cb5b051c3f2de2e599a552a3e2",
+    "independentNativeReview": false
+  }
+}

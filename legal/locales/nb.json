@@ -1,0 +1,111 @@
+{
+  "schemaVersion": 1,
+  "sourceHash": "bd2c2f6d35958a0e87d2f3b25f9549e0cc16c4c50f24c4b8432e25be7e69bc57",
+  "locale": "nb",
+  "documents": {
+    "sunchucks_privacy": {
+      "title": "Personvernerklæring",
+      "updatedLabel": "Gyldig fra 30. september 2026 · Oppdatert 23. november 2026",
+      "footerHTML": "Copyright © Dawid Kolasiński. Alle rettigheter forbeholdt.",
+      "blocks": {
+        "block-001": "Sunchucks er en iOS-app levert av Dawid Kolasiński. For personvernforespørsler, kontakt <a href=\"mailto:sunchucks.support@gmail.com\">sunchucks.support@gmail.com</a>.",
+        "block-002": "Data og formål",
+        "block-003": "<li><strong>Sted og vær.</strong> Med iOS-tillatelse kan appen bruke din nåværende posisjon. Du kan også velge et sted manuelt uten å gi posisjonstilgang. Det valgte stedet brukes til kart, solberegninger og værmeldinger. Koordinater som trengs for værmeldinger sendes til Apple WeatherKit. Skydekke- og nedbørskart bruker MET Norway/YR-tjenester. Basiskart og stedssøk kan bruke Apple-tjenester. Lagrede steder og preferanser lagres på enheten din.</li><li><strong>Kamera og påminnelser.</strong> Kamerabilder brukes til utvidet virkelighet og lastes ikke automatisk opp til en server som drives av oss. iOS håndterer påminnelser med tillatelsen du gir.</li><li><strong>Analyse og ytelse.</strong> Firebase Analytics og Firebase Performance Monitoring hjelper oss med å forstå appbruk og forbedre ytelsen. De kan behandle appbrukshendelser, apptilstandsegenskaper, enhets- og operativsystemdata, appstartmålinger og nettverksforespørselsmålinger. Firebase Performance kan bruke IP-adresser til å estimere en generell region. Våre tilpassede Analytics-hendelser inneholder ikke koordinater, stedsnavn, e-postadresser eller brukerinnhold. I EØS, Storbritannia og Sveits kan Google UMP-samtykkesignaler begrense Analytics-innsamlingen ytterligere. Annonseringsvalg er tilgjengelige separat.</li><li><strong>Krasjrapporter.</strong> Firebase Crashlytics mottar automatisk krasjrapporter, stakkspor, relevant appstatus og enhets-/operativsystemdetaljer for å løse problemer. Vi legger ikke til egendefinerte bruker-ID-er eller koordinater.</li><li><strong>Reklame.</strong> Appens startside kan vise et banner. Google AdMob og partnerne deres kan behandle IP-adresser, enhets- eller annonseidentifikatorer som er tilgjengelige under dine tillatelser, annonseinteraksjoner og diagnostikk for annonselevering, måling og forebygging av svindel. Appen sender ikke valgte koordinater til AdMob. Google User Messaging Platform samler inn annonsevalg der det er nødvendig. Å nekte iOS-sporingstillatelse blokkerer ikke annonser, men begrenser bruken av annonseidentifikatoren og sporing på tvers av apper. Å nekte personlig tilpasning av annonser kan fortsatt tillate ikke-personlige eller begrensede annonser, avhengig av regionen din og samtykkevalgene dine. Appen ber ikke om en annonse når Google UMP ikke tillater det, og selv en tillatt forespørsel gir ikke nødvendigvis en annonse.</li><li><strong>Kjøp.</strong> Apple behandler abonnementer via App Store og StoreKit. Appen mottar transaksjons- og rettighetsstatusen som kreves for å låse opp eller gjenopprette Premium; vi mottar ikke kortinformasjon.</li>",
+        "block-004": "Leverandører og deling",
+        "block-005": "Data går kun til leverandører etter behov for funksjonene ovenfor: <a href=\"https://policies.google.com/privacy\">Google (AdMob, Firebase og UMP)</a>, <a href=\"https://www.apple.com/legal/privacy/\">Apple</a> og <a href=\"https://www.met.no/en/About-us/privacy\">MET Norway</a>. De kan behandle data i forskjellige land i henhold til sine egne retningslinjer. Dataoverføringer i annonsesystemet kan telle som et «salg» eller «deling» i henhold til noen amerikanske delstatslover; kvalifiserte brukere kan velge bort dette gjennom appens personvernvalg. Sunchucks krever ingen konto hos oss og driver ingen server for brukerkontoer.",
+        "block-006": "Oppbevaring og valg",
+        "block-007": "Innstillinger og lagrede steder forblir på enheten din til de fjernes eller til appen avinstalleres. Data behandlet av Google, Apple og MET Norway er også underlagt disse leverandørenes oppbevaringspraksis, som vi ikke har full kontroll over. Administrer tillatelser for posisjon, kamera, varsling og sporing i iOS-innstillinger. Der det er nødvendig for din region, bruk «Personvernvalg» i Sunchucks-innstillinger for å se på samtykke til annonser på nytt. Administrer abonnementer i Apple-kontoinnstillingene dine. Kontakt oss for å be om tilgang, korrigering, innsigelse eller sletting. Vi vil svare for data vi kan identifisere og kontrollere.",
+        "block-008": "Endringer",
+        "block-009": "Gjeldende retningslinjer er publisert her. Dette nettstedet ligger på GitHub Pages; <a href=\"https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement\">GitHub kan behandle besøksdata</a> som IP-adresser for å drifte nettstedet."
+      }
+    },
+    "sunchucks_terms": {
+      "title": "Bruksvilkår",
+      "updatedLabel": "Gyldig fra 24. september 2026 · Oppdatert 23. november 2026",
+      "footerHTML": "Copyright © Dawid Kolasiński. Alle rettigheter forbeholdt.",
+      "blocks": {
+        "block-001": "Sunchucks leveres av Dawid Kolasiński. Med mindre en separat lisensavtale fremlegges, er bruk av appen som er lastet ned fra App Store underlagt <a href=\"https://www.apple.com/legal/internet-services/itunes/dev/stdeula/\">Apples standard sluttbrukerlisensavtale</a> og gjeldende lov.",
+        "block-002": "Abonnementer",
+        "block-003": "Sunchucks kan tilby automatisk fornybare Premium-abonnementer. Pris, varighet og vilkår for et spesifikt tilbud vises før kjøp i appen og App Store. Apple håndterer kjøp, abonnementsadministrasjon og refusjoner. Sletting av appen kansellerer ikke et aktivt abonnement.",
+        "block-004": "Kontakt",
+        "block-005": "For hjelp eller spørsmål, send en e-post til <a href=\"mailto:sunchucks.support@gmail.com\">sunchucks.support@gmail.com</a>. Se vår <a href=\"https://dawidkolasinski.github.io/privacy/\">personvernerklæring</a> for datapraksis."
+      }
+    },
+    "moonchucks_privacy": {
+      "title": "Personvernerklæring",
+      "updatedLabel": "Sist oppdatert: 23. november 2026",
+      "footerHTML": "Copyright © Dawid Kolasiński.",
+      "blocks": {
+        "block-001": "Moonchucks er en iOS-app levert av Dawid Kolasiński. For personvernforespørsler, kontakt <a href=\"mailto:sunchucks.support@gmail.com\">sunchucks.support@gmail.com</a> og nevn Moonchucks.",
+        "block-002": "Plassering og kart",
+        "block-003": "Med iOS-tillatelse kan Moonchucks bruke din nåværende posisjon til planlegging av måneobservasjoner. Du kan også velge et sted manuelt. Lagrede steder og preferanser lagres på enheten din. Koordinater som trengs for værmeldinger sendes til MET Norway. Apple-tjenester kan behandle kart- og stedssøkforespørsler.",
+        "block-004": "Kamera, bevegelse og varsler",
+        "block-005": "Kameraet og bevegelsessensorene støtter utvidet virkelighet. Kamerabilder behandles for den visningen og lastes ikke automatisk opp til en server som drives av oss. Systemtillatelser styrer tilgang til kameraet, plasseringen, bildene og varslene som brukes av funksjonene du velger.",
+        "block-006": "Analyse og diagnostikk",
+        "block-007": "Moonchucks bruker Firebase Analytics, Performance Monitoring og Crashlytics. Google kan behandle hendelser knyttet til appbruk, installasjonsidentifikatorer, informasjon om enheter og operativsystemer, appstart- og nettverksytelsesmålinger, krasjrapporter og stakkspor. Performance Monitoring kan bruke IP-adresser til å estimere et generelt område. Firebase Remote Config leverer appkonfigurasjon. Disse tjenestene hjelper oss med å forstå bruk, konfigurere appen og diagnostisere problemer.",
+        "block-008": "Informasjon om himmelen på nett",
+        "block-009": "Bilder av månens utseende og nattlys blir forespurt fra NASA-tjenester. Informasjon om nordlys blir forespurt fra NOAA. Nettleverandører og deres hostingtjenester kan motta IP-adresser og informasjon om forespørsler når disse funksjonene brukes. Det valgte kartområdet bestemmer bildene som blir forespurt.",
+        "block-010": "Kjøp og brukerstøtte",
+        "block-011": "Apple håndterer abonnementskjøp og betalingsdetaljer gjennom App Store. Moonchucks mottar transaksjons- og rettighetsinformasjonen som er nødvendig for å låse opp eller gjenopprette Premium. Vi mottar ikke kortopplysningene dine. Hvis du sender e-post til kundestøtte, mottar vi e-postadressen din og informasjonen du velger å inkludere.",
+        "block-012": "Annonsering og personvernvalg",
+        "block-013": "Moonchucks bruker Google AdMob for et banner på appens startside. Google kan behandle enhetsidentifikatorer, omtrentlig plassering utledet fra IP-adresser, annonsevisninger og -interaksjoner, og diagnostiske og ytelsesdata for annonsering og måling. Tilgang til annonseringsidentifikatoren er underlagt sporingstillatelse fra iOS.",
+        "block-014": "Google User Messaging Platform administrerer gjeldende samtykkemeldinger. Ved behov kan du se på nytt via personvernalternativer for annonsering i appens innstillinger. Du kan administrere iOS-sporingstillatelser i Innstillinger &gt; Personvern og sikkerhet &gt; Sporing. Valgene dine kan påvirke hvilke annonser som er tilgjengelige.",
+        "block-015": "Leverandører",
+        "block-016": "Leverandører inkluderer <a href=\"https://policies.google.com/privacy\">Google Firebase og AdMob</a>, <a href=\"https://www.apple.com/legal/privacy/\">Apple</a>, <a href=\"https://www.met.no/en/About-us/privacy\">MET Norway</a>, <a href=\"https://www.nasa.gov/privacy/\">NASA</a> og <a href=\"https://www.noaa.gov/organization/information-technology/privacy\">NOAA</a>. De kan behandle informasjon i forskjellige land i henhold til sine egne retningslinjer. Moonchucks krever ikke en brukerkonto.",
+        "block-017": "Oppbevaring og dine valg",
+        "block-018": "Lagrede steder og apppreferanser forblir på enheten din til de fjernes eller appen avinstalleres. Leverandørdata er underlagt leverandørens oppbevaringsregler. Kundestøttekorrespondanse oppbevares etter behov for å håndtere forespørselen. Administrer systemtillatelser i iOS-innstillinger og abonnementer i Apple-kontoen din. Kontakt oss for å be om tilgang, korrigering eller sletting av informasjon vi kan identifisere og kontrollere.",
+        "block-019": "Denne nettsiden og endringer",
+        "block-020": "Dette nettstedet driftes av GitHub Pages. <a href=\"https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement\">GitHub kan behandle besøksinformasjon</a>, inkludert IP-adresser, for å drifte nettstedet. Gjeldende retningslinjer for Moonchucks er publisert på denne siden og kan oppdateres når appens datapraksis endres."
+      }
+    },
+    "moonchucks_terms": {
+      "title": "Bruksvilkår",
+      "updatedLabel": "Sist oppdatert: 23. november 2026",
+      "footerHTML": "Copyright © Dawid Kolasiński.",
+      "blocks": {
+        "block-001": "Moonchucks leveres av Dawid Kolasiński. Med mindre en separat lisensavtale fremlegges, er bruk av appen som er lastet ned fra App Store underlagt <a href=\"https://www.apple.com/legal/internet-services/itunes/dev/stdeula/\">Apples standard sluttbrukerlisensavtale</a> og gjeldende lov.",
+        "block-002": "Abonnementer",
+        "block-003": "Moonchucks tilbyr valgfrie automatisk fornybare Premium-abonnementer. Pris, faktureringsperiode og eventuelle introduksjonstilbud du er kvalifisert for vises før kjøp. Apple håndterer kjøp, abonnementsadministrasjon og refusjoner. Administrer eller si opp et abonnement i abonnementsinnstillingene for Apple-kontoen din. Et aktivt abonnement blir ikke sagt opp når du sletter appen. Bruk Gjenopprett kjøp på Premium-skjermen for å gjenopprette et kjøp som oppfyller vilkårene.",
+        "block-004": "Reklame",
+        "block-005": "Moonchucks inkluderer reklame. Annonser er kanskje ikke alltid tilgjengelige.",
+        "block-006": "Planleggingsinformasjon",
+        "block-007": "Måneposisjoner og hendelser beregnes for det valgte stedet, datoen og klokkeslettet. Faktisk sikt avhenger også av vær, terreng og utsikten til horisonten. NOAA-informasjon om nordlys er modellerte prognosedata og garanterer ikke synlig nordlys. NASA Night Lights viser de nyeste tilgjengelige satellittbildene av kunstig nattlys fra NASA-produktet VIIRS NOAA-20 Black Marble. Disse daglige bildene kan bruke tidligere observasjoner for å fylle hull. De er ikke en live måling av himmellysstyrken eller en Bortle-klassifisering.",
+        "block-008": "Kontakt",
+        "block-009": "For hjelp, send en e-post til <a href=\"mailto:sunchucks.support@gmail.com\">sunchucks.support@gmail.com</a> og nevn Moonchucks. Les <a href=\"https://dawidkolasinski.github.io/moonchucks/privacy/\">personvernerklæringen</a> for informasjon om datapraksis."
+      }
+    }
+  },
+  "uiLabels": {
+    "privacy": "Personvern",
+    "terms": "Bruksvilkår",
+    "support": "Brukerstøtte",
+    "legalNavigation": "Juridiske sider",
+    "language": "Språk",
+    "onThisPage": "På denne siden",
+    "documentSections": "Dokumentseksjoner",
+    "skipToContent": "Hopp til innhold",
+    "mainNavigation": "Hovednavigasjon",
+    "footerNavigation": "Bunntekstnavigasjon",
+    "backToTop": "Tilbake til toppen"
+  },
+  "privacyHostingVariants": {
+    "sunchucks_privacy": {
+      "github": "Gjeldende retningslinjer er publisert her. Dette nettstedet ligger på GitHub Pages; <a href=\"https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement\">GitHub kan behandle besøksdata</a> som IP-adresser for å drifte nettstedet.",
+      "cloudflare": "Gjeldende retningslinjer er publisert her. Dette nettstedet bruker Cloudflare Pages. Cloudflare behandler tekniske forespørselsdata, inkludert IP-adresser, for å levere og beskytte nettstedet. Se <a href=\"https://www.cloudflare.com/privacypolicy/\">Cloudflares personverninformasjon</a>.",
+      "firebase": "De gjeldende retningslinjene er publisert her. Dette nettstedet bruker Firebase Hosting. Google behandler IP-adresser og forespørselsdata for å levere nettstedet og beskytte det mot misbruk. Se <a href=\"https://firebase.google.com/support/privacy\">Firebase personverninformasjon</a>."
+    },
+    "moonchucks_privacy": {
+      "github": "Dette nettstedet driftes av GitHub Pages. <a href=\"https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement\">GitHub kan behandle besøksinformasjon</a>, inkludert IP-adresser, for å drifte nettstedet. Gjeldende retningslinjer for Moonchucks er publisert på denne siden og kan oppdateres når appens datapraksis endres.",
+      "cloudflare": "Dette nettstedet bruker Cloudflare Pages. Cloudflare behandler tekniske forespørselsdata, inkludert IP-adresser, for å levere og beskytte nettstedet. Se <a href=\"https://www.cloudflare.com/privacypolicy/\">Cloudflares personverninformasjon</a>. Gjeldende Moonchucks-policy er publisert på denne siden og kan bli oppdatert når appens datapraksis endres.",
+      "firebase": "Dette nettstedet bruker Firebase Hosting. Google behandler IP-adresser og forespørselsdata for å levere nettstedet og beskytte det mot misbruk. Se <a href=\"https://firebase.google.com/support/privacy\">Firebase personverninformasjon</a>. Gjeldende Moonchucks-policy er publisert på denne siden og kan bli oppdatert når appens datapraksis endres."
+    }
+  },
+  "translation": {
+    "method": "google-documents",
+    "reviewStatus": "targeted-editorial-review",
+    "published": false,
+    "inputFile": "nb.docx",
+    "inputSHA256": "01aa1d7b78ca998121e363065ae95ba99ba106a8a8bab46a8259f35d5349c2d4",
+    "independentNativeReview": false
+  }
+}
