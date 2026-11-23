@@ -6,7 +6,7 @@
     "sunchucks_privacy": {
       "title": "プライバシーポリシー",
       "updatedLabel": "発効日：2026年9月30日 · 更新日：2026年11月23日",
-      "footerHTML": "著作権 © Dawid Kolasiński. 無断転載を禁じます。",
+      "footerHTML": "著作権 © Dawid Kolasiński。すべての権利を留保します。",
       "blocks": {
         "block-001": "SunchucksはDawid Kolasińskiが提供するiOSアプリです。プライバシーに関するご依頼は、<a href=\"mailto:sunchucks.support@gmail.com\">sunchucks.support@gmail.com</a>までご連絡ください。",
         "block-002": "データと利用目的",
@@ -22,7 +22,7 @@
     "sunchucks_terms": {
       "title": "利用規約",
       "updatedLabel": "発効日：2026年9月24日 · 更新日：2026年11月23日",
-      "footerHTML": "著作権 © Dawid Kolasiński. 無断転載を禁じます。",
+      "footerHTML": "著作権 © Dawid Kolasiński。すべての権利を留保します。",
       "blocks": {
         "block-001": "SunchucksはDawid Kolasińskiが提供します。別のライセンス契約が提示されない限り、App Storeからダウンロードしたアプリの利用には、<a href=\"https://www.apple.com/legal/internet-services/itunes/dev/stdeula/\">Appleの標準エンドユーザー使用許諾契約</a>および適用法が適用されます。",
         "block-002": "サブスクリプション",
@@ -43,7 +43,7 @@
         "block-005": "カメラとモーションセンサーは拡張現実表示に使用します。カメラのフレームはその表示のために処理され、当方が運営するサーバーに自動でアップロードされることはありません。選択した機能で使用するカメラ、位置情報、写真、通知へのアクセスは、システムの許可によって管理されます。",
         "block-006": "分析と診断",
         "block-007": "MoonchucksはFirebase Analytics、Performance Monitoring、Crashlyticsを使用します。Googleは、アプリの利用イベント、インストール識別子、デバイスとOSの情報、アプリ起動とネットワーク性能の指標、クラッシュレポート、スタックトレースを処理する場合があります。Performance Monitoringは、IPアドレスからおおまかな地域を推定する場合があります。Firebase Remote Configはアプリの構成情報を提供します。これらのサービスは、利用状況の把握、アプリの設定、問題の診断に役立てます。",
-        "block-008": "オンラインの空に関する情報",
+        "block-008": "オンラインの天文情報",
         "block-009": "月の見え方と夜間光の画像はNASAのサービスにリクエストします。オーロラ情報はNOAAにリクエストします。これらの機能を使用する際、オンラインの提供事業者やそのホスティングサービスは、IPアドレスとリクエスト情報を受信する場合があります。選択した地図の範囲によって、リクエストする画像が決まります。",
         "block-010": "購入とサポート",
         "block-011": "サブスクリプションの購入と支払情報は、AppleがApp Storeを通じて処理します。Moonchucksは、Premiumの有効化や復元に必要な取引と利用権の情報を受信します。当方がカード情報を受け取ることはありません。サポート宛てにメールを送信された場合、当方はメールアドレスと、お客様が記載した情報を受信します。",
@@ -65,7 +65,7 @@
       "blocks": {
         "block-001": "MoonchucksはDawid Kolasińskiが提供します。別のライセンス契約が提示されない限り、App Storeからダウンロードしたアプリの利用には、<a href=\"https://www.apple.com/legal/internet-services/itunes/dev/stdeula/\">Appleの標準エンドユーザー使用許諾契約</a>および適用法が適用されます。",
         "block-002": "サブスクリプション",
-        "block-003": "Moonchucksは任意加入の自動更新Premiumサブスクリプションを提供します。価格、請求期間、対象となる導入オファーは購入前に表示されます。購入、サブスクリプションの管理、返金はAppleが処理します。Apple Accountのサブスクリプション設定で管理または解約してください。アプリを削除しても、有効なサブスクリプションは解約されません。対象の購入を復元するには、Premium画面の「購入を復元」を使用してください。",
+        "block-003": "Moonchucksは任意加入の自動更新プレミアムサブスクリプションを提供します。価格、請求期間、適用対象となるお試しオファーは購入前に表示されます。購入、サブスクリプションの管理、返金はAppleが処理します。Apple Accountのサブスクリプション設定で管理または解約してください。アプリを削除しても、有効なサブスクリプションは解約されません。対象の購入を復元するには、プレミアム画面の「購入を復元する」を使用してください。",
         "block-004": "広告",
         "block-005": "Moonchucksには広告が含まれます。広告は常に利用できるとは限りません。",
         "block-006": "計画に関する情報",
@@ -77,7 +77,7 @@
   },
   "uiLabels": {
     "privacy": "プライバシー",
-    "terms": "規約",
+    "terms": "利用規約",
     "support": "サポート",
     "legalNavigation": "法的情報",
     "language": "言語",
