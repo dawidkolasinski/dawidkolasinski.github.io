@@ -14,7 +14,7 @@
         "block-004": "Leverandører og deling",
         "block-005": "Data går kun til leverandører etter behov for funksjonene ovenfor: <a href=\"https://policies.google.com/privacy\">Google (AdMob, Firebase og UMP)</a>, <a href=\"https://www.apple.com/legal/privacy/\">Apple</a> og <a href=\"https://www.met.no/en/About-us/privacy\">MET Norway</a>. De kan behandle data i forskjellige land i henhold til sine egne retningslinjer. Dataoverføringer i annonsesystemet kan telle som et «salg» eller «deling» i henhold til noen amerikanske delstatslover; kvalifiserte brukere kan velge bort dette gjennom appens personvernvalg. Sunchucks krever ingen konto hos oss og driver ingen server for brukerkontoer.",
         "block-006": "Oppbevaring og valg",
-        "block-007": "Innstillinger og lagrede steder forblir på enheten din til de fjernes eller til appen avinstalleres. Data behandlet av Google, Apple og MET Norway er også underlagt disse leverandørenes oppbevaringspraksis, som vi ikke har full kontroll over. Administrer tillatelser for posisjon, kamera, varsling og sporing i iOS-innstillinger. Der det er nødvendig for din region, bruk «Personvernvalg» i Sunchucks-innstillinger for å se på samtykke til annonser på nytt. Administrer abonnementer i Apple-kontoinnstillingene dine. Kontakt oss for å be om tilgang, korrigering, innsigelse eller sletting. Vi vil svare for data vi kan identifisere og kontrollere.",
+        "block-007": "Innstillinger og lagrede steder forblir på enheten din til de fjernes eller til appen avinstalleres. Data behandlet av Google, Apple og MET Norway er også underlagt disse leverandørenes oppbevaringspraksis, som vi ikke har full kontroll over. Administrer tillatelser for posisjon, kamera, varsling og sporing i iOS-innstillinger. Der det er nødvendig for din region, bruk «Personvernvalg» i Sunchucks-innstillinger for å se på samtykke til annonser på nytt. Administrer abonnementer i Apple-kontoinnstillingene dine. Kontakt oss for å be om tilgang, korrigering, innsigelse eller sletting. Vi vil svare på henvendelser om data vi kan identifisere og kontrollere.",
         "block-008": "Endringer",
         "block-009": "Gjeldende retningslinjer er publisert her. Dette nettstedet ligger på GitHub Pages; <a href=\"https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement\">GitHub kan behandle besøksdata</a> som IP-adresser for å drifte nettstedet."
       }
@@ -106,6 +106,11 @@
     "published": false,
     "inputFile": "nb.docx",
     "inputSHA256": "01aa1d7b78ca998121e363065ae95ba99ba106a8a8bab46a8259f35d5349c2d4",
-    "independentNativeReview": false
+    "independentNativeReview": false,
+    "semanticReview": {
+      "date": "2026-11-23",
+      "method": "source-comparison-and-targeted-editorial-corrections",
+      "independentNativeReview": false
+    }
   }
 }
