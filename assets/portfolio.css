@@ -1,0 +1,253 @@
+.portfolio ::selection {
+  color: var(--background);
+  background: var(--accent-strong);
+}
+
+.portfolio a {
+  text-underline-offset: 0.2em;
+}
+
+.portfolio a:focus-visible {
+  outline: 2px solid var(--accent-strong);
+  outline-offset: 4px;
+  border-radius: 4px;
+}
+
+.portfolio-skip {
+  position: absolute;
+  z-index: 1;
+  inset: 12px auto auto 16px;
+  padding: 8px 12px;
+  color: var(--background);
+  background: var(--accent-strong);
+}
+
+.portfolio-skip:not(:focus) {
+  clip-path: inset(50%);
+}
+
+.portfolio-header,
+.portfolio-footer {
+  padding-block: 12px;
+}
+
+.portfolio-header {
+  border-bottom: 1px solid var(--border);
+}
+
+.portfolio .nav a,
+.portfolio-header .brand {
+  display: inline-flex;
+  align-items: center;
+  min-height: 44px;
+}
+
+.portfolio .nav a:hover,
+.portfolio-app-actions a:not(.button):hover,
+.portfolio-profile:hover {
+  text-decoration: underline;
+  text-decoration-thickness: 2px;
+}
+
+.portfolio-hero {
+  display: grid;
+  grid-template-columns: minmax(0, 2fr) minmax(0, 1fr);
+  align-items: end;
+  gap: 24px 36px;
+  padding-block: clamp(42px, 6vw, 88px) clamp(36px, 5vw, 68px);
+}
+
+.portfolio-hero h1 {
+  font-size: clamp(2.125rem, 5.4vw, 4.25rem);
+  letter-spacing: -0.035em;
+  line-height: 1.05;
+}
+
+.portfolio-hero h1 span {
+  display: block;
+}
+
+.portfolio-hero .lead {
+  margin: 0 0 3px;
+  font-size: clamp(1.0625rem, 1.7vw, 1.25rem);
+  max-width: 31ch;
+}
+
+.portfolio-apps h2,
+.portfolio-experience h2 {
+  margin: 0;
+  font-size: clamp(1.5rem, 3.2vw, 2rem);
+  letter-spacing: -0.025em;
+}
+
+.portfolio-app-grid {
+  display: grid;
+  grid-template-columns: minmax(0, 1.12fr) minmax(0, 1fr);
+  gap: 36px 24px;
+  margin-top: 18px;
+}
+
+.portfolio-app {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.portfolio-landscape {
+  display: block;
+  width: 100%;
+  height: clamp(170px, 23vw, 238px);
+  object-fit: cover;
+  border-radius: 12px;
+}
+
+.portfolio-landscape-moon {
+  background: #101a31;
+  object-position: 62% 43%;
+}
+
+.portfolio-landscape-sun {
+  background: #755131;
+  object-position: center 58%;
+}
+
+.portfolio-app-heading {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin-top: 18px;
+}
+
+.portfolio-app-icon {
+  flex: none;
+  border-radius: 12px;
+}
+
+.portfolio-app-heading h3 {
+  margin: 0;
+  font-size: 1.5rem;
+  letter-spacing: -0.02em;
+}
+
+.portfolio-availability {
+  margin: 2px 0 0;
+  font-size: 0.875rem;
+  font-weight: 600;
+}
+
+.portfolio-availability-live {
+  color: var(--accent-strong);
+}
+
+.portfolio-app-summary {
+  max-width: 54ch;
+  margin: 12px 0 14px;
+}
+
+.portfolio-app-actions {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 4px 18px;
+  margin-top: auto;
+  font-weight: 600;
+}
+
+.portfolio-app-actions a:not(.button),
+.portfolio-profile {
+  display: inline-flex;
+  align-items: center;
+  min-height: 44px;
+}
+
+.portfolio-app-actions a:not(.button) {
+  font-size: 0.9375rem;
+}
+
+.portfolio-app-actions .button:hover {
+  filter: brightness(1.12);
+}
+
+.portfolio-experience {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(0, 2fr);
+  gap: 16px 36px;
+  margin-top: clamp(48px, 7vw, 88px);
+  padding-block: 32px 48px;
+  border-top: 1px solid var(--border);
+}
+
+.portfolio-role-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.portfolio-role-list li + li {
+  margin-top: 18px;
+  padding-top: 18px;
+  border-top: 1px solid var(--border);
+}
+
+.portfolio-role-list h3 {
+  margin: 0;
+  color: var(--text);
+  font-size: 1.1875rem;
+}
+
+.portfolio-role-list p {
+  margin: 6px 0 0;
+  max-width: 66ch;
+}
+
+.portfolio-role-list .portfolio-role {
+  margin-top: 2px;
+  font-size: 0.875rem;
+  font-weight: 600;
+}
+
+.portfolio-profile {
+  margin-top: 12px;
+  font-weight: 600;
+}
+
+.portfolio-footer {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  gap: 0 24px;
+  border-top: 1px solid var(--border);
+}
+
+@media (max-width: 760px) {
+  .site-header.portfolio-header {
+    flex-direction: row;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 0 20px;
+  }
+
+  .portfolio-hero,
+  .portfolio-experience {
+    grid-template-columns: 1fr;
+  }
+
+  .portfolio-hero .lead {
+    max-width: 40ch;
+  }
+}
+
+@media (max-width: 600px) {
+  .portfolio-app-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .portfolio-landscape {
+    height: auto;
+    aspect-ratio: 2 / 1;
+  }
+
+  .portfolio-app-actions {
+    column-gap: 12px;
+  }
+}

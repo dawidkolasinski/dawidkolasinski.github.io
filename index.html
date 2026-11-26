@@ -3,51 +3,105 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="description" content="Legal and support information for Sunchucks.">
-  <title>Sunchucks Legal</title>
-  <link rel="stylesheet" href="./assets/site.css">
+  <meta name="description" content="Dawid Kolasiński, Senior iOS Developer &amp; Product Engineer. Explore Moonchucks, Sunchucks, and selected work at BeReal and Listonic.">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="Dawid Kolasiński — Senior iOS Developer &amp; Product Engineer">
+  <meta property="og:description" content="Independent iPhone apps and selected professional work in iOS. Moonchucks is available on the App Store.">
+  <meta property="og:url" content="https://dawidkolasinski.github.io/">
+  <meta property="og:image" content="https://dawidkolasinski.github.io/assets/portfolio/moonchucks-landscape.jpg">
+  <meta property="og:image:alt" content="Moonlight over a mountain lake">
+  <meta name="twitter:card" content="summary_large_image">
+  <title>Dawid Kolasiński — Senior iOS Developer &amp; Product Engineer</title>
+  <link rel="canonical" href="https://dawidkolasinski.github.io/">
+  <link rel="icon" href="/assets/portfolio/favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="/assets/site.css">
+  <link rel="stylesheet" href="/assets/portfolio.css">
 </head>
-<body>
-  <header class="site-header">
-    <a class="brand" href="./">Sunchucks</a>
-    <nav class="nav" aria-label="Site navigation">
-      <a href="./privacy/">Privacy</a>
-      <a href="./terms/">Terms</a>
-      <a href="/sunchucks/support/">Support</a>
-      <a href="./moonchucks/">Moonchucks</a>
+<body class="portfolio">
+  <a class="portfolio-skip" href="#main">Skip to content</a>
+  <header class="site-header portfolio-header">
+    <a class="brand" href="/">Dawid Kolasiński</a>
+    <nav class="nav" aria-label="Main navigation">
+      <a href="#apps">Apps</a>
+      <a href="#experience">Experience</a>
+      <a href="/support/">App support</a>
     </nav>
   </header>
 
-  <main>
-    <section class="hero">
-      <p class="eyebrow">Legal and support</p>
-      <h1>Sunchucks</h1>
-      <p class="lead">
-        Privacy Policy, Terms of Use, and support information for Sunchucks.
-      </p>
+  <main id="main" tabindex="-1">
+    <section class="page portfolio-hero" aria-labelledby="portfolio-title">
+      <h1 id="portfolio-title">Senior iOS Developer <span>&amp; Product Engineer</span></h1>
+      <p class="lead">I build native iOS products with teams and take my own apps from idea to the App Store.</p>
     </section>
 
-    <section class="grid" aria-label="Legal page links">
-      <a class="tile" href="./privacy/">
-        <span>01</span>
-        <h2>Privacy Policy</h2>
-        <p>How the app handles data, purchases, permissions, and third-party services.</p>
-      </a>
-      <a class="tile" href="./terms/">
-        <span>02</span>
-        <h2>Terms of Use</h2>
-        <p>Usage terms, subscriptions, cancellations, and Apple Standard EULA reference.</p>
-      </a>
-      <a class="tile" href="/sunchucks/support/">
-        <span>03</span>
-        <h2>Support</h2>
-        <p>How to contact support and what to include when reporting an issue.</p>
-      </a>
+    <section class="page portfolio-apps" id="apps" aria-labelledby="apps-title">
+      <h2 id="apps-title">Independent apps</h2>
+      <div class="portfolio-app-grid">
+        <article class="portfolio-app" aria-labelledby="moonchucks-title">
+          <img class="portfolio-landscape portfolio-landscape-moon" src="/assets/portfolio/moonchucks-landscape.jpg" width="1280" height="853" alt="" fetchpriority="high">
+          <div class="portfolio-app-heading">
+            <img class="portfolio-app-icon" src="/assets/portfolio/moonchucks-icon.png" width="52" height="52" alt="">
+            <div>
+              <h3 id="moonchucks-title">Moonchucks</h3>
+              <p class="portfolio-availability portfolio-availability-live">Available now</p>
+            </div>
+          </div>
+          <p class="portfolio-app-summary">Check the Moon’s phase, find local moonrise and moonset times, and plan your next observation or photo.</p>
+          <div class="portfolio-app-actions">
+            <a class="button" href="https://apps.apple.com/app/id6812282102">View on the App Store</a>
+            <a href="/moonchucks/">About Moonchucks</a>
+          </div>
+        </article>
+
+        <article class="portfolio-app" aria-labelledby="sunchucks-title">
+          <img class="portfolio-landscape portfolio-landscape-sun" src="/assets/portfolio/sunchucks-landscape.jpg" width="1280" height="853" alt="">
+          <div class="portfolio-app-heading">
+            <img class="portfolio-app-icon" src="/assets/portfolio/sunchucks-icon.png" width="52" height="52" alt="">
+            <div>
+              <h3 id="sunchucks-title">Sunchucks</h3>
+              <p class="portfolio-availability">Coming to iPhone</p>
+            </div>
+          </div>
+          <p class="portfolio-app-summary">Plan for sunrise, sunset, or golden hour. See where the Sun will be on a map or through your camera.</p>
+          <div class="portfolio-app-actions">
+            <a href="/sunchucks/">About Sunchucks</a>
+          </div>
+        </article>
+      </div>
+    </section>
+
+    <section class="page portfolio-experience" id="experience" aria-labelledby="experience-title">
+      <h2 id="experience-title">Professional experience</h2>
+      <div>
+        <ul class="portfolio-role-list" role="list">
+          <li>
+            <h3>BeReal / Voodoo</h3>
+            <p class="portfolio-role">Senior iOS Developer</p>
+            <p>Worked on onboarding, sign-in, account recovery, and features that help people find and connect with friends.</p>
+          </li>
+          <li>
+            <h3>Listonic</h3>
+            <p class="portfolio-role">Lead iOS Developer</p>
+            <p>Led the iOS team, oversaw releases, and rebuilt shopping list sync. Also worked on Lisek.APP and Fangol.</p>
+          </li>
+          <li>
+            <h3>Galaxy Systemy Informatyczne</h3>
+            <p class="portfolio-role">Software Developer</p>
+            <p>Designed, built, and released iOS and Android apps that connected to business systems for remote print management.</p>
+          </li>
+        </ul>
+        <a class="portfolio-profile" href="https://www.linkedin.com/in/dawid-kolasi%C5%84ski-28883024b/">See my full experience on LinkedIn</a>
+      </div>
     </section>
   </main>
 
-  <footer class="site-footer">
-    <p>Copyright © Dawid Kolasiński. All rights reserved.</p>
+  <footer class="site-footer portfolio-footer">
+    <p>© Dawid Kolasiński</p>
+    <nav class="nav" aria-label="App information">
+      <a href="/support/">App support</a>
+      <a href="/privacy/">Sunchucks privacy</a>
+      <a href="/terms/">Sunchucks terms</a>
+    </nav>
   </footer>
 </body>
 </html>
